@@ -1,0 +1,5176 @@
+{
+	词典类型=1
+	忽略大小写=开
+}
+
+
+{
+	原文=Bulbasaur
+	译文=妙蛙种子
+}
+
+{
+	原文=Ivysaur
+	译文=妙蛙草
+}
+
+{
+	原文=Venusaur
+	译文=妙蛙花
+}
+
+{
+	原文=Charmander
+	译文=小火龙
+}
+
+{
+	原文=Charmeleon
+	译文=火恐龙
+}
+
+{
+	原文=Charizard
+	译文=喷火龙
+}
+
+{
+	原文=Squirtle
+	译文=杰尼龟
+}
+
+{
+	原文=Wartortle
+	译文=卡米龟
+}
+
+{
+	原文=Blastoise
+	译文=水箭龟
+}
+
+{
+	原文=Caterpie
+	译文=绿毛虫
+}
+
+{
+	原文=Metapod
+	译文=铁甲蛹
+}
+
+{
+	原文=Butterfree
+	译文=八大蝶
+}
+
+{
+	原文=Weedle
+	译文=独角虫
+}
+
+{
+	原文=Kakuna
+	译文=铁壳虫
+}
+
+{
+	原文=Beedrill
+	译文=大针蜂
+}
+
+{
+	原文=Pidgey
+	译文=波波
+}
+
+{
+	原文=Pidgeotto
+	译文=比比鸟
+}
+
+{
+	原文=Pidgeot
+	译文=比雕
+}
+
+{
+	原文=Rattata
+	译文=小拉达
+}
+
+{
+	原文=Raticate
+	译文=拉达
+}
+
+{
+	原文=Spearow
+	译文=烈鸟
+}
+
+{
+	原文=Fearow
+	译文=大嘴雀
+}
+
+{
+	原文=Ekans
+	译文=阿柏蛇
+}
+
+{
+	原文=Arbok
+	译文=阿柏怪
+}
+
+{
+	原文=Pikachu
+	译文=皮卡丘
+}
+
+{
+	原文=Raichu
+	译文=雷丘
+}
+
+{
+	原文=Sandshrew
+	译文=穿山鼠
+}
+
+{
+	原文=Sandslash
+	译文=穿山王
+}
+
+{
+	原文=Nidoran♀
+	译文=尼多尔♀
+}
+
+{
+	原文=Nidorina
+	译文=尼多娜
+}
+
+{
+	原文=Nidoqueen
+	译文=尼多后
+}
+
+{
+	原文=Nidoran♂
+	译文=尼多尔♂
+}
+
+{
+	原文=Nidorino
+	译文=尼多卡诺
+}
+
+{
+	原文=Nidoking
+	译文=尼多王
+}
+
+{
+	原文=Clefairy
+	译文=皮皮
+}
+
+{
+	原文=Clefable
+	译文=皮可西
+}
+
+{
+	原文=Vulpix
+	译文=六尾
+}
+
+{
+	原文=Ninetales
+	译文=九尾
+}
+
+{
+	原文=Jigglypuff
+	译文=胖丁
+}
+
+{
+	原文=Wigglytuff
+	译文=胖可丁
+}
+
+{
+	原文=Zubat
+	译文=超音蝠
+}
+
+{
+	原文=Golbat
+	译文=大嘴蝠
+}
+
+{
+	原文=Oddish
+	译文=走路草
+}
+
+{
+	原文=Gloom
+	译文=臭臭花
+}
+
+{
+	原文=Vileplume
+	译文=大王花
+}
+
+{
+	原文=Paras
+	译文=派拉斯
+}
+
+{
+	原文=Parasect
+	译文=派拉斯特
+}
+
+{
+	原文=Venonat
+	译文=毛球
+}
+
+{
+	原文=Venomoth
+	译文=末入蛾
+}
+
+{
+	原文=Diglett
+	译文=地鼠
+}
+
+{
+	原文=Dugtrio
+	译文=三地鼠
+}
+
+{
+	原文=Meowth
+	译文=喵喵
+}
+
+{
+	原文=Persian
+	译文=猫老大
+}
+
+{
+	原文=Psyduck
+	译文=可达鸭
+}
+
+{
+	原文=Golduck
+	译文=哥达鸭
+}
+
+{
+	原文=Mankey
+	译文=猴怪
+}
+
+{
+	原文=Primeape
+	译文=火爆猴
+}
+
+{
+	原文=Growlithe
+	译文=卡蒂狗
+}
+
+{
+	原文=Arcanine
+	译文=风速狗
+}
+
+{
+	原文=Poliwag
+	译文=蚊香蝌蚪
+}
+
+{
+	原文=Poliwhirl
+	译文=蚊香蛙
+}
+
+{
+	原文=Poliwrath
+	译文=快泳蛙
+}
+
+{
+	原文=Abra
+	译文=凯西
+}
+
+{
+	原文=Kadabra
+	译文=勇吉拉
+}
+
+{
+	原文=Alakazam
+	译文=胡地
+}
+
+{
+	原文=Machop
+	译文=腕力
+}
+
+{
+	原文=Machoke
+	译文=豪力
+}
+
+{
+	原文=Machamp
+	译文=怪力
+}
+
+{
+	原文=Bellsprout
+	译文=喇叭芽
+}
+
+{
+	原文=Weepinbell
+	译文=口袋花
+}
+
+{
+	原文=Victreebel
+	译文=大食花
+}
+
+{
+	原文=Tentacool
+	译文=玛瑙水母
+}
+
+{
+	原文=Tentacruel
+	译文=毒刺水母
+}
+
+{
+	原文=Geodude
+	译文=小拳石
+}
+
+{
+	原文=Graveler
+	译文=隆隆石
+}
+
+{
+	原文=Golem
+	译文=隆隆岩
+}
+
+{
+	原文=Ponyta
+	译文=小火马
+}
+
+{
+	原文=Rapidash
+	译文=烈焰马
+}
+
+{
+	原文=Slowpoke
+	译文=呆呆兽
+}
+
+{
+	原文=Slowbro
+	译文=呆河马
+}
+
+{
+	原文=Magnemite
+	译文=小磁怪
+}
+
+{
+	原文=Magneton
+	译文=三磁怪
+}
+
+{
+	原文=Farfetch’d
+	译文=大葱鸭
+}
+
+{
+	原文=Doduo
+	译文=多多
+}
+
+{
+	原文=Dodrio
+	译文=多多利
+}
+
+{
+	原文=Seel
+	译文=小海狮
+}
+
+{
+	原文=Dewgong
+	译文=白海狮
+}
+
+{
+	原文=Grimer
+	译文=臭泥
+}
+
+{
+	原文=Muk
+	译文=臭臭泥
+}
+
+{
+	原文=Shellder
+	译文=大舌贝
+}
+
+{
+	原文=Cloyster
+	译文=铁甲贝
+}
+
+{
+	原文=Gastly
+	译文=高斯
+}
+
+{
+	原文=Haunter
+	译文=高斯通
+}
+
+{
+	原文=Gengar
+	译文=耿鬼
+}
+
+{
+	原文=Onix
+	译文=大岩蛇
+}
+
+{
+	原文=Drowzee
+	译文=素利普
+}
+
+{
+	原文=Hypno
+	译文=素利柏
+}
+
+{
+	原文=Krabby
+	译文=螃蟹
+}
+
+{
+	原文=Kingler
+	译文=巨钳蟹
+}
+
+{
+	原文=Voltorb
+	译文=雷电球
+}
+
+{
+	原文=Electrode
+	译文=顽皮弹
+}
+
+{
+	原文=Exeggcute
+	译文=蛋蛋
+}
+
+{
+	原文=Exeggutor
+	译文=椰蛋树
+}
+
+{
+	原文=Cubone
+	译文=可拉
+}
+
+{
+	原文=Marowak
+	译文=可拉可拉
+}
+
+{
+	原文=Hitmonlee
+	译文=沙瓦郎
+}
+
+{
+	原文=Hitmonchan
+	译文=艾比郎
+}
+
+{
+	原文=Lickitung
+	译文=大舌头
+}
+
+{
+	原文=Koffing
+	译文=瓦斯弹
+}
+
+{
+	原文=Weezing
+	译文=双弹瓦斯
+}
+
+{
+	原文=Rhyhorn
+	译文=铁甲犀牛
+}
+
+{
+	原文=Rhydon
+	译文=铁甲暴龙
+}
+
+{
+	原文=Chansey
+	译文=吉利蛋
+}
+
+{
+	原文=Tangela
+	译文=蔓藤怪
+}
+
+{
+	原文=Kangaskhan
+	译文=袋龙
+}
+
+{
+	原文=Horsea
+	译文=墨海马
+}
+
+{
+	原文=Seadra
+	译文=海刺龙
+}
+
+{
+	原文=Goldeen
+	译文=角金鱼
+}
+
+{
+	原文=Seaking
+	译文=金鱼王
+}
+
+{
+	原文=Staryu
+	译文=海星星
+}
+
+{
+	原文=Starmie
+	译文=宝石海星
+}
+
+{
+	原文=Mr. Mime
+	译文=魔偶
+}
+
+{
+	原文=Scyther
+	译文=螳螂
+}
+
+{
+	原文=Jynx
+	译文=迷唇姐
+}
+
+{
+	原文=Electabuzz
+	译文=电击兽
+}
+
+{
+	原文=Magmar
+	译文=鸭嘴龙
+}
+
+{
+	原文=Pinsir
+	译文=大甲
+}
+
+{
+	原文=Tauros
+	译文=肯泰罗
+}
+
+{
+	原文=Magikarp
+	译文=鲤鱼王
+}
+
+{
+	原文=Gyarados
+	译文=暴鲤龙
+}
+
+{
+	原文=Lapras
+	译文=乘龙
+}
+
+{
+	原文=Ditto
+	译文=百变怪
+}
+
+{
+	原文=Eevee
+	译文=伊布
+}
+
+{
+	原文=Vaporeon
+	译文=水怪兽
+}
+
+{
+	原文=Jolteon
+	译文=雷怪兽
+}
+
+{
+	原文=Flareon
+	译文=火怪兽
+}
+
+{
+	原文=Porygon
+	译文=三地龙
+}
+
+{
+	原文=Omanyte
+	译文=菊石兽
+}
+
+{
+	原文=Omastar
+	译文=菊石龙
+}
+
+{
+	原文=Kabuto
+	译文=化石盔
+}
+
+{
+	原文=Kabutops
+	译文=镰刀盔
+}
+
+{
+	原文=Aerodactyl
+	译文=石翼龙
+}
+
+{
+	原文=Snorlax
+	译文=卡比兽
+}
+
+{
+	原文=Articuno
+	译文=急冻鸟
+}
+
+{
+	原文=Zapdos
+	译文=闪电鸟
+}
+
+{
+	原文=Moltres
+	译文=火焰鸟
+}
+
+{
+	原文=Dratini
+	译文=迷你龙
+}
+
+{
+	原文=Dragonair
+	译文=哈克龙
+}
+
+{
+	原文=Dragonite
+	译文=快龙
+}
+
+{
+	原文=Mewtwo
+	译文=超梦
+}
+
+{
+	原文=Mew
+	译文=梦幻
+}
+
+{
+	原文=Chikorita
+	译文=奇科利
+}
+
+{
+	原文=Bayleef
+	译文=花兽
+}
+
+{
+	原文=Meganium
+	译文=巨花兽
+}
+
+{
+	原文=Cyndaquil
+	译文=火之岚
+}
+
+{
+	原文=Quilava
+	译文=焰之岚
+}
+
+{
+	原文=Typhlosion
+	译文=烈炎兽
+}
+
+{
+	原文=Totodile
+	译文=鳄鱼
+}
+
+{
+	原文=Croconaw
+	译文=原始鳄
+}
+
+{
+	原文=Feraligatr
+	译文=怪力鳄
+}
+
+{
+	原文=Sentret
+	译文=长尾兽
+}
+
+{
+	原文=Furret
+	译文=大尾兽
+}
+
+{
+	原文=Hoothoot
+	译文=小猫鹰
+}
+
+{
+	原文=Noctowl
+	译文=猫头鹰
+}
+
+{
+	原文=Ledyba
+	译文=金龟虫
+}
+
+{
+	原文=Ledian
+	译文=昆虫兽
+}
+
+{
+	原文=Spinarak
+	译文=独角蛛
+}
+
+{
+	原文=Ariados
+	译文=大角蛛
+}
+
+{
+	原文=Crobat
+	译文=双翼蝠
+}
+
+{
+	原文=Chinchou
+	译文=双灯鱼
+}
+
+{
+	原文=Lanturn
+	译文=大双灯鱼
+}
+
+{
+	原文=Pichu
+	译文=皮丘
+}
+
+{
+	原文=Cleffa
+	译文=皮皮
+}
+
+{
+	原文=Igglybuff
+	译文=布布林
+}
+
+{
+	原文=Togepi
+	译文=波可比
+}
+
+{
+	原文=Togetic
+	译文=飞翼兽
+}
+
+{
+	原文=Natu
+	译文=玩偶鸟
+}
+
+{
+	原文=Xatu
+	译文=预言鸟
+}
+
+{
+	原文=Mareep
+	译文=小绵羊
+}
+
+{
+	原文=Flaaffy
+	译文=绵羊
+}
+
+{
+	原文=Ampharos
+	译文=天龙
+}
+
+{
+	原文=Bellossom
+	译文=美丽花
+}
+
+{
+	原文=Marill
+	译文=水鼠
+}
+
+{
+	原文=Azumarill
+	译文=大水鼠
+}
+
+{
+	原文=Sudowoodo
+	译文=假树
+}
+
+{
+	原文=Politoed
+	译文=大水蛙
+}
+
+{
+	原文=Hoppip
+	译文=叶草
+}
+
+{
+	原文=Skiploom
+	译文=花兽
+}
+
+{
+	原文=Jumpluff
+	译文=飘花兽
+}
+
+{
+	原文=Aipom
+	译文=强尾兽
+}
+
+{
+	原文=Sunkern
+	译文=草种籽
+}
+
+{
+	原文=Sunflora
+	译文=太阳花
+}
+
+{
+	原文=Yanma
+	译文=花羽蜓
+}
+
+{
+	原文=Wooper
+	译文=小花怪
+}
+
+{
+	原文=Quagsire
+	译文=呆呆龙
+}
+
+{
+	原文=Espeon
+	译文=双尾狐
+}
+
+{
+	原文=Umbreon
+	译文=纹兽
+}
+
+{
+	原文=Murkrow
+	译文=黑羽鸟
+}
+
+{
+	原文=Slowking
+	译文=河马王
+}
+
+{
+	原文=Misdreavus
+	译文=火炎兽
+}
+
+{
+	原文=Unown
+	译文=安兽
+}
+
+{
+	原文=Wobbuffet
+	译文=忍耐兽
+}
+
+{
+	原文=Girafarig
+	译文=双身兽
+}
+
+{
+	原文=Pineco
+	译文=松果兽
+}
+
+{
+	原文=Forretress
+	译文=核果兽
+}
+
+{
+	原文=Dunsparce
+	译文=土龙
+}
+
+{
+	原文=Gligar
+	译文=螃蟹虫
+}
+
+{
+	原文=Steelix
+	译文=超硬虫
+}
+
+{
+	原文=Snubbull
+	译文=布鲁
+}
+
+{
+	原文=Granbull
+	译文=大布鲁
+}
+
+{
+	原文=Qwilfish
+	译文=河豚
+}
+
+{
+	原文=Scizor
+	译文=哈兽
+}
+
+{
+	原文=Shuckle
+	译文=拉石兽
+}
+
+{
+	原文=Heracross
+	译文=甲虫兽
+}
+
+{
+	原文=Sneasel
+	译文=三尾兽
+}
+
+{
+	原文=Teddiursa
+	译文=小熊
+}
+
+{
+	原文=Ursaring
+	译文=大熊
+}
+
+{
+	原文=Slugma
+	译文=小蜗牛
+}
+
+{
+	原文=Magcargo
+	译文=蜗牛
+}
+
+{
+	原文=Swinub
+	译文=小猪怪
+}
+
+{
+	原文=Piloswine
+	译文=长毛猪
+}
+
+{
+	原文=Corsola
+	译文=赛尼
+}
+
+{
+	原文=Remoraid
+	译文=怪蛙
+}
+
+{
+	原文=Octillery
+	译文=乌贼
+}
+
+{
+	原文=Delibird
+	译文=企鹅
+}
+
+{
+	原文=Mantine
+	译文=鱼怪
+}
+
+{
+	原文=Skarmory
+	译文=巨鸟
+}
+
+{
+	原文=Houndour
+	译文=暗犬
+}
+
+{
+	原文=Houndoom
+	译文=恶魔兽
+}
+
+{
+	原文=Kingdra
+	译文=海马龙
+}
+
+{
+	原文=Phanpy
+	译文=短脚象
+}
+
+{
+	原文=Donphan
+	译文=轮子象
+}
+
+{
+	原文=Porygon2
+	译文=三地龙2
+}
+
+{
+	原文=Stantler
+	译文=小尾鹿
+}
+
+{
+	原文=Smeargle
+	译文=画犬
+}
+
+{
+	原文=Tyrogue
+	译文=巴拉兽
+}
+
+{
+	原文=Hitmontop
+	译文=卡波拉
+}
+
+{
+	原文=Smoochum
+	译文=大眼蛙
+}
+
+{
+	原文=Elekid
+	译文=电力兽
+}
+
+{
+	原文=Magby
+	译文=吐火兽
+}
+
+{
+	原文=Miltank
+	译文=巨奶牛
+}
+
+{
+	原文=Blissey
+	译文=快乐兽
+}
+
+{
+	原文=Raikou
+	译文=来雷兽
+}
+
+{
+	原文=Entei
+	译文=大地兽
+}
+
+{
+	原文=Suicune
+	译文=仙兽
+}
+
+{
+	原文=Larvitar
+	译文=幼甲兽
+}
+
+{
+	原文=Pupitar
+	译文=小甲兽
+}
+
+{
+	原文=Tyranitar
+	译文=巨大甲兽
+}
+
+{
+	原文=Lugia
+	译文=魔幻兽
+}
+
+{
+	原文=Ho-Oh
+	译文=金凤
+}
+
+{
+	原文=Celebi
+	译文=火风
+}
+
+{
+	原文=Treecko
+	译文=青蛙
+}
+
+{
+	原文=Grovyle
+	译文=牛蛙
+}
+
+{
+	原文=Sceptile
+	译文=怪蛙
+}
+
+{
+	原文=Torchic
+	译文=火鸟
+}
+
+{
+	原文=Combusken
+	译文=飞速鸟
+}
+
+{
+	原文=Blaziken
+	译文=超级鸟
+}
+
+{
+	原文=Mudkip
+	译文=水精灵
+}
+
+{
+	原文=Marshtomp
+	译文=精灵怪
+}
+
+{
+	原文=Swampert
+	译文=超精灵
+}
+
+{
+	原文=Poochyena
+	译文=皮皮犬
+}
+
+{
+	原文=Mightyena
+	译文=黑毛犬
+}
+
+{
+	原文=Zigzagoon
+	译文=针鼠
+}
+
+{
+	原文=Linoone
+	译文=大飞鼠
+}
+
+{
+	原文=Wurmple
+	译文=树皮虫
+}
+
+{
+	原文=Silcoon
+	译文=小白虫
+}
+
+{
+	原文=Beautifly
+	译文=黄蝶
+}
+
+{
+	原文=Cascoon
+	译文=小粉虫
+}
+
+{
+	原文=Dustox
+	译文=花蝶
+}
+
+{
+	原文=Lotad
+	译文=顶叶兽
+}
+
+{
+	原文=Lombre
+	译文=轻叶兽
+}
+
+{
+	原文=Ludicolo
+	译文=奇顶兽
+}
+
+{
+	原文=Seedot
+	译文=种子怪
+}
+
+{
+	原文=Nuzleaf
+	译文=芽怪
+}
+
+{
+	原文=Shiftry
+	译文=奇力怪
+}
+
+{
+	原文=Taillow
+	译文=麻雀
+}
+
+{
+	原文=Swellow
+	译文=大麻燕
+}
+
+{
+	原文=Wingull
+	译文=海鸥
+}
+
+{
+	原文=Pelipper
+	译文=食鱼鸟
+}
+
+{
+	原文=Ralts
+	译文=感知兽
+}
+
+{
+	原文=Kirlia
+	译文=神知兽
+}
+
+{
+	原文=Gardevoir
+	译文=沙夜兽
+}
+
+{
+	原文=Surskit
+	译文=水蛛怪
+}
+
+{
+	原文=Masquerain
+	译文=巨蛛怪
+}
+
+{
+	原文=Shroomish
+	译文=木果兽
+}
+
+{
+	原文=Breloom
+	译文=木生兽
+}
+
+{
+	原文=Slakoth
+	译文=食叶兽
+}
+
+{
+	原文=Vigoroth
+	译文=狂猴
+}
+
+{
+	原文=Slaking
+	译文=巨猛怪
+}
+
+{
+	原文=Nincada
+	译文=钻地虫
+}
+
+{
+	原文=Ninjask
+	译文=双翅蜂
+}
+
+{
+	原文=Shedinja
+	译文=毒蜂
+}
+
+{
+	原文=Whismur
+	译文=小奇奇
+}
+
+{
+	原文=Loudred
+	译文=高木兽
+}
+
+{
+	原文=Exploud
+	译文=巴林
+}
+
+{
+	原文=Makuhita
+	译文=笑熊
+}
+
+{
+	原文=Hariyama
+	译文=大熊怪
+}
+
+{
+	原文=Azurill
+	译文=利利鼠
+}
+
+{
+	原文=Nosepass
+	译文=力行怪
+}
+
+{
+	原文=Skitty
+	译文=小松鼠
+}
+
+{
+	原文=Delcatty
+	译文=大松鼠
+}
+
+{
+	原文=Sableye
+	译文=亚米拉
+}
+
+{
+	原文=Mawile
+	译文=古吉特
+}
+
+{
+	原文=Aron
+	译文=小小龙
+}
+
+{
+	原文=Lairon
+	译文=小龙
+}
+
+{
+	原文=Aggron
+	译文=狂暴龙
+}
+
+{
+	原文=Meditite
+	译文=冥思兽
+}
+
+{
+	原文=Medicham
+	译文=佳雷木
+}
+
+{
+	原文=Electrike
+	译文=电光怪
+}
+
+{
+	原文=Manectric
+	译文=雷电兽
+}
+
+{
+	原文=Plusle
+	译文=拉斯鲁
+}
+
+{
+	原文=Minun
+	译文=麦伊
+}
+
+{
+	原文=Volbeat
+	译文=奇力
+}
+
+{
+	原文=Illumise
+	译文=金刚兽
+}
+
+{
+	原文=Roselia
+	译文=利安兽
+}
+
+{
+	原文=Gulpin
+	译文=库林怪
+}
+
+{
+	原文=Swalot
+	译文=玛奇怪
+}
+
+{
+	原文=Carvanha
+	译文=巴尼亚
+}
+
+{
+	原文=Sharpedo
+	译文=尼亚兽
+}
+
+{
+	原文=Wailmer
+	译文=皮皮鲸
+}
+
+{
+	原文=Wailord
+	译文=巨鲸
+}
+
+{
+	原文=Numel
+	译文=泥奇怪
+}
+
+{
+	原文=Camerupt
+	译文=巴库兽
+}
+
+{
+	原文=Torkoal
+	译文=库斯怪
+}
+
+{
+	原文=Spoink
+	译文=弹弹怪
+}
+
+{
+	原文=Grumpig
+	译文=夫斯怪
+}
+
+{
+	原文=Spinda
+	译文=比奇熊
+}
+
+{
+	原文=Trapinch
+	译文=大头怪
+}
+
+{
+	原文=Vibrava
+	译文=巴比兽
+}
+
+{
+	原文=Flygon
+	译文=来伊兽
+}
+
+{
+	原文=Cacnea
+	译文=沙漠兽
+}
+
+{
+	原文=Cacturne
+	译文=尼库斯
+}
+
+{
+	原文=Swablu
+	译文=云雀
+}
+
+{
+	原文=Altaria
+	译文=大云雀
+}
+
+{
+	原文=Zangoose
+	译文=雪鼠
+}
+
+{
+	原文=Seviper
+	译文=哈奇蛇
+}
+
+{
+	原文=Lunatone
+	译文=月牙兽
+}
+
+{
+	原文=Solrock
+	译文=太阳花
+}
+
+{
+	原文=Barboach
+	译文=泥秋
+}
+
+{
+	原文=Whiscash
+	译文=龙秋
+}
+
+{
+	原文=Corphish
+	译文=奇亚蟹
+}
+
+{
+	原文=Crawdaunt
+	译文=大利蟹
+}
+
+{
+	原文=Baltoy
+	译文=古生兽
+}
+
+{
+	原文=Claydol
+	译文=古洞兽
+}
+
+{
+	原文=Lileep
+	译文=利利拉
+}
+
+{
+	原文=Cradily
+	译文=伊道利
+}
+
+{
+	原文=Anorith
+	译文=蝎子
+}
+
+{
+	原文=Armaldo
+	译文=真知兽
+}
+
+{
+	原文=Feebas
+	译文=大黄鱼
+}
+
+{
+	原文=Milotic
+	译文=美蛇兽
+}
+
+{
+	原文=Castform
+	译文=小电怪
+}
+
+{
+	原文=Kecleon
+	译文=变色兽
+}
+
+{
+	原文=Shuppet
+	译文=风偶人
+}
+
+{
+	原文=Banette
+	译文=小风暴
+}
+
+{
+	原文=Duskull
+	译文=钻墙怪
+}
+
+{
+	原文=Dusclops
+	译文=沙玛鲁
+}
+
+{
+	原文=Tropius
+	译文=长脖龙
+}
+
+{
+	原文=Chimecho
+	译文=石牙兽
+}
+
+{
+	原文=Absol
+	译文=灾兽
+}
+
+{
+	原文=Wynaut
+	译文=快乐兽
+}
+
+{
+	原文=Snorunt
+	译文=雪纪兽
+}
+
+{
+	原文=Glalie
+	译文=尼古利兽
+}
+
+{
+	原文=Spheal
+	译文=牙豹
+}
+
+{
+	原文=Sealeo
+	译文=海豹
+}
+
+{
+	原文=Walrein
+	译文=狂豹
+}
+
+{
+	原文=Clamperl
+	译文=海贝
+}
+
+{
+	原文=Huntail
+	译文=石子贝
+}
+
+{
+	原文=Gorebyss
+	译文=比贝兽
+}
+
+{
+	原文=Relicanth
+	译文=花刺
+}
+
+{
+	原文=Luvdisc
+	译文=幼生兽
+}
+
+{
+	原文=Bagon
+	译文=达吉马
+}
+
+{
+	原文=Shelgon
+	译文=高毛利
+}
+
+{
+	原文=Salamence
+	译文=马达怪
+}
+
+{
+	原文=Beldum
+	译文=蛋蛋怪
+}
+
+{
+	原文=Metang
+	译文=风木兽
+}
+
+{
+	原文=Metagross
+	译文=彩石怪
+}
+
+{
+	原文=Regirock
+	译文=雷兽
+}
+
+{
+	原文=Regice
+	译文=土雷兽
+}
+
+{
+	原文=Registeel
+	译文=天雷兽
+}
+
+{
+	原文=Latias
+	译文=木皮怪
+}
+
+{
+	原文=Latios
+	译文=雄奇怪
+}
+
+{
+	原文=Kyogre
+	译文=奇奇兽
+}
+
+{
+	原文=Groudon
+	译文=古拉怪
+}
+
+{
+	原文=Rayquaza
+	译文=木木怪
+}
+
+{
+	原文=Jirachi
+	译文=月映兽
+}
+
+{
+	原文=Deoxys
+	译文=拉奇
+}
+
+{
+	原文=Turtwig
+	译文=草苗龟
+}
+
+{
+	原文=Grotle
+	译文=树林龟
+}
+
+{
+	原文=Torterra
+	译文=土台龟
+}
+
+{
+	原文=Chimchar
+	译文=小火焰猴
+}
+
+{
+	原文=Monferno
+	译文=猛火猴
+}
+
+{
+	原文=Infernape
+	译文=烈焰猴
+}
+
+{
+	原文=Piplup
+	译文=波加曼
+}
+
+{
+	原文=Prinplup
+	译文=波皇子
+}
+
+{
+	原文=Empoleon
+	译文=帝王拿波
+}
+
+{
+	原文=Starly
+	译文=姆克儿
+}
+
+{
+	原文=Staravia
+	译文=姆克鸟
+}
+
+{
+	原文=Staraptor
+	译文=姆克鹰
+}
+
+{
+	原文=Bidoof
+	译文=大牙狸
+}
+
+{
+	原文=Bibarel
+	译文=大尾狸
+}
+
+{
+	原文=Kricketot
+	译文=圆法师
+}
+
+{
+	原文=Kricketune
+	译文=音箱蟀
+}
+
+{
+	原文=Shinx
+	译文=小猫怪
+}
+
+{
+	原文=Luxio
+	译文=勒克猫
+}
+
+{
+	原文=Luxray
+	译文=伦琴猫
+}
+
+{
+	原文=Budew
+	译文=含羞苞
+}
+
+{
+	原文=Roserade
+	译文=罗丝雷朵
+}
+
+{
+	原文=Cranidos
+	译文=头盖龙
+}
+
+{
+	原文=Rampardos
+	译文=战槌龙
+}
+
+{
+	原文=Shieldon
+	译文=盾甲龙
+}
+
+{
+	原文=Bastiodon
+	译文=护城龙
+}
+
+{
+	原文=Burmy
+	译文=结草儿
+}
+
+{
+	原文=Wormadam
+	译文=结草贵妇
+}
+
+{
+	原文=Mothim
+	译文=绅士蛾
+}
+
+{
+	原文=Combee
+	译文=三蜜蜂
+}
+
+{
+	原文=Vespiquen
+	译文=蜂女王
+}
+
+{
+	原文=Pachirisu
+	译文=帕奇利兹
+}
+
+{
+	原文=Buizel
+	译文=泳圈鼬
+}
+
+{
+	原文=Floatzel
+	译文=浮潜鼬
+}
+
+{
+	原文=Cherubi
+	译文=樱花宝
+}
+
+{
+	原文=Cherrim
+	译文=樱花儿
+}
+
+{
+	原文=Shellos
+	译文=无壳海兔
+}
+
+{
+	原文=Gastrodon
+	译文=海兔兽
+}
+
+{
+	原文=Ambipom
+	译文=双尾怪手
+}
+
+{
+	原文=Drifloon
+	译文=飘飘球
+}
+
+{
+	原文=Drifblim
+	译文=随风球
+}
+
+{
+	原文=Buneary
+	译文=卷卷耳
+}
+
+{
+	原文=Lopunny
+	译文=长耳兔
+}
+
+{
+	原文=Mismagius
+	译文=梦妖魔
+}
+
+{
+	原文=Honchkrow
+	译文=乌鸦头头
+}
+
+{
+	原文=Glameow
+	译文=魅力喵
+}
+
+{
+	原文=Purugly
+	译文=东施喵
+}
+
+{
+	原文=Chingling
+	译文=铃铛响
+}
+
+{
+	原文=Stunky
+	译文=臭鼬噗
+}
+
+{
+	原文=Skuntank
+	译文=坦克臭鼬
+}
+
+{
+	原文=Bronzor
+	译文=铜镜怪
+}
+
+{
+	原文=Bronzong
+	译文=青铜钟
+}
+
+{
+	原文=Bonsly
+	译文=盆才怪
+}
+
+{
+	原文=Mime Jr.
+	译文=魔尼尼
+}
+
+{
+	原文=Happiny
+	译文=小福蛋
+}
+
+{
+	原文=Chatot
+	译文=聒噪鸟
+}
+
+{
+	原文=Spiritomb
+	译文=花岩怪
+}
+
+{
+	原文=Gible
+	译文=圆陆鲨
+}
+
+{
+	原文=Gabite
+	译文=尖牙陆鲨
+}
+
+{
+	原文=Garchomp
+	译文=烈咬陆鲨
+}
+
+{
+	原文=Munchlax
+	译文=小卡比兽
+}
+
+{
+	原文=Riolu
+	译文=利欧路
+}
+
+{
+	原文=Lucario
+	译文=路卡利欧
+}
+
+{
+	原文=Hippopotas
+	译文=沙河马
+}
+
+{
+	原文=Hippowdon
+	译文=河马兽
+}
+
+{
+	原文=Skorupi
+	译文=钳尾蝎
+}
+
+{
+	原文=Drapion
+	译文=龙王蝎
+}
+
+{
+	原文=Croagunk
+	译文=不良蛙
+}
+
+{
+	原文=Toxicroak
+	译文=毒骷蛙
+}
+
+{
+	原文=Carnivine
+	译文=尖牙笼
+}
+
+{
+	原文=Finneon
+	译文=荧光鱼
+}
+
+{
+	原文=Lumineon
+	译文=霓虹鱼
+}
+
+{
+	原文=Mantyke
+	译文=小球飞鱼
+}
+
+{
+	原文=Snover
+	译文=雪笠怪
+}
+
+{
+	原文=Abomasnow
+	译文=暴雪王
+}
+
+{
+	原文=Weavile
+	译文=玛狃拉
+}
+
+{
+	原文=Magnezone
+	译文=自爆磁怪
+}
+
+{
+	原文=Lickilicky
+	译文=大舌舔
+}
+
+{
+	原文=Rhyperior
+	译文=超甲狂犀
+}
+
+{
+	原文=Tangrowth
+	译文=巨蔓藤
+}
+
+{
+	原文=Electivire
+	译文=电击魔兽
+}
+
+{
+	原文=Magmortar
+	译文=鸭嘴炎兽
+}
+
+{
+	原文=Togekiss
+	译文=波克基斯
+}
+
+{
+	原文=Yanmega
+	译文=远古巨蜓
+}
+
+{
+	原文=Leafeon
+	译文=叶伊布
+}
+
+{
+	原文=Glaceon
+	译文=冰伊布
+}
+
+{
+	原文=Gliscor
+	译文=天蝎王
+}
+
+{
+	原文=Mamoswine
+	译文=象牙猪
+}
+
+{
+	原文=Porygon-Z
+	译文=多边兽乙型
+}
+
+{
+	原文=Gallade
+	译文=艾路雷朵
+}
+
+{
+	原文=Probopass
+	译文=大朝北鼻
+}
+
+{
+	原文=Dusknoir
+	译文=黑夜魔灵
+}
+
+{
+	原文=Froslass
+	译文=雪妖女
+}
+
+{
+	原文=Rotom
+	译文=洛托姆
+}
+
+{
+	原文=Uxie
+	译文=由克希
+}
+
+{
+	原文=Mesprit
+	译文=艾姆利多
+}
+
+{
+	原文=Azelf
+	译文=亚克诺姆
+}
+
+{
+	原文=Dialga
+	译文=帝牙卢卡
+}
+
+{
+	原文=Palkia
+	译文=帕路奇亚
+}
+
+{
+	原文=Heatran
+	译文=席多蓝恩
+}
+
+{
+	原文=Regigigas
+	译文=雷吉奇卡斯
+}
+
+{
+	原文=Giratina
+	译文=骑拉帝纳
+}
+
+{
+	原文=Cresselia
+	译文=克雷色利亚
+}
+
+{
+	原文=Phione
+	译文=霏欧纳
+}
+
+{
+	原文=Manaphy
+	译文=玛纳霏
+}
+
+{
+	原文=Darkrai
+	译文=达克莱伊
+}
+
+{
+	原文=Shaymin
+	译文=谢米
+}
+
+{
+	原文=Arceus
+	译文=阿尔宙斯
+}
+
+{
+	原文=Victini
+	译文=比克提尼
+}
+
+{
+	原文=Snivy
+	译文=藤藤蛇
+}
+
+{
+	原文=Servine
+	译文=青藤蛇
+}
+
+{
+	原文=Serperior
+	译文=君主蛇
+}
+
+{
+	原文=Tepig
+	译文=暖暖猪
+}
+
+{
+	原文=Pignite
+	译文=炒炒猪
+}
+
+{
+	原文=Emboar
+	译文=炎武王
+}
+
+{
+	原文=Oshawott
+	译文=水水獭
+}
+
+{
+	原文=Dewott
+	译文=双刃丸
+}
+
+{
+	原文=Samurott
+	译文=大剑鬼
+}
+
+{
+	原文=Patrat
+	译文=探探鼠
+}
+
+{
+	原文=Watchog
+	译文=步哨鼠
+}
+
+{
+	原文=Lillipup
+	译文=小约克
+}
+
+{
+	原文=Herdier
+	译文=哈约克
+}
+
+{
+	原文=Stoutland
+	译文=长毛狗
+}
+
+{
+	原文=Purrloin
+	译文=扒手猫
+}
+
+{
+	原文=Liepard
+	译文=酷豹
+}
+
+{
+	原文=Pansage
+	译文=花椰猴
+}
+
+{
+	原文=Simisage
+	译文=花椰猿
+}
+
+{
+	原文=Pansear
+	译文=爆香猴
+}
+
+{
+	原文=Simisear
+	译文=爆香猿
+}
+
+{
+	原文=Panpour
+	译文=冷水猴
+}
+
+{
+	原文=Simipour
+	译文=冷水猿
+}
+
+{
+	原文=Munna
+	译文=食梦梦
+}
+
+{
+	原文=Musharna
+	译文=梦梦蚀
+}
+
+{
+	原文=Pidove
+	译文=豆豆鸽
+}
+
+{
+	原文=Tranquill
+	译文=咕咕鸽
+}
+
+{
+	原文=Unfezant
+	译文=高傲雉鸡
+}
+
+{
+	原文=Blitzle
+	译文=斑斑马
+}
+
+{
+	原文=Zebstrika
+	译文=雷电斑马
+}
+
+{
+	原文=Roggenrola
+	译文=石丸子
+}
+
+{
+	原文=Boldore
+	译文=地幔岩
+}
+
+{
+	原文=Gigalith
+	译文=庞岩怪
+}
+
+{
+	原文=Woobat
+	译文=滚滚蝙蝠
+}
+
+{
+	原文=Swoobat
+	译文=心蝙蝠
+}
+
+{
+	原文=Drilbur
+	译文=螺钉地鼠
+}
+
+{
+	原文=Excadrill
+	译文=龙头地鼠
+}
+
+{
+	原文=Audino
+	译文=差不多娃娃
+}
+
+{
+	原文=Timburr
+	译文=搬运小匠
+}
+
+{
+	原文=Gurdurr
+	译文=铁骨土人
+}
+
+{
+	原文=Conkeldurr
+	译文=修建老匠
+}
+
+{
+	原文=Tympole
+	译文=圆蝌蚪
+}
+
+{
+	原文=Palpitoad
+	译文=蓝蟾蜍
+}
+
+{
+	原文=Seismitoad
+	译文=蟾蜍王
+}
+
+{
+	原文=Throh
+	译文=投摔鬼
+}
+
+{
+	原文=Sawk
+	译文=打击鬼
+}
+
+{
+	原文=Sewaddle
+	译文=虫宝包
+}
+
+{
+	原文=Swadloon
+	译文=宝包茧
+}
+
+{
+	原文=Leavanny
+	译文=保姆虫
+}
+
+{
+	原文=Venipede
+	译文=百足蜈蚣
+}
+
+{
+	原文=Whirlipede
+	译文=车轮球
+}
+
+{
+	原文=Scolipede
+	译文=蜈蚣王
+}
+
+{
+	原文=Cottonee
+	译文=木棉球
+}
+
+{
+	原文=Whimsicott
+	译文=风妖精
+}
+
+{
+	原文=Petilil
+	译文=百合根娃娃
+}
+
+{
+	原文=Lilligant
+	译文=裙儿小姐
+}
+
+{
+	原文=Lilligant
+	译文=裙儿小姐
+}
+
+{
+	原文=null
+	译文=洗翠的样子
+}
+
+{
+	原文=Basculin
+	译文=野蛮鲈鱼
+}
+
+{
+	原文=Basculin
+	译文=野蛮鲈鱼
+}
+
+{
+	原文=null
+	译文=白条纹的样子
+}
+
+{
+	原文=Sandile
+	译文=黑眼鳄
+}
+
+{
+	原文=Krokorok
+	译文=混混鳄
+}
+
+{
+	原文=Krookodile
+	译文=流氓鳄
+}
+
+{
+	原文=Darumaka
+	译文=火红不倒翁
+}
+
+{
+	原文=Darumaka
+	译文=火红不倒翁
+}
+
+{
+	原文=null
+	译文=伽勒尔的样子
+}
+
+{
+	原文=Darmanitan
+	译文=达摩狒狒
+}
+
+{
+	原文=Darmanitan
+	译文=达摩狒狒
+}
+
+{
+	原文=null
+	译文=伽勒尔的样子
+}
+
+{
+	原文=Maractus
+	译文=沙铃仙人掌
+}
+
+{
+	原文=Dwebble
+	译文=石居蟹
+}
+
+{
+	原文=Crustle
+	译文=岩殿居蟹
+}
+
+{
+	原文=Scraggy
+	译文=滑滑小子
+}
+
+{
+	原文=Scrafty
+	译文=头巾混混
+}
+
+{
+	原文=Sigilyph
+	译文=象征鸟
+}
+
+{
+	原文=Yamask
+	译文=哭哭面具
+}
+
+{
+	原文=Yamask
+	译文=哭哭面具
+}
+
+{
+	原文=null
+	译文=伽勒尔的样子
+}
+
+{
+	原文=Cofagrigus
+	译文=迭失棺
+}
+
+{
+	原文=Tirtouga
+	译文=原盖海龟
+}
+
+{
+	原文=Carracosta
+	译文=肋骨海龟
+}
+
+{
+	原文=Archen
+	译文=始祖小鸟
+}
+
+{
+	原文=Archeops
+	译文=始祖大鸟
+}
+
+{
+	原文=Trubbish
+	译文=破破袋
+}
+
+{
+	原文=Garbodor
+	译文=灰尘山
+}
+
+{
+	原文=Zorua
+	译文=索罗亚
+}
+
+{
+	原文=Zorua
+	译文=索罗亚
+}
+
+{
+	原文=null
+	译文=洗翠的样子
+}
+
+{
+	原文=Zoroark
+	译文=索罗亚克
+}
+
+{
+	原文=Zoroark
+	译文=索罗亚克
+}
+
+{
+	原文=null
+	译文=洗翠的样子
+}
+
+{
+	原文=Minccino
+	译文=泡沫栗鼠
+}
+
+{
+	原文=Cinccino
+	译文=奇诺栗鼠
+}
+
+{
+	原文=Gothita
+	译文=哥德宝宝
+}
+
+{
+	原文=Gothorita
+	译文=哥德小童
+}
+
+{
+	原文=Gothitelle
+	译文=哥德小姐
+}
+
+{
+	原文=Solosis
+	译文=单卵细胞球
+}
+
+{
+	原文=Duosion
+	译文=双卵细胞球
+}
+
+{
+	原文=Reuniclus
+	译文=人造细胞卵
+}
+
+{
+	原文=Ducklett
+	译文=鸭宝宝
+}
+
+{
+	原文=Swanna
+	译文=舞天鹅
+}
+
+{
+	原文=Vanillite
+	译文=迷你冰
+}
+
+{
+	原文=Vanillish
+	译文=多多冰
+}
+
+{
+	原文=Vanilluxe
+	译文=双倍多多冰
+}
+
+{
+	原文=Deerling
+	译文=四季鹿
+}
+
+{
+	原文=Sawsbuck
+	译文=萌芽鹿
+}
+
+{
+	原文=Emolga
+	译文=电飞鼠
+}
+
+{
+	原文=Karrablast
+	译文=盖盖虫
+}
+
+{
+	原文=Escavalier
+	译文=骑士蜗牛
+}
+
+{
+	原文=Foongus
+	译文=哎呀球菇
+}
+
+{
+	原文=Amoonguss
+	译文=败露球菇
+}
+
+{
+	原文=Frillish
+	译文=轻飘飘
+}
+
+{
+	原文=Jellicent
+	译文=胖嘟嘟
+}
+
+{
+	原文=Alomomola
+	译文=保姆曼波
+}
+
+{
+	原文=Joltik
+	译文=电电虫
+}
+
+{
+	原文=Galvantula
+	译文=电蜘蛛
+}
+
+{
+	原文=Ferroseed
+	译文=种子铁球
+}
+
+{
+	原文=Ferrothorn
+	译文=坚果哑铃
+}
+
+{
+	原文=Klink
+	译文=齿轮儿
+}
+
+{
+	原文=Klang
+	译文=齿轮组
+}
+
+{
+	原文=Klinklang
+	译文=齿轮怪
+}
+
+{
+	原文=Tynamo
+	译文=麻麻小鱼
+}
+
+{
+	原文=Eelektrik
+	译文=麻麻鳗
+}
+
+{
+	原文=Eelektross
+	译文=麻麻鳗鱼王
+}
+
+{
+	原文=Elgyem
+	译文=小灰怪
+}
+
+{
+	原文=Beheeyem
+	译文=大宇怪
+}
+
+{
+	原文=Litwick
+	译文=烛光灵
+}
+
+{
+	原文=Lampent
+	译文=灯火幽灵
+}
+
+{
+	原文=Chandelure
+	译文=水晶灯火灵
+}
+
+{
+	原文=Axew
+	译文=牙牙
+}
+
+{
+	原文=Fraxure
+	译文=斧牙龙
+}
+
+{
+	原文=Haxorus
+	译文=双斧战龙
+}
+
+{
+	原文=Cubchoo
+	译文=喷嚏熊
+}
+
+{
+	原文=Beartic
+	译文=冻原熊
+}
+
+{
+	原文=Cryogonal
+	译文=几何雪花
+}
+
+{
+	原文=Shelmet
+	译文=小嘴蜗
+}
+
+{
+	原文=Accelgor
+	译文=敏捷虫
+}
+
+{
+	原文=Stunfisk
+	译文=泥巴鱼
+}
+
+{
+	原文=Stunfisk
+	译文=泥巴鱼
+}
+
+{
+	原文=null
+	译文=伽勒尔的样子
+}
+
+{
+	原文=Mienfoo
+	译文=功夫鼬
+}
+
+{
+	原文=Mienshao
+	译文=师父鼬
+}
+
+{
+	原文=Druddigon
+	译文=赤面龙
+}
+
+{
+	原文=Golett
+	译文=泥偶小人
+}
+
+{
+	原文=Golurk
+	译文=泥偶巨人
+}
+
+{
+	原文=Pawniard
+	译文=驹刀小兵
+}
+
+{
+	原文=Bisharp
+	译文=劈斩司令
+}
+
+{
+	原文=Bouffalant
+	译文=爆炸头水牛
+}
+
+{
+	原文=Rufflet
+	译文=毛头小鹰
+}
+
+{
+	原文=Braviary
+	译文=勇士雄鹰
+}
+
+{
+	原文=Braviary
+	译文=勇士雄鹰
+}
+
+{
+	原文=null
+	译文=洗翠的样子
+}
+
+{
+	原文=Vullaby
+	译文=秃鹰丫头
+}
+
+{
+	原文=Mandibuzz
+	译文=秃鹰娜
+}
+
+{
+	原文=Heatmor
+	译文=熔蚁兽
+}
+
+{
+	原文=Durant
+	译文=铁蚁
+}
+
+{
+	原文=Deino
+	译文=单首龙
+}
+
+{
+	原文=Zweilous
+	译文=双首暴龙
+}
+
+{
+	原文=Hydreigon
+	译文=三首恶龙
+}
+
+{
+	原文=Larvesta
+	译文=燃烧虫
+}
+
+{
+	原文=Volcarona
+	译文=火神蛾
+}
+
+{
+	原文=Cobalion
+	译文=勾帕路翁
+}
+
+{
+	原文=Terrakion
+	译文=代拉基翁
+}
+
+{
+	原文=Virizion
+	译文=毕力吉翁
+}
+
+{
+	原文=Tornadus
+	译文=龙卷云
+}
+
+{
+	原文=Thundurus
+	译文=雷电云
+}
+
+{
+	原文=Reshiram
+	译文=莱希拉姆
+}
+
+{
+	原文=Zekrom
+	译文=捷克罗姆
+}
+
+{
+	原文=Landorus
+	译文=土地云
+}
+
+{
+	原文=Kyurem
+	译文=酋雷姆
+}
+
+{
+	原文=Keldeo
+	译文=凯路迪欧
+}
+
+{
+	原文=Meloetta
+	译文=美洛耶塔
+}
+
+{
+	原文=Genesect
+	译文=盖诺赛克特
+}
+
+{
+	原文=Chespin
+	译文=哈力栗
+}
+
+{
+	原文=Quilladin
+	译文=胖胖哈力
+}
+
+{
+	原文=Chesnaught
+	译文=布里卡隆
+}
+
+{
+	原文=Fennekin
+	译文=火狐狸
+}
+
+{
+	原文=Braixen
+	译文=长尾火狐
+}
+
+{
+	原文=Delphox
+	译文=妖火红狐
+}
+
+{
+	原文=Froakie
+	译文=呱呱泡蛙
+}
+
+{
+	原文=Frogadier
+	译文=呱头蛙
+}
+
+{
+	原文=Greninja
+	译文=甲贺忍蛙
+}
+
+{
+	原文=Bunnelby
+	译文=掘掘兔
+}
+
+{
+	原文=Diggersby
+	译文=掘地兔
+}
+
+{
+	原文=Fletchling
+	译文=小箭雀
+}
+
+{
+	原文=Fletchinder
+	译文=火箭雀
+}
+
+{
+	原文=Talonflame
+	译文=烈箭鹰
+}
+
+{
+	原文=Scatterbug
+	译文=粉蝶虫
+}
+
+{
+	原文=Spewpa
+	译文=粉蝶蛹
+}
+
+{
+	原文=Vivillon
+	译文=彩粉蝶
+}
+
+{
+	原文=Litleo
+	译文=小狮狮
+}
+
+{
+	原文=Pyroar
+	译文=火炎狮
+}
+
+{
+	原文=Flabébé
+	译文=花蓓蓓
+}
+
+{
+	原文=Floette
+	译文=花叶蒂
+}
+
+{
+	原文=Florges
+	译文=花洁夫人
+}
+
+{
+	原文=Skiddo
+	译文=坐骑小羊
+}
+
+{
+	原文=Gogoat
+	译文=坐骑山羊
+}
+
+{
+	原文=Pancham
+	译文=顽皮熊猫
+}
+
+{
+	原文=Pangoro
+	译文=霸道熊猫
+}
+
+{
+	原文=Furfrou
+	译文=多丽米亚
+}
+
+{
+	原文=Espurr
+	译文=妙喵
+}
+
+{
+	原文=Meowstic
+	译文=超能妙喵
+}
+
+{
+	原文=Honedge
+	译文=独剑鞘
+}
+
+{
+	原文=Doublade
+	译文=双剑鞘
+}
+
+{
+	原文=Aegislash
+	译文=坚盾剑怪
+}
+
+{
+	原文=Spritzee
+	译文=粉香香
+}
+
+{
+	原文=Aromatisse
+	译文=芳香精
+}
+
+{
+	原文=Swirlix
+	译文=绵绵泡芙
+}
+
+{
+	原文=Slurpuff
+	译文=胖甜妮
+}
+
+{
+	原文=Inkay
+	译文=好啦鱿
+}
+
+{
+	原文=Malamar
+	译文=乌贼王
+}
+
+{
+	原文=Binacle
+	译文=龟脚脚
+}
+
+{
+	原文=Barbaracle
+	译文=龟足巨铠
+}
+
+{
+	原文=Skrelp
+	译文=垃垃藻
+}
+
+{
+	原文=Dragalge
+	译文=毒藻龙
+}
+
+{
+	原文=Clauncher
+	译文=铁臂枪虾
+}
+
+{
+	原文=Clawitzer
+	译文=钢炮臂虾
+}
+
+{
+	原文=Helioptile
+	译文=伞电蜥
+}
+
+{
+	原文=Heliolisk
+	译文=光电伞蜥
+}
+
+{
+	原文=Tyrunt
+	译文=宝宝暴龙
+}
+
+{
+	原文=Tyrantrum
+	译文=怪颚龙
+}
+
+{
+	原文=Amaura
+	译文=冰雪龙
+}
+
+{
+	原文=Aurorus
+	译文=冰雪巨龙
+}
+
+{
+	原文=Sylveon
+	译文=仙子伊布
+}
+
+{
+	原文=Hawlucha
+	译文=摔角鹰人
+}
+
+{
+	原文=Dedenne
+	译文=咚咚鼠
+}
+
+{
+	原文=Carbink
+	译文=小碎钻
+}
+
+{
+	原文=Goomy
+	译文=黏黏宝
+}
+
+{
+	原文=Sliggoo
+	译文=黏美儿
+}
+
+{
+	原文=Sliggoo
+	译文=黏美儿
+}
+
+{
+	原文=null
+	译文=洗翠的样子
+}
+
+{
+	原文=Goodra
+	译文=黏美龙
+}
+
+{
+	原文=Goodra
+	译文=黏美龙
+}
+
+{
+	原文=null
+	译文=洗翠的样子
+}
+
+{
+	原文=Klefki
+	译文=钥圈儿
+}
+
+{
+	原文=Phantump
+	译文=小木灵
+}
+
+{
+	原文=Trevenant
+	译文=朽木妖
+}
+
+{
+	原文=Pumpkaboo
+	译文=南瓜精
+}
+
+{
+	原文=Gourgeist
+	译文=南瓜怪人
+}
+
+{
+	原文=Bergmite
+	译文=冰宝
+}
+
+{
+	原文=Avalugg
+	译文=冰岩怪
+}
+
+{
+	原文=Avalugg
+	译文=冰岩怪
+}
+
+{
+	原文=null
+	译文=洗翠的样子
+}
+
+{
+	原文=Noibat
+	译文=嗡蝠
+}
+
+{
+	原文=Noivern
+	译文=音波龙
+}
+
+{
+	原文=Xerneas
+	译文=哲尔尼亚斯
+}
+
+{
+	原文=Yveltal
+	译文=伊裴尔塔尔
+}
+
+{
+	原文=Zygarde
+	译文=基格尔德
+}
+
+{
+	原文=Diancie
+	译文=蒂安希
+}
+
+{
+	原文=Hoopa
+	译文=胡帕
+}
+
+{
+	原文=Volcanion
+	译文=波尔凯尼恩
+}
+
+{
+	原文=Rowlet
+	译文=木木枭
+}
+
+{
+	原文=Dartrix
+	译文=投羽枭
+}
+
+{
+	原文=Decidueye
+	译文=狙射树枭
+}
+
+{
+	原文=Decidueye
+	译文=狙射树枭
+}
+
+{
+	原文=null
+	译文=null
+}
+
+{
+	原文=Litten
+	译文=火斑喵
+}
+
+{
+	原文=Torracat
+	译文=炎热喵
+}
+
+{
+	原文=Incineroar
+	译文=炽焰咆哮虎
+}
+
+{
+	原文=Popplio
+	译文=球球海狮
+}
+
+{
+	原文=Brionne
+	译文=花漾海狮
+}
+
+{
+	原文=Primarina
+	译文=西狮海壬
+}
+
+{
+	原文=Pikipek
+	译文=小笃儿
+}
+
+{
+	原文=Trumbeak
+	译文=喇叭啄鸟
+}
+
+{
+	原文=Toucannon
+	译文=铳嘴大鸟
+}
+
+{
+	原文=Yungoos
+	译文=猫鼬少
+}
+
+{
+	原文=Gumshoos
+	译文=猫鼬探长
+}
+
+{
+	原文=Grubbin
+	译文=强颚鸡母虫
+}
+
+{
+	原文=Charjabug
+	译文=虫电宝
+}
+
+{
+	原文=Vikavolt
+	译文=锹农炮虫
+}
+
+{
+	原文=Crabrawler
+	译文=好胜蟹
+}
+
+{
+	原文=Crabominable
+	译文=好胜毛蟹
+}
+
+{
+	原文=Oricorio
+	译文=花舞鸟
+}
+
+{
+	原文=Cutiefly
+	译文=萌虻
+}
+
+{
+	原文=Ribombee
+	译文=蝶结萌虻
+}
+
+{
+	原文=Rockruff
+	译文=岩狗狗
+}
+
+{
+	原文=Lycanroc
+	译文=鬃岩狼人
+}
+
+{
+	原文=Wishiwashi
+	译文=弱丁鱼
+}
+
+{
+	原文=Mareanie
+	译文=好坏星
+}
+
+{
+	原文=Toxapex
+	译文=超坏星
+}
+
+{
+	原文=Mudbray
+	译文=泥驴仔
+}
+
+{
+	原文=Mudsdale
+	译文=重泥挽马
+}
+
+{
+	原文=Dewpider
+	译文=滴蛛
+}
+
+{
+	原文=Araquanid
+	译文=滴蛛霸
+}
+
+{
+	原文=Fomantis
+	译文=伪螳草
+}
+
+{
+	原文=Lurantis
+	译文=兰螳花
+}
+
+{
+	原文=Morelull
+	译文=睡睡菇
+}
+
+{
+	原文=Shiinotic
+	译文=灯罩夜菇
+}
+
+{
+	原文=Salandit
+	译文=夜盗火蜥
+}
+
+{
+	原文=Salazzle
+	译文=焰后蜥
+}
+
+{
+	原文=Stufful
+	译文=童偶熊
+}
+
+{
+	原文=Bewear
+	译文=穿着熊
+}
+
+{
+	原文=Bounsweet
+	译文=甜竹竹
+}
+
+{
+	原文=Steenee
+	译文=甜舞妮
+}
+
+{
+	原文=Tsareena
+	译文=甜冷美后
+}
+
+{
+	原文=Comfey
+	译文=花疗环环
+}
+
+{
+	原文=Oranguru
+	译文=智挥猩
+}
+
+{
+	原文=Passimian
+	译文=投掷猴
+}
+
+{
+	原文=Wimpod
+	译文=胆小虫
+}
+
+{
+	原文=Golisopod
+	译文=具甲武者
+}
+
+{
+	原文=Sandygast
+	译文=沙丘娃
+}
+
+{
+	原文=Palossand
+	译文=噬沙堡爷
+}
+
+{
+	原文=Pyukumuku
+	译文=拳海参
+}
+
+{
+	原文=Type: Null
+	译文=属性：空
+}
+
+{
+	原文=Silvally
+	译文=银伴战兽
+}
+
+{
+	原文=Minior
+	译文=小陨星
+}
+
+{
+	原文=Komala
+	译文=树枕尾熊
+}
+
+{
+	原文=Turtonator
+	译文=爆焰龟兽
+}
+
+{
+	原文=Togedemaru
+	译文=托戈德玛尔
+}
+
+{
+	原文=Mimikyu
+	译文=谜拟丘
+}
+
+{
+	原文=Bruxish
+	译文=磨牙彩皮鱼
+}
+
+{
+	原文=Drampa
+	译文=老翁龙
+}
+
+{
+	原文=Dhelmise
+	译文=破破舵轮
+}
+
+{
+	原文=Jangmo-o
+	译文=心鳞宝
+}
+
+{
+	原文=Hakamo-o
+	译文=鳞甲龙
+}
+
+{
+	原文=Kommo-o
+	译文=杖尾鳞甲龙
+}
+
+{
+	原文=Tapu Koko
+	译文=卡璞・鸣鸣
+}
+
+{
+	原文=Tapu Lele
+	译文=卡璞・蝶蝶
+}
+
+{
+	原文=Tapu Bulu
+	译文=卡璞・哞哞
+}
+
+{
+	原文=Tapu Fini
+	译文=卡璞・鳍鳍
+}
+
+{
+	原文=Cosmog
+	译文=科斯莫古
+}
+
+{
+	原文=Cosmoem
+	译文=科斯莫姆
+}
+
+{
+	原文=Solgaleo
+	译文=索尔迦雷欧
+}
+
+{
+	原文=Lunala
+	译文=露奈雅拉
+}
+
+{
+	原文=Nihilego
+	译文=虚吾伊德
+}
+
+{
+	原文=Buzzwole
+	译文=爆肌蚊
+}
+
+{
+	原文=Pheromosa
+	译文=费洛美螂
+}
+
+{
+	原文=Xurkitree
+	译文=电束木
+}
+
+{
+	原文=Celesteela
+	译文=铁火辉夜
+}
+
+{
+	原文=Kartana
+	译文=纸御剑
+}
+
+{
+	原文=Guzzlord
+	译文=恶食大王
+}
+
+{
+	原文=Necrozma
+	译文=奈克洛兹玛
+}
+
+{
+	原文=Magearna
+	译文=玛机雅娜
+}
+
+{
+	原文=Marshadow
+	译文=玛夏多
+}
+
+{
+	原文=Poipole
+	译文=毒贝比
+}
+
+{
+	原文=Naganadel
+	译文=四颚针龙
+}
+
+{
+	原文=Stakataka
+	译文=垒磊石
+}
+
+{
+	原文=Blacephalon
+	译文=砰头小丑
+}
+
+{
+	原文=Zeraora
+	译文=捷拉奥拉
+}
+
+{
+	原文=Meltan
+	译文=美录坦
+}
+
+{
+	原文=Melmetal
+	译文=美录梅塔
+}
+
+{
+	原文=Grookey
+	译文=敲音猴
+}
+
+{
+	原文=Thwackey
+	译文=啪咚猴
+}
+
+{
+	原文=Rillaboom
+	译文=轰擂金刚猩
+}
+
+{
+	原文=Scorbunny
+	译文=炎兔儿
+}
+
+{
+	原文=Raboot
+	译文=腾蹴小将
+}
+
+{
+	原文=Cinderace
+	译文=闪焰王牌
+}
+
+{
+	原文=Sobble
+	译文=泪眼蜥
+}
+
+{
+	原文=Drizzile
+	译文=变涩蜥
+}
+
+{
+	原文=Inteleon
+	译文=千面避役
+}
+
+{
+	原文=Skwovet
+	译文=贪心栗鼠
+}
+
+{
+	原文=Greedent
+	译文=藏饱栗鼠
+}
+
+{
+	原文=Rookidee
+	译文=稚山雀
+}
+
+{
+	原文=Corvisquire
+	译文=蓝鸦
+}
+
+{
+	原文=Corviknight
+	译文=钢铠鸦
+}
+
+{
+	原文=Blipbug
+	译文=索侦虫
+}
+
+{
+	原文=Dottler
+	译文=天罩虫
+}
+
+{
+	原文=Orbeetle
+	译文=以欧路普
+}
+
+{
+	原文=Nickit
+	译文=狡小狐
+}
+
+{
+	原文=Thievul
+	译文=狐大盗
+}
+
+{
+	原文=Gossifleur
+	译文=幼棉棉
+}
+
+{
+	原文=Eldegoss
+	译文=白蓬蓬
+}
+
+{
+	原文=Wooloo
+	译文=毛辫羊
+}
+
+{
+	原文=Dubwool
+	译文=毛毛角羊
+}
+
+{
+	原文=Chewtle
+	译文=咬咬龟
+}
+
+{
+	原文=Drednaw
+	译文=暴噬龟
+}
+
+{
+	原文=Yamper
+	译文=来电汪
+}
+
+{
+	原文=Boltund
+	译文=逐电犬
+}
+
+{
+	原文=Rolycoly
+	译文=小炭仔
+}
+
+{
+	原文=Carkol
+	译文=大炭车
+}
+
+{
+	原文=Coalossal
+	译文=巨炭山
+}
+
+{
+	原文=Applin
+	译文=啃果虫
+}
+
+{
+	原文=Flapple
+	译文=苹裹龙
+}
+
+{
+	原文=Appletun
+	译文=丰蜜龙
+}
+
+{
+	原文=Silicobra
+	译文=沙包蛇
+}
+
+{
+	原文=Sandaconda
+	译文=沙螺蟒
+}
+
+{
+	原文=Cramorant
+	译文=古月鸟
+}
+
+{
+	原文=Arrokuda
+	译文=刺梭鱼
+}
+
+{
+	原文=Barraskewda
+	译文=戽斗尖梭
+}
+
+{
+	原文=Toxel
+	译文=电音婴
+}
+
+{
+	原文=Toxtricity
+	译文=颤弦蝾螈
+}
+
+{
+	原文=Sizzlipede
+	译文=烧火蚣
+}
+
+{
+	原文=Centiskorch
+	译文=焚焰蚣
+}
+
+{
+	原文=Clobbopus
+	译文=拳拳蛸
+}
+
+{
+	原文=Grapploct
+	译文=八爪武师
+}
+
+{
+	原文=Sinistea
+	译文=来悲茶
+}
+
+{
+	原文=Polteageist
+	译文=怖思壶
+}
+
+{
+	原文=Hatenna
+	译文=迷布莉姆
+}
+
+{
+	原文=Hattrem
+	译文=提布莉姆
+}
+
+{
+	原文=Hatterene
+	译文=布莉姆温
+}
+
+{
+	原文=Impidimp
+	译文=捣蛋小妖
+}
+
+{
+	原文=Morgrem
+	译文=诈唬魔
+}
+
+{
+	原文=Grimmsnarl
+	译文=长毛巨魔
+}
+
+{
+	原文=Obstagoon
+	译文=堵拦熊
+}
+
+{
+	原文=Perrserker
+	译文=喵头目
+}
+
+{
+	原文=Cursola
+	译文=魔灵珊瑚
+}
+
+{
+	原文=Sirfetch’d
+	译文=葱游兵
+}
+
+{
+	原文=Mr. Rime
+	译文=踏冰人偶
+}
+
+{
+	原文=Runerigus
+	译文=迭失板
+}
+
+{
+	原文=Milcery
+	译文=小仙奶
+}
+
+{
+	原文=Alcremie
+	译文=霜奶仙
+}
+
+{
+	原文=Falinks
+	译文=列阵兵
+}
+
+{
+	原文=Pincurchin
+	译文=啪嚓海胆
+}
+
+{
+	原文=Snom
+	译文=雪吞虫
+}
+
+{
+	原文=Frosmoth
+	译文=雪绒蛾
+}
+
+{
+	原文=Stonjourner
+	译文=巨石丁
+}
+
+{
+	原文=Eiscue
+	译文=冰砌鹅
+}
+
+{
+	原文=Indeedee
+	译文=爱管侍
+}
+
+{
+	原文=Morpeko
+	译文=莫鲁贝可
+}
+
+{
+	原文=Cufant
+	译文=铜象
+}
+
+{
+	原文=Copperajah
+	译文=大王铜象
+}
+
+{
+	原文=Dracozolt
+	译文=雷鸟龙
+}
+
+{
+	原文=Arctozolt
+	译文=雷鸟海兽
+}
+
+{
+	原文=Dracovish
+	译文=鳃鱼龙
+}
+
+{
+	原文=Arctovish
+	译文=鳃鱼海兽
+}
+
+{
+	原文=Duraludon
+	译文=铝钢龙
+}
+
+{
+	原文=Dreepy
+	译文=多龙梅西亚
+}
+
+{
+	原文=Drakloak
+	译文=多龙奇
+}
+
+{
+	原文=Dragapult
+	译文=多龙巴鲁托
+}
+
+{
+	原文=Zacian
+	译文=苍响
+}
+
+{
+	原文=Zamazenta
+	译文=藏玛然特
+}
+
+{
+	原文=Eternatus
+	译文=无极汰那
+}
+
+{
+	原文=Kubfu
+	译文=熊徒弟
+}
+
+{
+	原文=Urshifu
+	译文=武道熊师
+}
+
+{
+	原文=Zarude
+	译文=萨戮德
+}
+
+{
+	原文=Regieleki
+	译文=雷吉艾勒奇
+}
+
+{
+	原文=Regidrago
+	译文=雷吉铎拉戈
+}
+
+{
+	原文=Glastrier
+	译文=雪暴马
+}
+
+{
+	原文=Spectrier
+	译文=灵幽马
+}
+
+{
+	原文=Calyrex
+	译文=蕾冠王
+}
+
+{
+	原文=Wyrdeer
+	译文=诡角鹿
+}
+
+{
+	原文=Kleavor
+	译文=劈斧螳螂
+}
+
+{
+	原文=Ursaluna
+	译文=月月熊
+}
+
+{
+	原文=Basculegion
+	译文=幽尾玄鱼
+}
+
+{
+	原文=Sneasler
+	译文=大狃拉
+}
+
+{
+	原文=Overqwil
+	译文=万针鱼
+}
+
+{
+	原文=Enamorus
+	译文=眷恋云
+}
+
+{
+	原文=Sprigatito
+	译文=新叶喵
+}
+
+{
+	原文=Floragato
+	译文=蒂蕾喵
+}
+
+{
+	原文=Meowscarada
+	译文=魔幻假面喵
+}
+
+{
+	原文=Fuecoco
+	译文=呆火鳄
+}
+
+{
+	原文=Crocalor
+	译文=炙烫鳄
+}
+
+{
+	原文=Skeledirge
+	译文=骨纹巨声鳄
+}
+
+{
+	原文=Quaxly
+	译文=润水鸭
+}
+
+{
+	原文=Quaxwell
+	译文=涌跃鸭
+}
+
+{
+	原文=Quaquaval
+	译文=狂欢浪舞鸭
+}
+
+{
+	原文=Lechonk
+	译文=爱吃豚
+}
+
+{
+	原文=Oinkologne
+	译文=飘香豚
+}
+
+{
+	原文=Tarountula
+	译文=团珠蛛
+}
+
+{
+	原文=Spidops
+	译文=操陷蛛
+}
+
+{
+	原文=Nymble
+	译文=豆蟋蟀
+}
+
+{
+	原文=Lokix
+	译文=烈腿蝗
+}
+
+{
+	原文=Pawmi
+	译文=布拨
+}
+
+{
+	原文=Pawmo
+	译文=布土拨
+}
+
+{
+	原文=Pawmot
+	译文=巴布土拨
+}
+
+{
+	原文=Tandemaus
+	译文=一对鼠
+}
+
+{
+	原文=Maushold
+	译文=一家鼠
+}
+
+{
+	原文=Fidough
+	译文=狗仔包
+}
+
+{
+	原文=Dachsbun
+	译文=麻花犬
+}
+
+{
+	原文=Smoliv
+	译文=迷你芙
+}
+
+{
+	原文=Dolliv
+	译文=奥利纽
+}
+
+{
+	原文=Arboliva
+	译文=奥利瓦
+}
+
+{
+	原文=Squawkabilly
+	译文=怒鹦哥
+}
+
+{
+	原文=Nacli
+	译文=盐石宝
+}
+
+{
+	原文=Naclstack
+	译文=盐石垒
+}
+
+{
+	原文=Garganacl
+	译文=盐石巨灵
+}
+
+{
+	原文=Charcadet
+	译文=炭小侍
+}
+
+{
+	原文=Armarouge
+	译文=红莲铠骑
+}
+
+{
+	原文=Ceruledge
+	译文=苍炎刃鬼
+}
+
+{
+	原文=Tadbulb
+	译文=光蚪仔
+}
+
+{
+	原文=Bellibolt
+	译文=电肚蛙
+}
+
+{
+	原文=Wattrel
+	译文=电海燕
+}
+
+{
+	原文=Kilowattrel
+	译文=大电海燕
+}
+
+{
+	原文=Maschiff
+	译文=偶叫獒
+}
+
+{
+	原文=Mabosstiff
+	译文=獒教父
+}
+
+{
+	原文=Shroodle
+	译文=滋汁鼹
+}
+
+{
+	原文=Grafaiai
+	译文=涂标客
+}
+
+{
+	原文=Bramblin
+	译文=纳噬草
+}
+
+{
+	原文=Brambleghast
+	译文=怖纳噬草
+}
+
+{
+	原文=Toedscool
+	译文=原野水母
+}
+
+{
+	原文=Toedscruel
+	译文=陆地水母
+}
+
+{
+	原文=Klawf
+	译文=毛崖蟹
+}
+
+{
+	原文=Capsakid
+	译文=热辣娃
+}
+
+{
+	原文=Scovillain
+	译文=狠辣椒
+}
+
+{
+	原文=Rellor
+	译文=虫滚泥
+}
+
+{
+	原文=Rabsca
+	译文=虫甲圣
+}
+
+{
+	原文=Flittle
+	译文=飘飘雏
+}
+
+{
+	原文=Espathra
+	译文=超能艳鸵
+}
+
+{
+	原文=Tinkatink
+	译文=小锻匠
+}
+
+{
+	原文=Tinkatuff
+	译文=巧锻匠
+}
+
+{
+	原文=Tinkaton
+	译文=巨锻匠
+}
+
+{
+	原文=Wiglett
+	译文=海地鼠
+}
+
+{
+	原文=Wugtrio
+	译文=三海地鼠
+}
+
+{
+	原文=Bombirdier
+	译文=下石鸟
+}
+
+{
+	原文=Finizen
+	译文=波普海豚
+}
+
+{
+	原文=Palafin
+	译文=海豚侠
+}
+
+{
+	原文=Varoom
+	译文=噗隆隆
+}
+
+{
+	原文=Revavroom
+	译文=普隆隆姆
+}
+
+{
+	原文=Cyclizar
+	译文=摩托蜥
+}
+
+{
+	原文=Orthworm
+	译文=拖拖蚓
+}
+
+{
+	原文=Glimmet
+	译文=晶光芽
+}
+
+{
+	原文=Glimmora
+	译文=晶光花
+}
+
+{
+	原文=Greavard
+	译文=墓仔狗
+}
+
+{
+	原文=Houndstone
+	译文=墓扬犬
+}
+
+{
+	原文=Flamigo
+	译文=缠红鹤
+}
+
+{
+	原文=Cetoddle
+	译文=走鲸
+}
+
+{
+	原文=Cetitan
+	译文=浩大鲸
+}
+
+{
+	原文=Veluza
+	译文=轻身鳕
+}
+
+{
+	原文=Dondozo
+	译文=吃吼霸
+}
+
+{
+	原文=Tatsugiri
+	译文=米立龙
+}
+
+{
+	原文=Annihilape
+	译文=弃世猴
+}
+
+{
+	原文=Clodsire
+	译文=土王
+}
+
+{
+	原文=Farigiraf
+	译文=奇麒麟
+}
+
+{
+	原文=Dudunsparce
+	译文=土龙节节
+}
+
+{
+	原文=Kingambit
+	译文=仆刀将军
+}
+
+{
+	原文=Great Tusk
+	译文=雄伟牙
+}
+
+{
+	原文=Scream Tail
+	译文=吼叫尾
+}
+
+{
+	原文=Brute Bonnet
+	译文=猛恶菇
+}
+
+{
+	原文=Flutter Mane
+	译文=振翼发
+}
+
+{
+	原文=Slither Wing
+	译文=爬地翅
+}
+
+{
+	原文=Sandy Shocks
+	译文=沙铁皮
+}
+
+{
+	原文=Iron Treads
+	译文=铁辙迹
+}
+
+{
+	原文=Iron Bundle
+	译文=铁包袱
+}
+
+{
+	原文=Iron Hands
+	译文=铁臂膀
+}
+
+{
+	原文=Iron Jugulis
+	译文=铁脖颈
+}
+
+{
+	原文=Iron Moth
+	译文=铁毒蛾
+}
+
+{
+	原文=Iron Thorns
+	译文=铁荆棘
+}
+
+{
+	原文=Frigibax
+	译文=凉脊龙
+}
+
+{
+	原文=Arctibax
+	译文=冻脊龙
+}
+
+{
+	原文=Baxcalibur
+	译文=戟脊龙
+}
+
+{
+	原文=Gimmighoul
+	译文=索财灵
+}
+
+{
+	原文=Gholdengo
+	译文=赛富豪
+}
+
+{
+	原文=Wo-Chien
+	译文=古简蜗
+}
+
+{
+	原文=Chien-Pao
+	译文=古剑豹
+}
+
+{
+	原文=Ting-Lu
+	译文=古鼎鹿
+}
+
+{
+	原文=Chi-Yu
+	译文=古玉鱼
+}
+
+{
+	原文=Roaring Moon
+	译文=轰鸣月
+}
+
+{
+	原文=Iron Valiant
+	译文=铁武者
+}
+
+{
+	原文=Koraidon
+	译文=故勒顿
+}
+
+{
+	原文=Miraidon
+	译文=密勒顿
+}
+
