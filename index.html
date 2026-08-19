@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>精灵宝可梦 红/蓝宝石 RSC汉化版</title>
+    <!-- 引入 Tailwind CSS (CDN方式，零配置) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- 自定义一小段 CSS 来隐藏横向滚动条，让画廊更美观 -->
+    <style>
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-50 text-gray-800 font-sans antialiased selection:bg-red-200">
+
+    <!-- 1. 头部 Hero Section (大标题与副标题) -->
+    <header class="bg-gradient-to-r from-red-600 to-blue-600 text-white py-24 px-6 text-center shadow-lg">
+        <div class="max-w-4xl mx-auto">
+            <h1 class="text-4xl md:text-6xl font-extrabold tracking-tight mb-4 drop-shadow-md">
+                精灵宝可梦 红宝石 / 蓝宝石
+            </h1>
+            <h2 class="text-2xl md:text-3xl font-light mb-8 opacity-90 drop-shadow-sm">
+                RSC 完全汉化版
+            </h2>
+            <p class="text-lg md:text-xl font-medium opacity-80 mb-10">
+                跨越二十年的星空补完计划，致那阵轻拂丰缘大陆的微风。
+            </p>
+            <!-- 头部直接提供下载跳转 -->
+            <a href="https://github.com/你的用户名/你的仓库名/releases/latest"
+                class="inline-block bg-white text-gray-900 font-bold text-lg px-8 py-4 rounded-full shadow-xl hover:scale-105 hover:bg-gray-100 transition duration-300">
+                📥 前往 GitHub 获取最新 v1.0 版
+            </a>
+        </div>
+    </header>
+
+    <!-- 2. 横向汉化展示轮播 (Scrollview) -->
+    <section class="py-16 bg-white">
+        <div class="max-w-6xl mx-auto px-6 mb-8 text-center">
+            <h3 class="text-3xl font-bold text-gray-900">汉化效果展示</h3>
+            <p class="text-gray-500 mt-2">基于美版v1.2底层，重新校对打磨的文本</p>
+        </div>
+
+        <div class="flex overflow-x-auto snap-x snap-mandatory gap-6 px-6 pb-8 hide-scrollbar max-w-7xl mx-auto">
+            <img src="./images/screenshot1.png" alt="游戏截图1"
+                class="snap-center shrink-0 w-80 md:w-96 rounded-2xl shadow-md border border-gray-100 object-cover bg-gray-200 aspect-video">
+            <img src="./images/screenshot2.png" alt="游戏截图2"
+                class="snap-center shrink-0 w-80 md:w-96 rounded-2xl shadow-md border border-gray-100 object-cover bg-gray-200 aspect-video">
+            <img src="./images/screenshot3.png" alt="游戏截图3"
+                class="snap-center shrink-0 w-80 md:w-96 rounded-2xl shadow-md border border-gray-100 object-cover bg-gray-200 aspect-video">
+            <img src="./images/screenshot4.png" alt="游戏截图4"
+                class="snap-center shrink-0 w-80 md:w-96 rounded-2xl shadow-md border border-gray-100 object-cover bg-gray-200 aspect-video">
+            <img src="./images/screenshot5.png" alt="游戏截图5"
+                class="snap-center shrink-0 w-80 md:w-96 rounded-2xl shadow-md border border-gray-100 object-cover bg-gray-200 aspect-video">
+            <img src="./images/screenshot6.png" alt="游戏截图6"
+                class="snap-center shrink-0 w-80 md:w-96 rounded-2xl shadow-md border border-gray-100 object-cover bg-gray-200 aspect-video">
+        </div>
+    </section>
+
+    <!-- 3. 介绍部分 -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-3xl mx-auto px-6 text-lg leading-relaxed text-gray-700">
+            <h3 class="text-3xl font-bold text-gray-900 mb-6 border-b-2 border-red-500 inline-block pb-2">关于本项目</h3>
+            <p class="mb-4">
+                本项目旨在为《精灵宝可梦 红宝石/蓝宝石》提供最严谨、最纯净的中文本地化体验。长期以来，原版红蓝宝石仅有旧时代 D商的残缺汉化。为弥补这一缺憾，RSC汉化组重启工程。
+            </p>
+            <p class="mb-4">
+                我们以美版v1.2为底层基底，官译名词全面向《晶灿钻石／明亮珍珠》及以后的官方中文看齐，并在对话逻辑上进行了深度本地化润色。
+            </p>
+            <p class="mb-4">
+                我们提供丰富的补丁选择，支持日版/美版标题美术风格。
+            </p>
+            <ul class="list-disc pl-6 space-y-2 mt-4 font-medium">
+                <li>集成智能补丁向导，支持自由选择中/英/日宝可梦名。</li>
+                <li>可选：遗迹盲文全面替换为符合现代中文逻辑的拼音盲文。</li>
+                <li>可选：修复美版原版及旧版汉化中遗留的多处死机与排版漏洞。</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- 4. Changelog 更新日志 -->
+    <section class="py-16 bg-white">
+        <div class="max-w-3xl mx-auto px-6">
+            <h3 class="text-3xl font-bold text-gray-900 mb-8 border-b-2 border-blue-500 inline-block pb-2">更新日志</h3>
+
+            <div class="relative border-l-4 border-gray-200 ml-3 pl-6 space-y-8">
+                <!-- V1.0 -->
+                <div class="relative">
+                    <div class="absolute w-4 h-4 bg-blue-500 rounded-full -left-[34px] top-1 border-4 border-white">
+                    </div>
+                    <h4 class="text-xl font-bold text-gray-900">v1.0.0 首发正式版 <span
+                            class="text-sm font-normal text-gray-500 ml-2">2026-08-19</span></h4>
+                    <p class="text-gray-600 mt-2">
+                        - 红/蓝宝石双版本汉化文本实装<br>
+                        - 随包附带了 RSC可视化补丁向导 (Windows版)<br>
+                        - 发布首日版本
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 5. 底部 Action & Footer -->
+    <footer class="bg-gray-900 text-gray-300 py-12 text-center">
+        <div class="max-w-4xl mx-auto px-6">
+            <h3 class="text-2xl font-bold text-white mb-6">准备好重返丰缘地区了吗？</h3>
+            <a href="https://github.com/你的用户名/你的仓库名/releases/latest"
+                class="inline-block bg-blue-600 text-white font-bold text-lg px-8 py-3 rounded-md shadow hover:bg-blue-500 transition duration-300 mb-8">
+                ⬇️ 下载汉化补丁 (GitHub Releases)
+            </a>
+            <p class="text-sm opacity-60">
+                本仓库仅提供补丁及补丁工具，不提供原版 ROM。请支持正版游戏。<br>
+                如果有文本错位或 Bug 反馈，请在 GitHub 提交 Issue。<br>
+                &copy; 2026 RSC汉化组. All Rights Reserved.
+            </p>
+        </div>
+    </footer>
+
+</body>
+
+</html>
