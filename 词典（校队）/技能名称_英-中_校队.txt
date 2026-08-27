@@ -1,0 +1,4776 @@
+{
+	词典类型=3
+	忽略大小写=开
+}
+
+
+{
+	原文=Pound
+	译文=拍击
+}
+
+{
+	原文=Karate Chop
+	译文=空手劈
+}
+
+{
+	原文=Double Slap
+	译文=连环巴掌
+}
+
+{
+	原文=DoubleSlap
+	译文=连环巴掌
+}
+
+{
+	原文=Comet Punch
+	译文=连续拳
+}
+
+{
+	原文=Mega Punch
+	译文=百万吨重拳
+}
+
+{
+	原文=Pay Day
+	译文=聚宝功
+}
+
+{
+	原文=Fire Punch
+	译文=火焰拳
+}
+
+{
+	原文=Ice Punch
+	译文=冰冻拳
+}
+
+{
+	原文=Thunder Punch
+	译文=雷电拳
+}
+
+{
+	原文=ThunderPunch
+	译文=雷电拳
+}
+
+{
+	原文=Scratch
+	译文=抓
+}
+
+{
+	原文=Vise Grip
+	译文=夹住
+}
+
+{
+	原文=ViceGrip
+	译文=夹住
+}
+
+{
+	原文=Guillotine
+	译文=极落钳
+}
+
+{
+	原文=Razor Wind
+	译文=旋风刀
+}
+
+{
+	原文=Swords Dance
+	译文=剑舞
+}
+
+{
+	原文=Cut
+	译文=居合劈
+}
+
+{
+	原文=Gust
+	译文=起风
+}
+
+{
+	原文=Wing Attack
+	译文=翅膀攻击
+}
+
+{
+	原文=Whirlwind
+	译文=吹飞
+}
+
+{
+	原文=Fly
+	译文=飞翔
+}
+
+{
+	原文=Bind
+	译文=绑紧
+}
+
+{
+	原文=Slam
+	译文=摔打
+}
+
+{
+	原文=Vine Whip
+	译文=藤鞭
+}
+
+{
+	原文=Stomp
+	译文=踩踏
+}
+
+{
+	原文=Double Kick
+	译文=二连踢
+}
+
+{
+	原文=Mega Kick
+	译文=百万吨重踢
+}
+
+{
+	原文=Jump Kick
+	译文=飞踢
+}
+
+{
+	原文=Rolling Kick
+	译文=回旋踢
+}
+
+{
+	原文=Sand Attack
+	译文=泼沙
+}
+
+{
+	原文=Sand-Attack
+	译文=泼沙
+}
+
+{
+	原文=Headbutt
+	译文=头锤
+}
+
+{
+	原文=Horn Attack
+	译文=角撞
+}
+
+{
+	原文=Fury Attack
+	译文=乱击
+}
+
+{
+	原文=Horn Drill
+	译文=角钻
+}
+
+{
+	原文=Tackle
+	译文=撞击
+}
+
+{
+	原文=Body Slam
+	译文=泰山压顶
+}
+
+{
+	原文=Wrap
+	译文=紧束
+}
+
+{
+	原文=Take Down
+	译文=猛撞
+}
+
+{
+	原文=Thrash
+	译文=大闹一番
+}
+
+{
+	原文=Double-Edge
+	译文=舍身冲撞
+}
+
+{
+	原文=Tail Whip
+	译文=摇尾巴
+}
+
+{
+	原文=Poison Sting
+	译文=毒针
+}
+
+{
+	原文=Twineedle
+	译文=双针
+}
+
+{
+	原文=Pin Missile
+	译文=飞弹针
+}
+
+{
+	原文=Leer
+	译文=瞪眼
+}
+
+{
+	原文=Bite
+	译文=咬住
+}
+
+{
+	原文=Growl
+	译文=叫声
+}
+
+{
+	原文=Roar
+	译文=吼叫
+}
+
+{
+	原文=Sing
+	译文=唱歌
+}
+
+{
+	原文=Supersonic
+	译文=超音波
+}
+
+{
+	原文=Sonic Boom
+	译文=音爆
+}
+
+{
+	原文=SonicBoom
+	译文=音爆
+}
+
+{
+	原文=Disable
+	译文=定身法
+}
+
+{
+	原文=Acid
+	译文=溶解液
+}
+
+{
+	原文=Ember
+	译文=火花
+}
+
+{
+	原文=Flamethrower
+	译文=喷射火焰
+}
+
+{
+	原文=Mist
+	译文=白雾
+}
+
+{
+	原文=Water Gun
+	译文=水枪
+}
+
+{
+	原文=Hydro Pump
+	译文=水炮
+}
+
+{
+	原文=Surf
+	译文=冲浪
+}
+
+{
+	原文=Ice Beam
+	译文=冰冻光束
+}
+
+{
+	原文=Blizzard
+	译文=暴风雪
+}
+
+{
+	原文=Psybeam
+	译文=幻象光线
+}
+
+{
+	原文=Bubble Beam
+	译文=泡沫光线
+}
+
+{
+	原文=BubbleBeam
+	译文=泡沫光线
+}
+
+{
+	原文=Aurora Beam
+	译文=极光束
+}
+
+{
+	原文=Hyper Beam
+	译文=破坏光线
+}
+
+{
+	原文=Peck
+	译文=啄
+}
+
+{
+	原文=Drill Peck
+	译文=啄钻
+}
+
+{
+	原文=Submission
+	译文=深渊翻滚
+}
+
+{
+	原文=Low Kick
+	译文=踢倒
+}
+
+{
+	原文=Counter
+	译文=双倍奉还
+}
+
+{
+	原文=Seismic Toss
+	译文=地球上投
+}
+
+{
+	原文=Strength
+	译文=怪力
+}
+
+{
+	原文=Absorb
+	译文=吸取
+}
+
+{
+	原文=Mega Drain
+	译文=超级吸取
+}
+
+{
+	原文=Leech Seed
+	译文=寄生种子
+}
+
+{
+	原文=Growth
+	译文=生长
+}
+
+{
+	原文=Razor Leaf
+	译文=飞叶快刀
+}
+
+{
+	原文=Solar Beam
+	译文=日光束
+}
+
+{
+	原文=SolarBeam
+	译文=日光束
+}
+
+{
+	原文=Poison Powder
+	译文=毒粉
+}
+
+{
+	原文=PoisonPowder
+	译文=毒粉
+}
+
+{
+	原文=Stun Spore
+	译文=麻痹粉
+}
+
+{
+	原文=Sleep Powder
+	译文=催眠粉
+}
+
+{
+	原文=Petal Dance
+	译文=花瓣舞
+}
+
+{
+	原文=String Shot
+	译文=吐丝
+}
+
+{
+	原文=Dragon Rage
+	译文=龙之怒
+}
+
+{
+	原文=Fire Spin
+	译文=火焰旋涡
+}
+
+{
+	原文=Thunder Shock
+	译文=电击
+}
+
+{
+	原文=ThunderShock
+	译文=电击
+}
+
+{
+	原文=Thunderbolt
+	译文=十万伏特
+}
+
+{
+	原文=Thunder Wave
+	译文=电磁波
+}
+
+{
+	原文=Thunder
+	译文=打雷
+}
+
+{
+	原文=Rock Throw
+	译文=落石
+}
+
+{
+	原文=Earthquake
+	译文=地震
+}
+
+{
+	原文=Fissure
+	译文=地裂
+}
+
+{
+	原文=Dig
+	译文=挖洞
+}
+
+{
+	原文=Toxic
+	译文=剧毒
+}
+
+{
+	原文=Confusion
+	译文=念力
+}
+
+{
+	原文=Psychic
+	译文=精神强念
+}
+
+{
+	原文=Hypnosis
+	译文=催眠术
+}
+
+{
+	原文=Meditate
+	译文=瑜伽姿势
+}
+
+{
+	原文=Agility
+	译文=高速移动
+}
+
+{
+	原文=Quick Attack
+	译文=电光一闪
+}
+
+{
+	原文=Rage
+	译文=愤怒
+}
+
+{
+	原文=Teleport
+	译文=瞬间移动
+}
+
+{
+	原文=Night Shade
+	译文=黑夜魔影
+}
+
+{
+	原文=Mimic
+	译文=模仿
+}
+
+{
+	原文=Screech
+	译文=刺耳声
+}
+
+{
+	原文=Double Team
+	译文=影子分身
+}
+
+{
+	原文=Recover
+	译文=自我再生
+}
+
+{
+	原文=Harden
+	译文=变硬
+}
+
+{
+	原文=Minimize
+	译文=变小
+}
+
+{
+	原文=Smokescreen
+	译文=烟幕
+}
+
+{
+	原文=Confuse Ray
+	译文=奇异之光
+}
+
+{
+	原文=Withdraw
+	译文=缩入壳中
+}
+
+{
+	原文=Defense Curl
+	译文=变圆
+}
+
+{
+	原文=Barrier
+	译文=屏障
+}
+
+{
+	原文=Light Screen
+	译文=光墙
+}
+
+{
+	原文=Haze
+	译文=黑雾
+}
+
+{
+	原文=Reflect
+	译文=反射壁
+}
+
+{
+	原文=Focus Energy
+	译文=聚气
+}
+
+{
+	原文=Bide
+	译文=忍耐
+}
+
+{
+	原文=Metronome
+	译文=挥指
+}
+
+{
+	原文=Mirror Move
+	译文=鹦鹉学舌
+}
+
+{
+	原文=Self-Destruct
+	译文=玉石俱碎
+}
+
+{
+	原文=SelfDestruct
+	译文=玉石俱碎
+}
+
+{
+	原文=Egg Bomb
+	译文=炸蛋
+}
+
+{
+	原文=Lick
+	译文=舌舔
+}
+
+{
+	原文=Smog
+	译文=浊雾
+}
+
+{
+	原文=Sludge
+	译文=污泥攻击
+}
+
+{
+	原文=Bone Club
+	译文=骨棒
+}
+
+{
+	原文=Fire Blast
+	译文=大字爆炎
+}
+
+{
+	原文=Waterfall
+	译文=攀瀑
+}
+
+{
+	原文=Clamp
+	译文=贝壳夹击
+}
+
+{
+	原文=Swift
+	译文=高速星星
+}
+
+{
+	原文=Skull Bash
+	译文=火箭头锤
+}
+
+{
+	原文=Spike Cannon
+	译文=尖刺加农炮
+}
+
+{
+	原文=Constrict
+	译文=缠绕
+}
+
+{
+	原文=Amnesia
+	译文=瞬间失忆
+}
+
+{
+	原文=Kinesis
+	译文=折弯汤匙
+}
+
+{
+	原文=Soft-Boiled
+	译文=生蛋
+}
+
+{
+	原文=SoftBoiled
+	译文=生蛋
+}
+
+{
+	原文=High Jump Kick
+	译文=飞膝踢
+}
+
+{
+	原文=Hi Jump Kick
+	译文=飞膝踢
+}
+
+{
+	原文=Glare
+	译文=大蛇瞪眼
+}
+
+{
+	原文=Dream Eater
+	译文=食梦
+}
+
+{
+	原文=Poison Gas
+	译文=毒瓦斯
+}
+
+{
+	原文=Barrage
+	译文=投球
+}
+
+{
+	原文=Leech Life
+	译文=汲取
+}
+
+{
+	原文=Lovely Kiss
+	译文=恶魔之吻
+}
+
+{
+	原文=Sky Attack
+	译文=神鸟猛击
+}
+
+{
+	原文=Transform
+	译文=变身
+}
+
+{
+	原文=Bubble
+	译文=泡沫
+}
+
+{
+	原文=Dizzy Punch
+	译文=迷昏拳
+}
+
+{
+	原文=Spore
+	译文=蘑菇孢子
+}
+
+{
+	原文=Flash
+	译文=闪光
+}
+
+{
+	原文=Psywave
+	译文=精神波
+}
+
+{
+	原文=Splash
+	译文=跃起
+}
+
+{
+	原文=Acid Armor
+	译文=溶化
+}
+
+{
+	原文=Crabhammer
+	译文=蟹钳锤
+}
+
+{
+	原文=Explosion
+	译文=大爆炸
+}
+
+{
+	原文=Fury Swipes
+	译文=乱抓
+}
+
+{
+	原文=Bonemerang
+	译文=骨头回力镖
+}
+
+{
+	原文=Rest
+	译文=睡觉
+}
+
+{
+	原文=Rock Slide
+	译文=岩崩
+}
+
+{
+	原文=Hyper Fang
+	译文=终结门牙
+}
+
+{
+	原文=Sharpen
+	译文=棱角化
+}
+
+{
+	原文=Conversion
+	译文=纹理
+}
+
+{
+	原文=Tri Attack
+	译文=三重攻击
+}
+
+{
+	原文=Super Fang
+	译文=愤怒门牙
+}
+
+{
+	原文=Slash
+	译文=劈开
+}
+
+{
+	原文=Substitute
+	译文=替身
+}
+
+{
+	原文=Struggle
+	译文=挣扎
+}
+
+{
+	原文=Sketch
+	译文=写生
+}
+
+{
+	原文=Triple Kick
+	译文=三连踢
+}
+
+{
+	原文=Thief
+	译文=小偷
+}
+
+{
+	原文=Spider Web
+	译文=蛛网
+}
+
+{
+	原文=Mind Reader
+	译文=心之眼
+}
+
+{
+	原文=Nightmare
+	译文=恶梦
+}
+
+{
+	原文=Flame Wheel
+	译文=火焰轮
+}
+
+{
+	原文=Snore
+	译文=打鼾
+}
+
+{
+	原文=Curse
+	译文=咒术
+}
+
+{
+	原文=Flail
+	译文=抓狂
+}
+
+{
+	原文=Conversion 2
+	译文=纹理2
+}
+
+{
+	原文=Aeroblast
+	译文=气旋攻击
+}
+
+{
+	原文=Cotton Spore
+	译文=棉孢子
+}
+
+{
+	原文=Reversal
+	译文=绝处逢生
+}
+
+{
+	原文=Spite
+	译文=怨恨
+}
+
+{
+	原文=Powder Snow
+	译文=细雪
+}
+
+{
+	原文=Protect
+	译文=守住
+}
+
+{
+	原文=Mach Punch
+	译文=音速拳
+}
+
+{
+	原文=Scary Face
+	译文=可怕面孔
+}
+
+{
+	原文=Feint Attack
+	译文=出奇一击
+}
+
+{
+	原文=Faint Attack
+	译文=出奇一击
+}
+
+{
+	原文=Sweet Kiss
+	译文=天使之吻
+}
+
+{
+	原文=Belly Drum
+	译文=腹鼓
+}
+
+{
+	原文=Sludge Bomb
+	译文=污泥炸弹
+}
+
+{
+	原文=Mud-Slap
+	译文=掷泥
+}
+
+{
+	原文=Octazooka
+	译文=章鱼桶炮
+}
+
+{
+	原文=Spikes
+	译文=撒菱
+}
+
+{
+	原文=Zap Cannon
+	译文=电磁炮
+}
+
+{
+	原文=Foresight
+	译文=识破
+}
+
+{
+	原文=Destiny Bond
+	译文=同命
+}
+
+{
+	原文=Perish Song
+	译文=终焉之歌
+}
+
+{
+	原文=Icy Wind
+	译文=冰冻之风
+}
+
+{
+	原文=Detect
+	译文=看穿
+}
+
+{
+	原文=Bone Rush
+	译文=骨棒乱打
+}
+
+{
+	原文=Lock-On
+	译文=锁定
+}
+
+{
+	原文=Outrage
+	译文=逆鳞
+}
+
+{
+	原文=Sandstorm
+	译文=沙暴
+}
+
+{
+	原文=Giga Drain
+	译文=终极吸取
+}
+
+{
+	原文=Endure
+	译文=挺住
+}
+
+{
+	原文=Charm
+	译文=撒娇
+}
+
+{
+	原文=Rollout
+	译文=滚动
+}
+
+{
+	原文=False Swipe
+	译文=点到为止
+}
+
+{
+	原文=Swagger
+	译文=虚张声势
+}
+
+{
+	原文=Milk Drink
+	译文=喝牛奶
+}
+
+{
+	原文=Spark
+	译文=电光
+}
+
+{
+	原文=Fury Cutter
+	译文=连斩
+}
+
+{
+	原文=Steel Wing
+	译文=钢翼
+}
+
+{
+	原文=Mean Look
+	译文=黑色目光
+}
+
+{
+	原文=Attract
+	译文=迷人
+}
+
+{
+	原文=Sleep Talk
+	译文=梦话
+}
+
+{
+	原文=Heal Bell
+	译文=治愈铃声
+}
+
+{
+	原文=Return
+	译文=报恩
+}
+
+{
+	原文=Present
+	译文=礼物
+}
+
+{
+	原文=Frustration
+	译文=迁怒
+}
+
+{
+	原文=Safeguard
+	译文=神秘守护
+}
+
+{
+	原文=Pain Split
+	译文=分担痛楚
+}
+
+{
+	原文=Sacred Fire
+	译文=神圣之火
+}
+
+{
+	原文=Magnitude
+	译文=震级
+}
+
+{
+	原文=Dynamic Punch
+	译文=爆裂拳
+}
+
+{
+	原文=DynamicPunch
+	译文=爆裂拳
+}
+
+{
+	原文=Megahorn
+	译文=超级角击
+}
+
+{
+	原文=Dragon Breath
+	译文=龙息
+}
+
+{
+	原文=DragonBreath
+	译文=龙息
+}
+
+{
+	原文=Baton Pass
+	译文=接棒
+}
+
+{
+	原文=Encore
+	译文=再来一次
+}
+
+{
+	原文=Pursuit
+	译文=追打
+}
+
+{
+	原文=Rapid Spin
+	译文=高速旋转
+}
+
+{
+	原文=Sweet Scent
+	译文=甜甜香气
+}
+
+{
+	原文=Iron Tail
+	译文=铁尾
+}
+
+{
+	原文=Metal Claw
+	译文=金属爪
+}
+
+{
+	原文=Vital Throw
+	译文=借力摔
+}
+
+{
+	原文=Morning Sun
+	译文=晨光
+}
+
+{
+	原文=Synthesis
+	译文=光合作用
+}
+
+{
+	原文=Moonlight
+	译文=月光
+}
+
+{
+	原文=Hidden Power
+	译文=觉醒力量
+}
+
+{
+	原文=Cross Chop
+	译文=十字劈
+}
+
+{
+	原文=Twister
+	译文=龙卷风
+}
+
+{
+	原文=Rain Dance
+	译文=求雨
+}
+
+{
+	原文=Sunny Day
+	译文=大晴天
+}
+
+{
+	原文=Crunch
+	译文=咬碎
+}
+
+{
+	原文=Mirror Coat
+	译文=镜面反射
+}
+
+{
+	原文=Psych Up
+	译文=自我暗示
+}
+
+{
+	原文=Extreme Speed
+	译文=神速
+}
+
+{
+	原文=ExtremeSpeed
+	译文=神速
+}
+
+{
+	原文=Ancient Power
+	译文=原始之力
+}
+
+{
+	原文=AncientPower
+	译文=原始之力
+}
+
+{
+	原文=Shadow Ball
+	译文=暗影球
+}
+
+{
+	原文=Future Sight
+	译文=预知未来
+}
+
+{
+	原文=Rock Smash
+	译文=碎岩
+}
+
+{
+	原文=Whirlpool
+	译文=潮旋
+}
+
+{
+	原文=Beat Up
+	译文=围攻
+}
+
+{
+	原文=Fake Out
+	译文=击掌奇袭
+}
+
+{
+	原文=Uproar
+	译文=吵闹
+}
+
+{
+	原文=Stockpile
+	译文=蓄力
+}
+
+{
+	原文=Spit Up
+	译文=喷出
+}
+
+{
+	原文=Swallow
+	译文=吞下
+}
+
+{
+	原文=Heat Wave
+	译文=热风
+}
+
+{
+	原文=Hail
+	译文=冰雹
+}
+
+{
+	原文=Torment
+	译文=无理取闹
+}
+
+{
+	原文=Flatter
+	译文=吹捧
+}
+
+{
+	原文=Will-O-Wisp
+	译文=鬼火
+}
+
+{
+	原文=Memento
+	译文=临别礼物
+}
+
+{
+	原文=Facade
+	译文=硬撑
+}
+
+{
+	原文=Focus Punch
+	译文=真气拳
+}
+
+{
+	原文=Smelling Salts
+	译文=清醒
+}
+
+{
+	原文=SmellingSalt
+	译文=清醒
+}
+
+{
+	原文=Follow Me
+	译文=看我嘛
+}
+
+{
+	原文=Nature Power
+	译文=自然之力
+}
+
+{
+	原文=Charge
+	译文=充电
+}
+
+{
+	原文=Taunt
+	译文=挑衅
+}
+
+{
+	原文=Helping Hand
+	译文=帮助
+}
+
+{
+	原文=Trick
+	译文=戏法
+}
+
+{
+	原文=Role Play
+	译文=扮演
+}
+
+{
+	原文=Wish
+	译文=祈愿
+}
+
+{
+	原文=Assist
+	译文=借助
+}
+
+{
+	原文=Ingrain
+	译文=扎根
+}
+
+{
+	原文=Superpower
+	译文=蛮力
+}
+
+{
+	原文=Magic Coat
+	译文=魔法反射
+}
+
+{
+	原文=Recycle
+	译文=回收利用
+}
+
+{
+	原文=Revenge
+	译文=报复
+}
+
+{
+	原文=Brick Break
+	译文=劈瓦
+}
+
+{
+	原文=Yawn
+	译文=哈欠
+}
+
+{
+	原文=Knock Off
+	译文=拍落
+}
+
+{
+	原文=Endeavor
+	译文=蛮干
+}
+
+{
+	原文=Eruption
+	译文=喷火
+}
+
+{
+	原文=Skill Swap
+	译文=特性互换
+}
+
+{
+	原文=Imprison
+	译文=封印
+}
+
+{
+	原文=Refresh
+	译文=焕然一新
+}
+
+{
+	原文=Grudge
+	译文=怨念
+}
+
+{
+	原文=Snatch
+	译文=化为己用
+}
+
+{
+	原文=Secret Power
+	译文=秘密之力
+}
+
+{
+	原文=Dive
+	译文=潜水
+}
+
+{
+	原文=Arm Thrust
+	译文=猛推
+}
+
+{
+	原文=Camouflage
+	译文=保护色
+}
+
+{
+	原文=Tail Glow
+	译文=萤火
+}
+
+{
+	原文=Luster Purge
+	译文=洁净光芒
+}
+
+{
+	原文=Mist Ball
+	译文=薄雾球
+}
+
+{
+	原文=Feather Dance
+	译文=羽毛舞
+}
+
+{
+	原文=FeatherDance
+	译文=羽毛舞
+}
+
+{
+	原文=Teeter Dance
+	译文=摇晃舞
+}
+
+{
+	原文=Blaze Kick
+	译文=火焰踢
+}
+
+{
+	原文=Mud Sport
+	译文=玩泥巴
+}
+
+{
+	原文=Ice Ball
+	译文=冰球
+}
+
+{
+	原文=Needle Arm
+	译文=尖刺臂
+}
+
+{
+	原文=Slack Off
+	译文=偷懒
+}
+
+{
+	原文=Hyper Voice
+	译文=巨声
+}
+
+{
+	原文=Poison Fang
+	译文=剧毒牙
+}
+
+{
+	原文=Crush Claw
+	译文=撕裂爪
+}
+
+{
+	原文=Blast Burn
+	译文=爆炸烈焰
+}
+
+{
+	原文=Hydro Cannon
+	译文=加农水炮
+}
+
+{
+	原文=Meteor Mash
+	译文=彗星拳
+}
+
+{
+	原文=Astonish
+	译文=惊吓
+}
+
+{
+	原文=Weather Ball
+	译文=气象球
+}
+
+{
+	原文=Aromatherapy
+	译文=芳香治疗
+}
+
+{
+	原文=Fake Tears
+	译文=假哭
+}
+
+{
+	原文=Air Cutter
+	译文=空气利刃
+}
+
+{
+	原文=Overheat
+	译文=过热
+}
+
+{
+	原文=Odor Sleuth
+	译文=气味侦测
+}
+
+{
+	原文=Rock Tomb
+	译文=岩石封锁
+}
+
+{
+	原文=Silver Wind
+	译文=银色旋风
+}
+
+{
+	原文=Metal Sound
+	译文=金属音
+}
+
+{
+	原文=Grass Whistle
+	译文=草笛
+}
+
+{
+	原文=GrassWhistle
+	译文=草笛
+}
+
+{
+	原文=Tickle
+	译文=挠痒
+}
+
+{
+	原文=Cosmic Power
+	译文=宇宙力量
+}
+
+{
+	原文=Water Spout
+	译文=喷水
+}
+
+{
+	原文=Signal Beam
+	译文=信号光束
+}
+
+{
+	原文=Shadow Punch
+	译文=暗影拳
+}
+
+{
+	原文=Extrasensory
+	译文=神通力
+}
+
+{
+	原文=Sky Uppercut
+	译文=冲天拳
+}
+
+{
+	原文=Sand Tomb
+	译文=流沙深渊
+}
+
+{
+	原文=Sheer Cold
+	译文=绝对零度
+}
+
+{
+	原文=Muddy Water
+	译文=浊流
+}
+
+{
+	原文=Bullet Seed
+	译文=种子机关枪
+}
+
+{
+	原文=Aerial Ace
+	译文=燕返
+}
+
+{
+	原文=Icicle Spear
+	译文=冰锥
+}
+
+{
+	原文=Iron Defense
+	译文=铁壁
+}
+
+{
+	原文=Block
+	译文=挡路
+}
+
+{
+	原文=Howl
+	译文=长嚎
+}
+
+{
+	原文=Dragon Claw
+	译文=龙爪
+}
+
+{
+	原文=Frenzy Plant
+	译文=疯狂植物
+}
+
+{
+	原文=Bulk Up
+	译文=健美
+}
+
+{
+	原文=Bounce
+	译文=弹跳
+}
+
+{
+	原文=Mud Shot
+	译文=泥巴射击
+}
+
+{
+	原文=Poison Tail
+	译文=毒尾
+}
+
+{
+	原文=Covet
+	译文=渴望
+}
+
+{
+	原文=Volt Tackle
+	译文=伏特攻击
+}
+
+{
+	原文=Magical Leaf
+	译文=魔法叶
+}
+
+{
+	原文=Water Sport
+	译文=玩水
+}
+
+{
+	原文=Calm Mind
+	译文=冥想
+}
+
+{
+	原文=Leaf Blade
+	译文=叶刃
+}
+
+{
+	原文=Dragon Dance
+	译文=龙之舞
+}
+
+{
+	原文=Rock Blast
+	译文=岩石爆击
+}
+
+{
+	原文=Shock Wave
+	译文=电击波
+}
+
+{
+	原文=Water Pulse
+	译文=水之波动
+}
+
+{
+	原文=Doom Desire
+	译文=破灭之愿
+}
+
+{
+	原文=Psycho Boost
+	译文=精神突进
+}
+
+{
+	原文=Roost
+	译文=羽栖
+}
+
+{
+	原文=Gravity
+	译文=重力
+}
+
+{
+	原文=Miracle Eye
+	译文=奇迹之眼
+}
+
+{
+	原文=Wake-Up Slap
+	译文=唤醒巴掌
+}
+
+{
+	原文=Hammer Arm
+	译文=臂锤
+}
+
+{
+	原文=Gyro Ball
+	译文=陀螺球
+}
+
+{
+	原文=Healing Wish
+	译文=治愈之愿
+}
+
+{
+	原文=Brine
+	译文=盐水
+}
+
+{
+	原文=Natural Gift
+	译文=自然之恩
+}
+
+{
+	原文=Feint
+	译文=佯攻
+}
+
+{
+	原文=Pluck
+	译文=啄食
+}
+
+{
+	原文=Tailwind
+	译文=顺风
+}
+
+{
+	原文=Acupressure
+	译文=点穴
+}
+
+{
+	原文=Metal Burst
+	译文=金属爆炸
+}
+
+{
+	原文=U-turn
+	译文=急速折返
+}
+
+{
+	原文=Close Combat
+	译文=近身战
+}
+
+{
+	原文=Payback
+	译文=以牙还牙
+}
+
+{
+	原文=Assurance
+	译文=恶意追击
+}
+
+{
+	原文=Embargo
+	译文=查封
+}
+
+{
+	原文=Fling
+	译文=投掷
+}
+
+{
+	原文=Psycho Shift
+	译文=精神转移
+}
+
+{
+	原文=Trump Card
+	译文=王牌
+}
+
+{
+	原文=Heal Block
+	译文=回复封锁
+}
+
+{
+	原文=Wring Out
+	译文=绞紧
+}
+
+{
+	原文=Power Trick
+	译文=力量戏法
+}
+
+{
+	原文=Gastro Acid
+	译文=胃液
+}
+
+{
+	原文=Lucky Chant
+	译文=幸运咒语
+}
+
+{
+	原文=Me First
+	译文=抢先一步
+}
+
+{
+	原文=Copycat
+	译文=仿效
+}
+
+{
+	原文=Power Swap
+	译文=力量互换
+}
+
+{
+	原文=Guard Swap
+	译文=防守互换
+}
+
+{
+	原文=Punishment
+	译文=惩罚
+}
+
+{
+	原文=Last Resort
+	译文=珍藏
+}
+
+{
+	原文=Worry Seed
+	译文=烦恼种子
+}
+
+{
+	原文=Sucker Punch
+	译文=突袭
+}
+
+{
+	原文=Toxic Spikes
+	译文=毒菱
+}
+
+{
+	原文=Heart Swap
+	译文=心灵互换
+}
+
+{
+	原文=Aqua Ring
+	译文=水流环
+}
+
+{
+	原文=Magnet Rise
+	译文=电磁飘浮
+}
+
+{
+	原文=Flare Blitz
+	译文=闪焰冲锋
+}
+
+{
+	原文=Force Palm
+	译文=发劲
+}
+
+{
+	原文=Aura Sphere
+	译文=波导弹
+}
+
+{
+	原文=Rock Polish
+	译文=岩石打磨
+}
+
+{
+	原文=Poison Jab
+	译文=毒击
+}
+
+{
+	原文=Dark Pulse
+	译文=恶之波动
+}
+
+{
+	原文=Night Slash
+	译文=暗袭要害
+}
+
+{
+	原文=Aqua Tail
+	译文=水流尾
+}
+
+{
+	原文=Seed Bomb
+	译文=种子炸弹
+}
+
+{
+	原文=Air Slash
+	译文=空气斩
+}
+
+{
+	原文=X-Scissor
+	译文=十字剪
+}
+
+{
+	原文=Bug Buzz
+	译文=虫鸣
+}
+
+{
+	原文=Dragon Pulse
+	译文=龙之波动
+}
+
+{
+	原文=Dragon Rush
+	译文=龙之俯冲
+}
+
+{
+	原文=Power Gem
+	译文=力量宝石
+}
+
+{
+	原文=Drain Punch
+	译文=吸取拳
+}
+
+{
+	原文=Vacuum Wave
+	译文=真空波
+}
+
+{
+	原文=Focus Blast
+	译文=真气弹
+}
+
+{
+	原文=Energy Ball
+	译文=能量球
+}
+
+{
+	原文=Brave Bird
+	译文=勇鸟猛攻
+}
+
+{
+	原文=Earth Power
+	译文=大地之力
+}
+
+{
+	原文=Switcheroo
+	译文=掉包
+}
+
+{
+	原文=Giga Impact
+	译文=终极冲击
+}
+
+{
+	原文=Nasty Plot
+	译文=诡计
+}
+
+{
+	原文=Bullet Punch
+	译文=子弹拳
+}
+
+{
+	原文=Avalanche
+	译文=雪崩
+}
+
+{
+	原文=Ice Shard
+	译文=冰砾
+}
+
+{
+	原文=Shadow Claw
+	译文=暗影爪
+}
+
+{
+	原文=Thunder Fang
+	译文=雷电牙
+}
+
+{
+	原文=Ice Fang
+	译文=冰冻牙
+}
+
+{
+	原文=Fire Fang
+	译文=火焰牙
+}
+
+{
+	原文=Shadow Sneak
+	译文=影子偷袭
+}
+
+{
+	原文=Mud Bomb
+	译文=泥巴炸弹
+}
+
+{
+	原文=Psycho Cut
+	译文=精神利刃
+}
+
+{
+	原文=Zen Headbutt
+	译文=意念头锤
+}
+
+{
+	原文=Mirror Shot
+	译文=镜光射击
+}
+
+{
+	原文=Flash Cannon
+	译文=加农光炮
+}
+
+{
+	原文=Rock Climb
+	译文=攀岩
+}
+
+{
+	原文=Defog
+	译文=清除浓雾
+}
+
+{
+	原文=Trick Room
+	译文=戏法空间
+}
+
+{
+	原文=Draco Meteor
+	译文=流星群
+}
+
+{
+	原文=Discharge
+	译文=放电
+}
+
+{
+	原文=Lava Plume
+	译文=喷烟
+}
+
+{
+	原文=Leaf Storm
+	译文=飞叶风暴
+}
+
+{
+	原文=Power Whip
+	译文=强力鞭打
+}
+
+{
+	原文=Rock Wrecker
+	译文=岩石炮
+}
+
+{
+	原文=Cross Poison
+	译文=十字毒刃
+}
+
+{
+	原文=Gunk Shot
+	译文=垃圾射击
+}
+
+{
+	原文=Iron Head
+	译文=铁头
+}
+
+{
+	原文=Magnet Bomb
+	译文=磁铁炸弹
+}
+
+{
+	原文=Stone Edge
+	译文=尖石攻击
+}
+
+{
+	原文=Captivate
+	译文=诱惑
+}
+
+{
+	原文=Stealth Rock
+	译文=隐形岩
+}
+
+{
+	原文=Grass Knot
+	译文=打草结
+}
+
+{
+	原文=Chatter
+	译文=喋喋不休
+}
+
+{
+	原文=Judgment
+	译文=制裁光砾
+}
+
+{
+	原文=Bug Bite
+	译文=虫咬
+}
+
+{
+	原文=Charge Beam
+	译文=充电光束
+}
+
+{
+	原文=Wood Hammer
+	译文=木槌
+}
+
+{
+	原文=Aqua Jet
+	译文=水流喷射
+}
+
+{
+	原文=Attack Order
+	译文=攻击指令
+}
+
+{
+	原文=Defend Order
+	译文=防御指令
+}
+
+{
+	原文=Heal Order
+	译文=回复指令
+}
+
+{
+	原文=Head Smash
+	译文=双刃头锤
+}
+
+{
+	原文=Double Hit
+	译文=二连击
+}
+
+{
+	原文=Roar of Time
+	译文=时光咆哮
+}
+
+{
+	原文=Spacial Rend
+	译文=亚空裂斩
+}
+
+{
+	原文=Lunar Dance
+	译文=新月舞
+}
+
+{
+	原文=Crush Grip
+	译文=捏碎
+}
+
+{
+	原文=Magma Storm
+	译文=熔岩风暴
+}
+
+{
+	原文=Dark Void
+	译文=暗黑洞
+}
+
+{
+	原文=Seed Flare
+	译文=种子闪光
+}
+
+{
+	原文=Ominous Wind
+	译文=奇异之风
+}
+
+{
+	原文=Shadow Force
+	译文=暗影潜袭
+}
+
+{
+	原文=Hone Claws
+	译文=磨爪
+}
+
+{
+	原文=Wide Guard
+	译文=广域防守
+}
+
+{
+	原文=Guard Split
+	译文=防守平分
+}
+
+{
+	原文=Power Split
+	译文=力量平分
+}
+
+{
+	原文=Wonder Room
+	译文=奇妙空间
+}
+
+{
+	原文=Psyshock
+	译文=精神冲击
+}
+
+{
+	原文=Venoshock
+	译文=毒液冲击
+}
+
+{
+	原文=Autotomize
+	译文=身体轻量化
+}
+
+{
+	原文=Rage Powder
+	译文=愤怒粉
+}
+
+{
+	原文=Telekinesis
+	译文=意念移物
+}
+
+{
+	原文=Magic Room
+	译文=魔法空间
+}
+
+{
+	原文=Smack Down
+	译文=击落
+}
+
+{
+	原文=Storm Throw
+	译文=山岚摔
+}
+
+{
+	原文=Flame Burst
+	译文=烈焰溅射
+}
+
+{
+	原文=Sludge Wave
+	译文=污泥波
+}
+
+{
+	原文=Quiver Dance
+	译文=蝶舞
+}
+
+{
+	原文=Heavy Slam
+	译文=重磅冲撞
+}
+
+{
+	原文=Synchronoise
+	译文=同步干扰
+}
+
+{
+	原文=Electro Ball
+	译文=电球
+}
+
+{
+	原文=Soak
+	译文=浸水
+}
+
+{
+	原文=Flame Charge
+	译文=蓄能焰袭
+}
+
+{
+	原文=Coil
+	译文=盘蜷
+}
+
+{
+	原文=Low Sweep
+	译文=下盘踢
+}
+
+{
+	原文=Acid Spray
+	译文=酸液炸弹
+}
+
+{
+	原文=Foul Play
+	译文=欺诈
+}
+
+{
+	原文=Simple Beam
+	译文=单纯光束
+}
+
+{
+	原文=Entrainment
+	译文=找伙伴
+}
+
+{
+	原文=After You
+	译文=您先请
+}
+
+{
+	原文=Round
+	译文=轮唱
+}
+
+{
+	原文=Echoed Voice
+	译文=回声
+}
+
+{
+	原文=Chip Away
+	译文=逐步击破
+}
+
+{
+	原文=Clear Smog
+	译文=清除之烟
+}
+
+{
+	原文=Stored Power
+	译文=辅助力量
+}
+
+{
+	原文=Quick Guard
+	译文=快速防守
+}
+
+{
+	原文=Ally Switch
+	译文=交换场地
+}
+
+{
+	原文=Scald
+	译文=热水
+}
+
+{
+	原文=Shell Smash
+	译文=破壳
+}
+
+{
+	原文=Heal Pulse
+	译文=治愈波动
+}
+
+{
+	原文=Hex
+	译文=祸不单行
+}
+
+{
+	原文=Sky Drop
+	译文=自由落体
+}
+
+{
+	原文=Shift Gear
+	译文=换档
+}
+
+{
+	原文=Circle Throw
+	译文=巴投
+}
+
+{
+	原文=Incinerate
+	译文=烧尽
+}
+
+{
+	原文=Quash
+	译文=延后
+}
+
+{
+	原文=Acrobatics
+	译文=杂技
+}
+
+{
+	原文=Reflect Type
+	译文=镜面属性
+}
+
+{
+	原文=Retaliate
+	译文=报仇
+}
+
+{
+	原文=Final Gambit
+	译文=搏命
+}
+
+{
+	原文=Bestow
+	译文=传递礼物
+}
+
+{
+	原文=Inferno
+	译文=炼狱
+}
+
+{
+	原文=Water Pledge
+	译文=水之誓约
+}
+
+{
+	原文=Fire Pledge
+	译文=火之誓约
+}
+
+{
+	原文=Grass Pledge
+	译文=草之誓约
+}
+
+{
+	原文=Volt Switch
+	译文=伏特替换
+}
+
+{
+	原文=Struggle Bug
+	译文=虫之抵抗
+}
+
+{
+	原文=Bulldoze
+	译文=重踏
+}
+
+{
+	原文=Frost Breath
+	译文=冰息
+}
+
+{
+	原文=Dragon Tail
+	译文=龙尾
+}
+
+{
+	原文=Work Up
+	译文=自我激励
+}
+
+{
+	原文=Electroweb
+	译文=电网
+}
+
+{
+	原文=Wild Charge
+	译文=疯狂伏特
+}
+
+{
+	原文=Drill Run
+	译文=直冲钻
+}
+
+{
+	原文=Dual Chop
+	译文=二连劈
+}
+
+{
+	原文=Heart Stamp
+	译文=爱心印章
+}
+
+{
+	原文=Horn Leech
+	译文=木角
+}
+
+{
+	原文=Sacred Sword
+	译文=圣剑
+}
+
+{
+	原文=Razor Shell
+	译文=贝壳刃
+}
+
+{
+	原文=Heat Crash
+	译文=高温重压
+}
+
+{
+	原文=Leaf Tornado
+	译文=青草搅拌器
+}
+
+{
+	原文=Steamroller
+	译文=疯狂滚压
+}
+
+{
+	原文=Cotton Guard
+	译文=棉花防守
+}
+
+{
+	原文=Night Daze
+	译文=暗黑爆破
+}
+
+{
+	原文=Psystrike
+	译文=精神击破
+}
+
+{
+	原文=Tail Slap
+	译文=扫尾拍打
+}
+
+{
+	原文=Hurricane
+	译文=暴风
+}
+
+{
+	原文=Head Charge
+	译文=爆炸头突击
+}
+
+{
+	原文=Gear Grind
+	译文=齿轮飞盘
+}
+
+{
+	原文=Searing Shot
+	译文=火焰弹
+}
+
+{
+	原文=Techno Blast
+	译文=高科技光炮
+}
+
+{
+	原文=Relic Song
+	译文=古老之歌
+}
+
+{
+	原文=Secret Sword
+	译文=神秘之剑
+}
+
+{
+	原文=Glaciate
+	译文=冰封世界
+}
+
+{
+	原文=Bolt Strike
+	译文=雷击
+}
+
+{
+	原文=Blue Flare
+	译文=青焰
+}
+
+{
+	原文=Fiery Dance
+	译文=火之舞
+}
+
+{
+	原文=Freeze Shock
+	译文=冰冻伏特
+}
+
+{
+	原文=Ice Burn
+	译文=极寒冷焰
+}
+
+{
+	原文=Snarl
+	译文=大声咆哮
+}
+
+{
+	原文=Icicle Crash
+	译文=冰柱坠击
+}
+
+{
+	原文=V-create
+	译文=V热焰
+}
+
+{
+	原文=Fusion Flare
+	译文=交错火焰
+}
+
+{
+	原文=Fusion Bolt
+	译文=交错闪电
+}
+
+{
+	原文=Flying Press
+	译文=飞身重压
+}
+
+{
+	原文=Mat Block
+	译文=掀榻榻米
+}
+
+{
+	原文=Belch
+	译文=打嗝
+}
+
+{
+	原文=Rototiller
+	译文=耕地
+}
+
+{
+	原文=Sticky Web
+	译文=黏黏网
+}
+
+{
+	原文=Fell Stinger
+	译文=致命针刺
+}
+
+{
+	原文=Phantom Force
+	译文=潜灵奇袭
+}
+
+{
+	原文=Trick-or-Treat
+	译文=万圣夜
+}
+
+{
+	原文=Noble Roar
+	译文=战吼
+}
+
+{
+	原文=Ion Deluge
+	译文=等离子浴
+}
+
+{
+	原文=Parabolic Charge
+	译文=抛物面充电
+}
+
+{
+	原文=Forest’s Curse
+	译文=森林诅咒
+}
+
+{
+	原文=Petal Blizzard
+	译文=落英缤纷
+}
+
+{
+	原文=Freeze-Dry
+	译文=冷冻干燥
+}
+
+{
+	原文=Disarming Voice
+	译文=魅惑之声
+}
+
+{
+	原文=Parting Shot
+	译文=抛下狠话
+}
+
+{
+	原文=Topsy-Turvy
+	译文=颠倒
+}
+
+{
+	原文=Draining Kiss
+	译文=吸取之吻
+}
+
+{
+	原文=Crafty Shield
+	译文=戏法防守
+}
+
+{
+	原文=Flower Shield
+	译文=鲜花防守
+}
+
+{
+	原文=Grassy Terrain
+	译文=青草场地
+}
+
+{
+	原文=Misty Terrain
+	译文=薄雾场地
+}
+
+{
+	原文=Electrify
+	译文=输电
+}
+
+{
+	原文=Play Rough
+	译文=嬉闹
+}
+
+{
+	原文=Fairy Wind
+	译文=妖精之风
+}
+
+{
+	原文=Moonblast
+	译文=月亮之力
+}
+
+{
+	原文=Boomburst
+	译文=爆音波
+}
+
+{
+	原文=Fairy Lock
+	译文=妖精之锁
+}
+
+{
+	原文=King’s Shield
+	译文=王者盾牌
+}
+
+{
+	原文=Play Nice
+	译文=和睦相处
+}
+
+{
+	原文=Confide
+	译文=密语
+}
+
+{
+	原文=Diamond Storm
+	译文=钻石风暴
+}
+
+{
+	原文=Steam Eruption
+	译文=蒸汽爆炸
+}
+
+{
+	原文=Hyperspace Hole
+	译文=异次元洞
+}
+
+{
+	原文=Water Shuriken
+	译文=飞水手里剑
+}
+
+{
+	原文=Mystical Fire
+	译文=魔法火焰
+}
+
+{
+	原文=Spiky Shield
+	译文=尖刺防守
+}
+
+{
+	原文=Aromatic Mist
+	译文=芳香薄雾
+}
+
+{
+	原文=Eerie Impulse
+	译文=怪异电波
+}
+
+{
+	原文=Venom Drench
+	译文=毒液陷阱
+}
+
+{
+	原文=Powder
+	译文=粉尘
+}
+
+{
+	原文=Geomancy
+	译文=大地掌控
+}
+
+{
+	原文=Magnetic Flux
+	译文=磁场操控
+}
+
+{
+	原文=Happy Hour
+	译文=欢乐时光
+}
+
+{
+	原文=Electric Terrain
+	译文=电气场地
+}
+
+{
+	原文=Dazzling Gleam
+	译文=魔法闪耀
+}
+
+{
+	原文=Celebrate
+	译文=庆祝
+}
+
+{
+	原文=Hold Hands
+	译文=牵手
+}
+
+{
+	原文=Baby-Doll Eyes
+	译文=圆瞳
+}
+
+{
+	原文=Nuzzle
+	译文=蹭蹭脸颊
+}
+
+{
+	原文=Hold Back
+	译文=手下留情
+}
+
+{
+	原文=Infestation
+	译文=死缠烂打
+}
+
+{
+	原文=Power-Up Punch
+	译文=增强拳
+}
+
+{
+	原文=Oblivion Wing
+	译文=死亡之翼
+}
+
+{
+	原文=Thousand Arrows
+	译文=千箭齐发
+}
+
+{
+	原文=Thousand Waves
+	译文=千波激荡
+}
+
+{
+	原文=Land’s Wrath
+	译文=大地神力
+}
+
+{
+	原文=Light of Ruin
+	译文=破灭之光
+}
+
+{
+	原文=null
+	译文=null
+}
+
+{
+	原文=Origin Pulse
+	译文=根源波动
+}
+
+{
+	原文=Precipice Blades
+	译文=断崖之剑
+}
+
+{
+	原文=Dragon Ascent
+	译文=画龙点睛
+}
+
+{
+	原文=Hyperspace Fury
+	译文=异次元猛攻
+}
+
+{
+	原文=Breakneck Blitz
+	译文=究极无敌大冲撞
+}
+
+{
+	原文=Breakneck Blitz
+	译文=究极无敌大冲撞
+}
+
+{
+	原文=All-Out Pummeling
+	译文=全力无双激烈拳
+}
+
+{
+	原文=All-Out Pummeling
+	译文=全力无双激烈拳
+}
+
+{
+	原文=Supersonic Skystrike
+	译文=极速俯冲轰烈撞
+}
+
+{
+	原文=Supersonic Skystrike
+	译文=极速俯冲轰烈撞
+}
+
+{
+	原文=Acid Downpour
+	译文=强酸剧毒灭绝雨
+}
+
+{
+	原文=Acid Downpour
+	译文=强酸剧毒灭绝雨
+}
+
+{
+	原文=Tectonic Rage
+	译文=地隆啸天大终结
+}
+
+{
+	原文=Tectonic Rage
+	译文=地隆啸天大终结
+}
+
+{
+	原文=Continental Crush
+	译文=毁天灭地巨岩坠
+}
+
+{
+	原文=Continental Crush
+	译文=毁天灭地巨岩坠
+}
+
+{
+	原文=Savage Spin-Out
+	译文=绝对捕食回旋斩
+}
+
+{
+	原文=Savage Spin-Out
+	译文=绝对捕食回旋斩
+}
+
+{
+	原文=Never-Ending Nightmare
+	译文=无尽暗夜之诱惑
+}
+
+{
+	原文=Never-Ending Nightmare
+	译文=无尽暗夜之诱惑
+}
+
+{
+	原文=Corkscrew Crash
+	译文=超绝螺旋连击
+}
+
+{
+	原文=Corkscrew Crash
+	译文=超绝螺旋连击
+}
+
+{
+	原文=Inferno Overdrive
+	译文=超强极限爆焰弹
+}
+
+{
+	原文=Inferno Overdrive
+	译文=超强极限爆焰弹
+}
+
+{
+	原文=Hydro Vortex
+	译文=超级水流大漩涡
+}
+
+{
+	原文=Hydro Vortex
+	译文=超级水流大漩涡
+}
+
+{
+	原文=Bloom Doom
+	译文=绚烂缤纷花怒放
+}
+
+{
+	原文=Bloom Doom
+	译文=绚烂缤纷花怒放
+}
+
+{
+	原文=Gigavolt Havoc
+	译文=终极伏特狂雷闪
+}
+
+{
+	原文=Gigavolt Havoc
+	译文=终极伏特狂雷闪
+}
+
+{
+	原文=Shattered Psyche
+	译文=至高精神破坏波
+}
+
+{
+	原文=Shattered Psyche
+	译文=至高精神破坏波
+}
+
+{
+	原文=Subzero Slammer
+	译文=激狂大地万里冰
+}
+
+{
+	原文=Subzero Slammer
+	译文=激狂大地万里冰
+}
+
+{
+	原文=Devastating Drake
+	译文=究极巨龙震天地
+}
+
+{
+	原文=Devastating Drake
+	译文=究极巨龙震天地
+}
+
+{
+	原文=Black Hole Eclipse
+	译文=黑洞吞噬万物灭
+}
+
+{
+	原文=Black Hole Eclipse
+	译文=黑洞吞噬万物灭
+}
+
+{
+	原文=Twinkle Tackle
+	译文=可爱星星飞天撞
+}
+
+{
+	原文=Twinkle Tackle
+	译文=可爱星星飞天撞
+}
+
+{
+	原文=Catastropika
+	译文=皮卡皮卡必杀击
+}
+
+{
+	原文=Shore Up
+	译文=集沙
+}
+
+{
+	原文=First Impression
+	译文=迎头一击
+}
+
+{
+	原文=Baneful Bunker
+	译文=碉堡
+}
+
+{
+	原文=Spirit Shackle
+	译文=缝影
+}
+
+{
+	原文=Darkest Lariat
+	译文=DD金勾臂
+}
+
+{
+	原文=Sparkling Aria
+	译文=泡影的咏叹调
+}
+
+{
+	原文=Ice Hammer
+	译文=冰锤
+}
+
+{
+	原文=Floral Healing
+	译文=花疗
+}
+
+{
+	原文=High Horsepower
+	译文=十万马力
+}
+
+{
+	原文=Strength Sap
+	译文=吸取力量
+}
+
+{
+	原文=Solar Blade
+	译文=日光刃
+}
+
+{
+	原文=Leafage
+	译文=树叶
+}
+
+{
+	原文=Spotlight
+	译文=聚光灯
+}
+
+{
+	原文=Toxic Thread
+	译文=毒丝
+}
+
+{
+	原文=Laser Focus
+	译文=磨砺
+}
+
+{
+	原文=Gear Up
+	译文=辅助齿轮
+}
+
+{
+	原文=Throat Chop
+	译文=地狱突刺
+}
+
+{
+	原文=Pollen Puff
+	译文=花粉团
+}
+
+{
+	原文=Anchor Shot
+	译文=掷锚
+}
+
+{
+	原文=Psychic Terrain
+	译文=精神场地
+}
+
+{
+	原文=Lunge
+	译文=猛扑
+}
+
+{
+	原文=Fire Lash
+	译文=火焰鞭
+}
+
+{
+	原文=Power Trip
+	译文=嚣张
+}
+
+{
+	原文=Burn Up
+	译文=燃尽
+}
+
+{
+	原文=Speed Swap
+	译文=速度互换
+}
+
+{
+	原文=Smart Strike
+	译文=修长之角
+}
+
+{
+	原文=Purify
+	译文=净化
+}
+
+{
+	原文=Revelation Dance
+	译文=觉醒之舞
+}
+
+{
+	原文=Core Enforcer
+	译文=核心惩罚者
+}
+
+{
+	原文=Trop Kick
+	译文=热带踢
+}
+
+{
+	原文=Instruct
+	译文=号令
+}
+
+{
+	原文=Beak Blast
+	译文=鸟嘴加农炮
+}
+
+{
+	原文=Clanging Scales
+	译文=鳞片噪音
+}
+
+{
+	原文=Dragon Hammer
+	译文=龙锤
+}
+
+{
+	原文=Brutal Swing
+	译文=狂舞挥打
+}
+
+{
+	原文=Aurora Veil
+	译文=极光幕
+}
+
+{
+	原文=Sinister Arrow Raid
+	译文=遮天蔽日暗影箭
+}
+
+{
+	原文=Malicious Moonsault
+	译文=极恶飞跃粉碎击
+}
+
+{
+	原文=Oceanic Operetta
+	译文=海神庄严交响乐
+}
+
+{
+	原文=Guardian of Alola
+	译文=巨人卫士・阿罗拉
+}
+
+{
+	原文=Soul-Stealing 7-Star Strike
+	译文=七星夺魂腿
+}
+
+{
+	原文=Stoked Sparksurfer
+	译文=驾雷驭电戏冲浪
+}
+
+{
+	原文=Pulverizing Pancake
+	译文=认真起来大爆击
+}
+
+{
+	原文=Extreme Evoboost
+	译文=九彩昇华齐聚顶
+}
+
+{
+	原文=Genesis Supernova
+	译文=起源超新星大爆炸
+}
+
+{
+	原文=Shell Trap
+	译文=陷阱甲壳
+}
+
+{
+	原文=Fleur Cannon
+	译文=花朵加农炮
+}
+
+{
+	原文=Psychic Fangs
+	译文=精神之牙
+}
+
+{
+	原文=Stomping Tantrum
+	译文=跺脚
+}
+
+{
+	原文=Shadow Bone
+	译文=暗影之骨
+}
+
+{
+	原文=Accelerock
+	译文=冲岩
+}
+
+{
+	原文=Liquidation
+	译文=水流裂破
+}
+
+{
+	原文=Prismatic Laser
+	译文=棱镜镭射
+}
+
+{
+	原文=Spectral Thief
+	译文=暗影偷盗
+}
+
+{
+	原文=Sunsteel Strike
+	译文=流星闪冲
+}
+
+{
+	原文=Moongeist Beam
+	译文=暗影之光
+}
+
+{
+	原文=Tearful Look
+	译文=泪眼汪汪
+}
+
+{
+	原文=Zing Zap
+	译文=麻麻刺刺
+}
+
+{
+	原文=Nature’s Madness
+	译文=自然之怒
+}
+
+{
+	原文=Multi-Attack
+	译文=多属性攻击
+}
+
+{
+	原文=10,000,000 Volt Thunderbolt
+	译文=千万伏特
+}
+
+{
+	原文=Mind Blown
+	译文=惊爆大头
+}
+
+{
+	原文=Plasma Fists
+	译文=等离子闪电拳
+}
+
+{
+	原文=Photon Geyser
+	译文=光子喷涌
+}
+
+{
+	原文=Clangorous Soulblaze
+	译文=炽魂热舞烈音爆
+}
+
+{
+	原文=Splintered Stormshards
+	译文=狼啸石牙飓风暴
+}
+
+{
+	原文=Let’s Snuggle Forever
+	译文=亲密无间大乱揍
+}
+
+{
+	原文=Searing Sunraze Smash
+	译文=日光回旋下苍穹
+}
+
+{
+	原文=Menacing Moonraze Maelstrom
+	译文=月华飞溅落灵霄
+}
+
+{
+	原文=Light That Burns the Sky
+	译文=焚天灭世炽光爆
+}
+
+{
+	原文=Zippy Zap
+	译文=电电加速
+}
+
+{
+	原文=Splishy Splash
+	译文=滔滔冲浪
+}
+
+{
+	原文=Floaty Fall
+	译文=飘飘坠落
+}
+
+{
+	原文=Pika Papow
+	译文=闪闪雷光
+}
+
+{
+	原文=Bouncy Bubble
+	译文=活活气泡
+}
+
+{
+	原文=Buzzy Buzz
+	译文=麻麻电击
+}
+
+{
+	原文=Sizzly Slide
+	译文=熊熊火爆
+}
+
+{
+	原文=Glitzy Glow
+	译文=哗哗气场
+}
+
+{
+	原文=Baddy Bad
+	译文=坏坏领域
+}
+
+{
+	原文=Sappy Seed
+	译文=茁茁轰炸
+}
+
+{
+	原文=Freezy Frost
+	译文=冰冰霜冻
+}
+
+{
+	原文=Sparkly Swirl
+	译文=亮亮风暴
+}
+
+{
+	原文=Veevee Volley
+	译文=砰砰击破
+}
+
+{
+	原文=Double Iron Bash
+	译文=钢拳双击
+}
+
+{
+	原文=Max Guard
+	译文=极巨防壁
+}
+
+{
+	原文=Dynamax Cannon
+	译文=极巨炮
+}
+
+{
+	原文=Snipe Shot
+	译文=狙击
+}
+
+{
+	原文=Jaw Lock
+	译文=紧咬不放
+}
+
+{
+	原文=Stuff Cheeks
+	译文=大快朵颐
+}
+
+{
+	原文=No Retreat
+	译文=背水一战
+}
+
+{
+	原文=Tar Shot
+	译文=沥青射击
+}
+
+{
+	原文=Magic Powder
+	译文=魔法粉
+}
+
+{
+	原文=Dragon Darts
+	译文=龙箭
+}
+
+{
+	原文=Teatime
+	译文=茶会
+}
+
+{
+	原文=Octolock
+	译文=蛸固
+}
+
+{
+	原文=Bolt Beak
+	译文=电喙
+}
+
+{
+	原文=Fishious Rend
+	译文=鳃咬
+}
+
+{
+	原文=Court Change
+	译文=换场
+}
+
+{
+	原文=Max Flare
+	译文=极巨火爆
+}
+
+{
+	原文=Max Flutterby
+	译文=极巨虫蛊
+}
+
+{
+	原文=Max Lightning
+	译文=极巨闪电
+}
+
+{
+	原文=Max Strike
+	译文=极巨攻击
+}
+
+{
+	原文=Max Knuckle
+	译文=极巨拳斗
+}
+
+{
+	原文=Max Phantasm
+	译文=极巨幽魂
+}
+
+{
+	原文=Max Hailstorm
+	译文=极巨寒冰
+}
+
+{
+	原文=Max Ooze
+	译文=极巨酸毒
+}
+
+{
+	原文=Max Geyser
+	译文=极巨水流
+}
+
+{
+	原文=Max Airstream
+	译文=极巨飞冲
+}
+
+{
+	原文=Max Starfall
+	译文=极巨妖精
+}
+
+{
+	原文=Max Wyrmwind
+	译文=极巨龙骑
+}
+
+{
+	原文=Max Mindstorm
+	译文=极巨超能
+}
+
+{
+	原文=Max Rockfall
+	译文=极巨岩石
+}
+
+{
+	原文=Max Quake
+	译文=极巨大地
+}
+
+{
+	原文=Max Darkness
+	译文=极巨恶霸
+}
+
+{
+	原文=Max Overgrowth
+	译文=极巨草原
+}
+
+{
+	原文=Max Steelspike
+	译文=极巨钢铁
+}
+
+{
+	原文=Clangorous Soul
+	译文=魂舞烈音爆
+}
+
+{
+	原文=Body Press
+	译文=扑击
+}
+
+{
+	原文=Decorate
+	译文=装饰
+}
+
+{
+	原文=Drum Beating
+	译文=鼓击
+}
+
+{
+	原文=Snap Trap
+	译文=捕兽夹
+}
+
+{
+	原文=Pyro Ball
+	译文=火焰球
+}
+
+{
+	原文=Behemoth Blade
+	译文=巨兽斩
+}
+
+{
+	原文=Behemoth Bash
+	译文=巨兽弹
+}
+
+{
+	原文=Aura Wheel
+	译文=气场轮
+}
+
+{
+	原文=Breaking Swipe
+	译文=广域破坏
+}
+
+{
+	原文=Branch Poke
+	译文=木枝突刺
+}
+
+{
+	原文=Overdrive
+	译文=破音
+}
+
+{
+	原文=Apple Acid
+	译文=苹果酸
+}
+
+{
+	原文=Grav Apple
+	译文=万有引力
+}
+
+{
+	原文=Spirit Break
+	译文=灵魂冲击
+}
+
+{
+	原文=Strange Steam
+	译文=神奇蒸汽
+}
+
+{
+	原文=Life Dew
+	译文=生命水滴
+}
+
+{
+	原文=Obstruct
+	译文=拦堵
+}
+
+{
+	原文=False Surrender
+	译文=假跪真撞
+}
+
+{
+	原文=Meteor Assault
+	译文=流星突击
+}
+
+{
+	原文=Eternabeam
+	译文=无极光束
+}
+
+{
+	原文=Steel Beam
+	译文=铁蹄光线
+}
+
+{
+	原文=G-Max Wildfire
+	译文=超极巨地狱灭焰
+}
+
+{
+	原文=G-Max Befuddle
+	译文=超极巨蝶影蛊惑
+}
+
+{
+	原文=G-Max Volt Crash
+	译文=超极巨万雷轰顶
+}
+
+{
+	原文=G-Max Gold Rush
+	译文=超极巨特大金币
+}
+
+{
+	原文=G-Max Chi Strike
+	译文=超极巨会心一击
+}
+
+{
+	原文=G-Max Terror
+	译文=超极巨幻影幽魂
+}
+
+{
+	原文=G-Max Resonance
+	译文=超极巨极光旋律
+}
+
+{
+	原文=G-Max Cuddle
+	译文=超极巨热情拥抱
+}
+
+{
+	原文=G-Max Replenish
+	译文=超极巨资源再生
+}
+
+{
+	原文=G-Max Malodor
+	译文=超极巨臭气冲天
+}
+
+{
+	原文=G-Max Stonesurge
+	译文=超极巨岩阵以待
+}
+
+{
+	原文=G-Max Wind Rage
+	译文=超极巨旋风袭卷
+}
+
+{
+	原文=G-Max Stun Shock
+	译文=超极巨异毒电场
+}
+
+{
+	原文=G-Max Finale
+	译文=超极巨幸福圆满
+}
+
+{
+	原文=G-Max Depletion
+	译文=超极巨劣化衰变
+}
+
+{
+	原文=G-Max Gravitas
+	译文=超极巨天道七星
+}
+
+{
+	原文=G-Max Volcalith
+	译文=超极巨炎石喷发
+}
+
+{
+	原文=G-Max Sandblast
+	译文=超极巨沙尘漫天
+}
+
+{
+	原文=G-Max Snooze
+	译文=超极巨睡魔降临
+}
+
+{
+	原文=G-Max Tartness
+	译文=超极巨酸不溜丢
+}
+
+{
+	原文=G-Max Sweetness
+	译文=超极巨琼浆玉液
+}
+
+{
+	原文=G-Max Smite
+	译文=超极巨天谴雷诛
+}
+
+{
+	原文=G-Max Steelsurge
+	译文=超极巨钢铁阵法
+}
+
+{
+	原文=G-Max Meltdown
+	译文=超极巨液金熔击
+}
+
+{
+	原文=G-Max Foam Burst
+	译文=超极巨激漩泡涡
+}
+
+{
+	原文=G-Max Centiferno
+	译文=超极巨百火焚野
+}
+
+{
+	原文=null
+	译文=null
+}
+
+{
+	原文=Expanding Force
+	译文=广域战力
+}
+
+{
+	原文=Steel Roller
+	译文=铁滚轮
+}
+
+{
+	原文=Scale Shot
+	译文=鳞射
+}
+
+{
+	原文=Meteor Beam
+	译文=流星光束
+}
+
+{
+	原文=Shell Side Arm
+	译文=臂贝武器
+}
+
+{
+	原文=Misty Explosion
+	译文=薄雾炸裂
+}
+
+{
+	原文=Grassy Glide
+	译文=青草滑梯
+}
+
+{
+	原文=Rising Voltage
+	译文=电力上升
+}
+
+{
+	原文=Terrain Pulse
+	译文=大地波动
+}
+
+{
+	原文=Skitter Smack
+	译文=爬击
+}
+
+{
+	原文=Burning Jealousy
+	译文=妒火
+}
+
+{
+	原文=Lash Out
+	译文=泄愤
+}
+
+{
+	原文=Poltergeist
+	译文=灵骚
+}
+
+{
+	原文=Corrosive Gas
+	译文=腐蚀气体
+}
+
+{
+	原文=Coaching
+	译文=指导
+}
+
+{
+	原文=Flip Turn
+	译文=快速折返
+}
+
+{
+	原文=Triple Axel
+	译文=三旋击
+}
+
+{
+	原文=Dual Wingbeat
+	译文=双翼
+}
+
+{
+	原文=Scorching Sands
+	译文=热沙大地
+}
+
+{
+	原文=Jungle Healing
+	译文=丛林治疗
+}
+
+{
+	原文=Wicked Blow
+	译文=暗冥强击
+}
+
+{
+	原文=Surging Strikes
+	译文=水流连打
+}
+
+{
+	原文=G-Max Drum Solo
+	译文=超极巨狂擂乱打
+}
+
+{
+	原文=G-Max Fireball
+	译文=超极巨破阵火球
+}
+
+{
+	原文=G-Max Hydrosnipe
+	译文=超极巨狙击神射
+}
+
+{
+	原文=G-Max Vine Lash
+	译文=超极巨灰飞鞭灭‎‎
+}
+
+{
+	原文=G-Max Cannonade
+	译文=超极巨水炮轰灭‎‎
+}
+
+{
+	原文=G-Max One Blow
+	译文=超极巨夺命一击‎‎
+}
+
+{
+	原文=G-Max Rapid Flow
+	译文=超极巨流水连击‎‎
+}
+
+{
+	原文=Thunder Cage
+	译文=雷电囚笼
+}
+
+{
+	原文=Dragon Energy
+	译文=巨龙威能
+}
+
+{
+	原文=Freezing Glare
+	译文=冰冷视线
+}
+
+{
+	原文=Fiery Wrath
+	译文=怒火中烧
+}
+
+{
+	原文=Thunderous Kick
+	译文=雷鸣蹴击
+}
+
+{
+	原文=Glacial Lance
+	译文=雪矛
+}
+
+{
+	原文=Astral Barrage
+	译文=星碎
+}
+
+{
+	原文=Eerie Spell
+	译文=诡异咒语
+}
+
+{
+	原文=null
+	译文=null
+}
+
+{
+	原文=Dire Claw
+	译文=克命爪
+}
+
+{
+	原文=Psyshield Bash
+	译文=屏障猛攻
+}
+
+{
+	原文=Power Shift
+	译文=力量转换
+}
+
+{
+	原文=Stone Axe
+	译文=岩斧
+}
+
+{
+	原文=Springtide Storm
+	译文=阳春风暴
+}
+
+{
+	原文=Mystical Power
+	译文=神秘之力
+}
+
+{
+	原文=Raging Fury
+	译文=大愤慨
+}
+
+{
+	原文=Wave Crash
+	译文=波动冲
+}
+
+{
+	原文=Chloroblast
+	译文=叶绿爆震
+}
+
+{
+	原文=Mountain Gale
+	译文=冰山风
+}
+
+{
+	原文=Victory Dance
+	译文=胜利之舞
+}
+
+{
+	原文=Headlong Rush
+	译文=突飞猛扑
+}
+
+{
+	原文=Barb Barrage
+	译文=毒千针
+}
+
+{
+	原文=Esper Wing
+	译文=气场之翼
+}
+
+{
+	原文=Bitter Malice
+	译文=冤冤相报
+}
+
+{
+	原文=Shelter
+	译文=闭关
+}
+
+{
+	原文=Triple Arrows
+	译文=三连箭
+}
+
+{
+	原文=Infernal Parade
+	译文=群魔乱舞
+}
+
+{
+	原文=Ceaseless Edge
+	译文=秘剑・千重涛
+}
+
+{
+	原文=Bleakwind Storm
+	译文=枯叶风暴
+}
+
+{
+	原文=Wildbolt Storm
+	译文=鸣雷风暴
+}
+
+{
+	原文=Sandsear Storm
+	译文=热沙风暴
+}
+
+{
+	原文=Lunar Blessing
+	译文=新月祈祷
+}
+
+{
+	原文=Take Heart
+	译文=勇气填充
+}
+
+{
+	原文=Tera Blast
+	译文=太晶爆发
+}
+
+{
+	原文=Silk Trap
+	译文=线阱
+}
+
+{
+	原文=Axe Kick
+	译文=下压踢
+}
+
+{
+	原文=Last Respects
+	译文=扫墓
+}
+
+{
+	原文=Lumina Crash
+	译文=琉光冲激
+}
+
+{
+	原文=Order Up
+	译文=上菜
+}
+
+{
+	原文=Jet Punch
+	译文=喷射拳
+}
+
+{
+	原文=Spicy Extract
+	译文=辣椒精华
+}
+
+{
+	原文=Spin Out
+	译文=疾速转轮
+}
+
+{
+	原文=Population Bomb
+	译文=鼠数儿
+}
+
+{
+	原文=Ice Spinner
+	译文=冰旋
+}
+
+{
+	原文=Glaive Rush
+	译文=巨剑突击
+}
+
+{
+	原文=Revival Blessing
+	译文=复生祈祷
+}
+
+{
+	原文=Salt Cure
+	译文=盐腌
+}
+
+{
+	原文=Triple Dive
+	译文=三连钻
+}
+
+{
+	原文=Mortal Spin
+	译文=晶光转转
+}
+
+{
+	原文=Doodle
+	译文=描绘
+}
+
+{
+	原文=Fillet Away
+	译文=甩肉
+}
+
+{
+	原文=Kowtow Cleave
+	译文=仆刀
+}
+
+{
+	原文=Flower Trick
+	译文=千变万花
+}
+
+{
+	原文=Torch Song
+	译文=闪焰高歌
+}
+
+{
+	原文=Aqua Step
+	译文=流水旋舞
+}
+
+{
+	原文=Raging Bull
+	译文=怒牛
+}
+
+{
+	原文=Make It Rain
+	译文=淘金潮
+}
+
+{
+	原文=Ruination
+	译文=大灾难
+}
+
+{
+	原文=Collision Course
+	译文=全开猛撞
+}
+
+{
+	原文=Electro Drift
+	译文=闪电猛冲
+}
+
+{
+	原文=Shed Tail
+	译文=断尾
+}
+
+{
+	原文=Chilly Reception
+	译文=冷笑话
+}
+
+{
+	原文=Tidy Up
+	译文=大扫除
+}
+
+{
+	原文=Snowscape
+	译文=雪景
+}
+
+{
+	原文=Pounce
+	译文=虫扑
+}
+
+{
+	原文=Trailblaze
+	译文=起草
+}
+
+{
+	原文=Chilling Water
+	译文=泼冷水
+}
+
+{
+	原文=Hyper Drill
+	译文=强力钻
+}
+
+{
+	原文=Twin Beam
+	译文=双光束
+}
+
+{
+	原文=Rage Fist
+	译文=愤怒之拳
+}
+
+{
+	原文=Armor Cannon
+	译文=铠农炮
+}
+
+{
+	原文=Bitter Blade
+	译文=悔念剑
+}
+
+{
+	原文=Double Shock
+	译文=电光双击
+}
+
+{
+	原文=Gigaton Hammer
+	译文=巨力锤
+}
+
+{
+	原文=Comeuppance
+	译文=复仇
+}
+
+{
+	原文=Aqua Cutter
+	译文=水波刀
+}
+
+{
+	原文=Blazing Torque
+	译文=灼热暴冲
+}
+
+{
+	原文=Wicked Torque
+	译文=黑暗暴冲
+}
+
+{
+	原文=Noxious Torque
+	译文=剧毒暴冲
+}
+
+{
+	原文=Combat Torque
+	译文=格斗暴冲
+}
+
+{
+	原文=Magical Torque
+	译文=魔法暴冲
+}
+

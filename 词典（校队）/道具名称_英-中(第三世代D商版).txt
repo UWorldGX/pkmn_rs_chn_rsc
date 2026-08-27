@@ -1,0 +1,1184 @@
+{
+	词典类型=2
+	忽略大小写=开
+}
+
+{
+	原文=Master Ball
+	译文=大师球
+}
+
+{
+	原文=Ultra Ball
+	译文=超力怪兽球
+}
+
+{
+	原文=Great Ball
+	译文=超级球
+}
+
+{
+	原文=Poké Ball
+	译文=怪兽球
+}
+
+{
+	原文=Safari Ball
+	译文=砂狐球
+}
+
+{
+	原文=Net Ball
+	译文=蚀网球
+}
+
+{
+	原文=Dive Ball
+	译文=大布斯球
+}
+
+{
+	原文=Nest Ball
+	译文=尼斯道球
+}
+
+{
+	原文=Repeat Ball
+	译文=利比道球
+}
+
+{
+	原文=Timer Ball
+	译文=达伊玛球
+}
+
+{
+	原文=LuXury Ball
+	译文=高基石球
+}
+
+{
+	原文=Premier Ball
+	译文=布雷密球
+}
+
+{
+	原文=Potion
+	译文=伤药
+}
+
+{
+	原文=Antidote
+	译文=解毒药
+}
+
+{
+	原文=Burn Heal
+	译文=烧药恢复
+}
+
+{
+	原文=Ice Heal
+	译文=解冻药
+}
+
+{
+	原文=Awakening
+	译文=清醒药
+}
+
+{
+	原文=Paralyze Heal
+	译文=麻痹恢复
+}
+
+{
+	原文=Parlyz Heal
+	译文=麻痹恢复
+}
+
+{
+	原文=Full Restore
+	译文=恢复药
+}
+
+{
+	原文=MaX Potion
+	译文=慢谈药
+}
+
+{
+	原文=Hyper Potion
+	译文=伤药
+}
+
+{
+	原文=Super Potion
+	译文=好伤药
+}
+
+{
+	原文=Full Heal
+	译文=万能恢复
+}
+
+{
+	原文=Revive
+	译文=精神片
+}
+
+{
+	原文=MaX Revive
+	译文=精神草
+}
+
+{
+	原文=Fresh Water
+	译文=美味水
+}
+
+{
+	原文=Soda Pop
+	译文=精神汽水
+}
+
+{
+	原文=Lemonade
+	译文=米力液
+}
+
+{
+	原文=Moomoo Milk
+	译文=木木奶
+}
+
+{
+	原文=Energy Powder
+	译文=力量粉
+}
+
+{
+	原文=EnergyPowder
+	译文=力量粉
+}
+
+{
+	原文=Energy Root
+	译文=力量根
+}
+
+{
+	原文=Heal Powder
+	译文=万能粉
+}
+
+{
+	原文=Revival Herb
+	译文=复活草
+}
+
+{
+	原文=Ether
+	译文=PP艾依
+}
+
+{
+	原文=MaX Ether
+	译文=PP力卡
+}
+
+{
+	原文=EliXir
+	译文=PP依达
+}
+
+{
+	原文=MaX EliXir
+	译文=PP最大
+}
+
+{
+	原文=Lava Cookie
+	译文=飞音饼
+}
+
+{
+	原文=Blue Flute
+	译文=蓝玻璃
+}
+
+{
+	原文=Yellow Flute
+	译文=黄玻璃
+}
+
+{
+	原文=Red Flute
+	译文=红玻璃
+}
+
+{
+	原文=Black Flute
+	译文=黑玻璃
+}
+
+{
+	原文=White Flute
+	译文=白玻璃
+}
+
+{
+	原文=Berry Juice
+	译文=树果汁
+}
+
+{
+	原文=Sacred Ash
+	译文=圣是
+}
+
+{
+	原文=Shoal Salt
+	译文=浅水盐
+}
+
+{
+	原文=Shoal Shell
+	译文=浅水贝
+}
+
+{
+	原文=Red Shard
+	译文=红碎片
+}
+
+{
+	原文=Blue Shard
+	译文=蓝碎片
+}
+
+{
+	原文=Yellow Shard
+	译文=黄碎片
+}
+
+{
+	原文=Green Shard
+	译文=绿碎片
+}
+
+{
+	原文=HP Up
+	译文=最大上升
+}
+
+{
+	原文=Protein
+	译文=赞美语
+}
+
+{
+	原文=Iron
+	译文=落海夫
+}
+
+{
+	原文=Carbos
+	译文=因得西
+}
+
+{
+	原文=Calcium
+	译文=立麦森
+}
+
+{
+	原文=Rare Candy
+	译文=奇异甜食
+}
+
+{
+	原文=PP Up
+	译文=值上升
+}
+
+{
+	原文=Zinc
+	译文=极道山果
+}
+
+{
+	原文=PP MaX
+	译文=值最大
+}
+
+{
+	原文=Guard Spec.
+	译文=效果卡
+}
+
+{
+	原文=Dire Hit
+	译文=清洗物
+}
+
+{
+	原文=X Attack
+	译文=布拉斯力量
+}
+
+{
+	原文=X Defense
+	译文=力道
+}
+
+{
+	原文=X Defend
+	译文=力道
+}
+
+{
+	原文=X Speed
+	译文=敏捷力
+}
+
+{
+	原文=X Accuracy
+	译文=纪念打
+}
+
+{
+	原文=X Special
+	译文=特别上升
+}
+
+{
+	原文=Poké Doll
+	译文=皮皮木偶
+}
+
+{
+	原文=Fluffy Tail
+	译文=小松鼠尾
+}
+
+{
+	原文=Super Repel
+	译文=抢先
+}
+
+{
+	原文=MaX Repel
+	译文=喷射器
+}
+
+{
+	原文=Escape Rope
+	译文=穿洞绳
+}
+
+{
+	原文=Repel
+	译文=避开
+}
+
+{
+	原文=Sun Stone
+	译文=太阳石
+}
+
+{
+	原文=Moon Stone
+	译文=月亮石
+}
+
+{
+	原文=Fire Stone
+	译文=火焰石
+}
+
+{
+	原文=Thunder Stone
+	译文=雷电石
+}
+
+{
+	原文=ThunderStone
+	译文=雷电石
+}
+
+{
+	原文=Water Stone
+	译文=水石
+}
+
+{
+	原文=Leaf Stone
+	译文=珊瑚石
+}
+
+{
+	原文=Tiny Mushroom
+	译文=小的树果
+}
+
+{
+	原文=TinyMushroom
+	译文=小的树果
+}
+
+{
+	原文=Big Mushroom
+	译文=大的树果
+}
+
+{
+	原文=Pearl
+	译文=珍珠
+}
+
+{
+	原文=Big Pearl
+	译文=大珍珠
+}
+
+{
+	原文=Stardust
+	译文=星沙
+}
+
+{
+	原文=Star Piece
+	译文=星星碎片
+}
+
+{
+	原文=Nugget
+	译文=金珠
+}
+
+{
+	原文=Heart Scale
+	译文=心灵鳞片
+}
+
+{
+	原文=Orange Mail
+	译文=彩色邮件
+}
+
+{
+	原文=Harbor Mail
+	译文=哈伯邮件
+}
+
+{
+	原文=Glitter Mail
+	译文=闪光邮件
+}
+
+{
+	原文=Mech Mail
+	译文=机械邮件
+}
+
+{
+	原文=Wood Mail
+	译文=鸟烟邮件
+}
+
+{
+	原文=Wave Mail
+	译文=十字邮件
+}
+
+{
+	原文=Bead Mail
+	译文=珠品邮件
+}
+
+{
+	原文=Shadow Mail
+	译文=阴影邮件
+}
+
+{
+	原文=Tropical Mail
+	译文=热带邮件
+}
+
+{
+	原文=Tropic Mail
+	译文=热带邮件
+}
+
+{
+	原文=Dream Mail
+	译文=花边邮件
+}
+
+{
+	原文=Fab Mail
+	译文=神奇邮件
+}
+
+{
+	原文=Retro Mail
+	译文=怀旧邮件
+}
+
+{
+	原文=Cheri Berry
+	译文=解麻果
+}
+
+{
+	原文=Chesto Berry
+	译文=醒睡果
+}
+
+{
+	原文=Pecha Berry
+	译文=解毒果
+}
+
+{
+	原文=Rawst Berry
+	译文=烧伤果
+}
+
+{
+	原文=Aspear Berry
+	译文=解冻果
+}
+
+{
+	原文=Leppa Berry
+	译文=木果
+}
+
+{
+	原文=Oran Berry
+	译文=桔果
+}
+
+{
+	原文=Persim Berry
+	译文=太阳果
+}
+
+{
+	原文=Lum Berry
+	译文=雷木果
+}
+
+{
+	原文=Sitrus Berry
+	译文=黄石果
+}
+
+{
+	原文=Figy Berry
+	译文=飞来果
+}
+
+{
+	原文=Wiki Berry
+	译文=沙一果
+}
+
+{
+	原文=Mago Berry
+	译文=真之果
+}
+
+{
+	原文=Aguav Berry
+	译文=混光果
+}
+
+{
+	原文=Iapapa Berry
+	译文=易果
+}
+
+{
+	原文=Razz Berry
+	译文=红果
+}
+
+{
+	原文=Bluk Berry
+	译文=紫果
+}
+
+{
+	原文=Nanab Berry
+	译文=香果
+}
+
+{
+	原文=Wepear Berry
+	译文=利果
+}
+
+{
+	原文=Pinap Berry
+	译文=波罗果
+}
+
+{
+	原文=Pomeg Berry
+	译文=灯灯果
+}
+
+{
+	原文=Kelpsy Berry
+	译文=猫形果
+}
+
+{
+	原文=Qualot Berry
+	译文=水波果
+}
+
+{
+	原文=Hondew Berry
+	译文=黄果
+}
+
+{
+	原文=Grepa Berry
+	译文=鸟布果
+}
+
+{
+	原文=Tamato Berry
+	译文=红刺果
+}
+
+{
+	原文=Cornn Berry
+	译文=木高西果
+}
+
+{
+	原文=Magost Berry
+	译文=高芝果
+}
+
+{
+	原文=Rabuta Berry
+	译文=布拉达果
+}
+
+{
+	原文=Nomel Berry
+	译文=麦鲁果
+}
+
+{
+	原文=Spelon Berry
+	译文=万吉果
+}
+
+{
+	原文=Pamtre Berry
+	译文=西亚果
+}
+
+{
+	原文=Watmel Berry
+	译文=卡伊斯果
+}
+
+{
+	原文=Durin Berry
+	译文=刀利果
+}
+
+{
+	原文=Belue Berry
+	译文=海比果
+}
+
+{
+	原文=Liechi Berry
+	译文=吉拉果
+}
+
+{
+	原文=Ganlon Berry
+	译文=利卡果
+}
+
+{
+	原文=Salac Berry
+	译文=卡木拉果
+}
+
+{
+	原文=Petaya Berry
+	译文=哑达比果
+}
+
+{
+	原文=Apicot Berry
+	译文=阿芝果
+}
+
+{
+	原文=Lansat Berry
+	译文=山果
+}
+
+{
+	原文=Starf Berry
+	译文=星星果
+}
+
+{
+	原文=Bright Powder
+	译文=光粉
+}
+
+{
+	原文=BrightPowder
+	译文=光粉
+}
+
+{
+	原文=White Herb
+	译文=白色海石花
+}
+
+{
+	原文=Macho Brace
+	译文=竞争背心
+}
+
+{
+	原文=EXp. Share
+	译文=学习装置
+}
+
+{
+	原文=Quick Claw
+	译文=老师指甲
+}
+
+{
+	原文=Soothe Bell
+	译文=安闲铃
+}
+
+{
+	原文=Mental Herb
+	译文=精神海石花
+}
+
+{
+	原文=Choice Band
+	译文=守旧器
+}
+
+{
+	原文=King’s Rock
+	译文=王者之证
+}
+
+{
+	原文=Silver Powder
+	译文=银粉
+}
+
+{
+	原文=SilverPowder
+	译文=银粉
+}
+
+{
+	原文=Amulet Coin
+	译文=守卫饭
+}
+
+{
+	原文=Cleanse Tag
+	译文=清符
+}
+
+{
+	原文=Soul Dew
+	译文=心珠
+}
+
+{
+	原文=Deep Sea Tooth
+	译文=进化牙
+}
+
+{
+	原文=DeepSeaTooth
+	译文=进化牙
+}
+
+{
+	原文=Deep Sea Scale
+	译文=进化鳞片
+}
+
+{
+	原文=DeepSeaScale
+	译文=进化鳞片
+}
+
+{
+	原文=Smoke Ball
+	译文=烟珠
+}
+
+{
+	原文=Everstone
+	译文=不变石
+}
+
+{
+	原文=Focus Band
+	译文=精神器
+}
+
+{
+	原文=Lucky Egg
+	译文=幸福怪兽蛋
+}
+
+{
+	原文=Scope Lens
+	译文=焦点镜
+}
+
+{
+	原文=Metal Coat
+	译文=杯衣
+}
+
+{
+	原文=Leftovers
+	译文=余物
+}
+
+{
+	原文=Dragon Scale
+	译文=龙鳞
+}
+
+{
+	原文=Light Ball
+	译文=电珠
+}
+
+{
+	原文=Soft Sand
+	译文=软沙
+}
+
+{
+	原文=Hard Stone
+	译文=坚硬石头
+}
+
+{
+	原文=Miracle Seed
+	译文=奇迹种
+}
+
+{
+	原文=Black Glasses
+	译文=黑色眼镜
+}
+
+{
+	原文=BlackGlasses
+	译文=黑色眼镜
+}
+
+{
+	原文=Black Belt
+	译文=黑带
+}
+
+{
+	原文=Magnet
+	译文=磁铁
+}
+
+{
+	原文=Mystic Water
+	译文=神秘水珠
+}
+
+{
+	原文=Sharp Beak
+	译文=尖嘴
+}
+
+{
+	原文=Poison Barb
+	译文=毒针
+}
+
+{
+	原文=Never-Melt Ice
+	译文=不化冰
+}
+
+{
+	原文=NeverMeltIce
+	译文=不化冰
+}
+
+{
+	原文=Spell Tag
+	译文=诅咒符
+}
+
+{
+	原文=Twisted Spoon
+	译文=混勺
+}
+
+{
+	原文=TwistedSpoon
+	译文=混勺
+}
+
+{
+	原文=Charcoal
+	译文=木炭
+}
+
+{
+	原文=Dragon Fang
+	译文=龙牙
+}
+
+{
+	原文=Silk Scarf
+	译文=西库头巾
+}
+
+{
+	原文=Up-Grade
+	译文=上升叶片
+}
+
+{
+	原文=Shell Bell
+	译文=空贝
+}
+
+{
+	原文=Sea Incense
+	译文=潮物
+}
+
+{
+	原文=LaX Incense
+	译文=气物
+}
+
+{
+	原文=Lucky Punch
+	译文=吉利蛋钳
+}
+
+{
+	原文=Metal Powder
+	译文=木物
+}
+
+{
+	原文=Thick Club
+	译文=粗骨头
+}
+
+{
+	原文=Stick
+	译文=大葱
+}
+
+{
+	原文=Red Scarf
+	译文=红手巾
+}
+
+{
+	原文=Blue Scarf
+	译文=蓝手巾
+}
+
+{
+	原文=Pink Scarf
+	译文=粉手巾
+}
+
+{
+	原文=Green Scarf
+	译文=绿手巾
+}
+
+{
+	原文=Yellow Scarf
+	译文=黄手巾
+}
+
+{
+	原文=Mach Bike
+	译文=风马自行车
+}
+
+{
+	原文=Coin Case
+	译文=硬币盒
+}
+
+{
+	原文=Itemfinder
+	译文=透视仪
+}
+
+{
+	原文=Old Rod
+	译文=钓鱼竿
+}
+
+{
+	原文=Good Rod
+	译文=好钓竿
+}
+
+{
+	原文=Super Rod
+	译文=超级钓竿
+}
+
+{
+	原文=S.S. Ticket
+	译文=船票
+}
+
+{
+	原文=Contest Pass
+	译文=比赛通行证
+}
+
+{
+	原文=Wailmer Pail
+	译文=皮皮鲸喷壶
+}
+
+{
+	原文=Devon Goods
+	译文=天力行李
+}
+
+{
+	原文=Soot Sack
+	译文=背包
+}
+
+{
+	原文=Basement Key
+	译文=地下钥匙
+}
+
+{
+	原文=Acro Bike
+	译文=沙道自行车
+}
+
+{
+	原文=Pokéblock Case
+	译文=怪兽盒
+}
+
+{
+	原文=[Po][Ke][BL][OC][K] CASE
+	译文=怪兽盒
+}
+
+{
+	原文=Letter
+	译文=代后之信
+}
+
+{
+	原文=Eon Ticket
+	译文=梦幻票
+}
+
+{
+	原文=Red Orb
+	译文=红色玉石
+}
+
+{
+	原文=Blue Orb
+	译文=蓝色玉石
+}
+
+{
+	原文=Scanner
+	译文=探知器
+}
+
+{
+	原文=Go-Goggles
+	译文=高高库鲁
+}
+
+{
+	原文=Meteorite
+	译文=陨石
+}
+
+{
+	原文=Rm. 1 Key
+	译文=1室钥匙
+}
+
+{
+	原文=Rm. 2 Key
+	译文=2室钥匙
+}
+
+{
+	原文=Rm. 4 Key
+	译文=4室钥匙
+}
+
+{
+	原文=Rm. 6 Key
+	译文=6室钥匙
+}
+
+{
+	原文=Storage Key
+	译文=仓库钥匙
+}
+
+{
+	原文=Root Fossil
+	译文=木根化石
+}
+
+{
+	原文=Claw Fossil
+	译文=指甲化石
+}
+
+{
+	原文=Devon Scope
+	译文=天力思奇
+}

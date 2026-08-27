@@ -1,0 +1,6396 @@
+{
+	词典类型=2
+	忽略大小写=开
+}
+
+
+{
+	原文=Repel
+	译文=除虫喷雾
+}
+
+{
+	原文=Super Repel
+	译文=白银喷雾
+}
+
+{
+	原文=MaX Repel
+	译文=黄金喷雾
+}
+
+{
+	原文=Normal BoX
+	译文=木箱
+}
+
+{
+	原文=Gorgeous BoX
+	译文=桐木箱
+}
+
+{
+	原文=Blue Flute
+	译文=蓝色玻璃哨
+}
+
+{
+	原文=Yellow Flute
+	译文=黄色玻璃哨
+}
+
+{
+	原文=Red Flute
+	译文=红色玻璃哨
+}
+
+{
+	原文=Black Flute
+	译文=黑色玻璃哨
+}
+
+{
+	原文=White Flute
+	译文=白色玻璃哨
+}
+
+{
+	原文=Growth Mulch
+	译文=速速肥
+}
+
+{
+	原文=Damp Mulch
+	译文=湿湿肥
+}
+
+{
+	原文=Stable Mulch
+	译文=久久肥
+}
+
+{
+	原文=Gooey Mulch
+	译文=粘粘肥
+}
+
+{
+	原文=Rich Mulch
+	译文=硕果肥
+}
+
+{
+	原文=Surprise Mulch
+	译文=吃惊肥
+}
+
+{
+	原文=Boost Mulch
+	译文=劲劲肥
+}
+
+{
+	原文=Amaze Mulch
+	译文=超效肥
+}
+
+{
+	原文=Red Nectar
+	译文=朱红色花蜜
+}
+
+{
+	原文=Yellow Nectar
+	译文=金黄色花蜜
+}
+
+{
+	原文=Pink Nectar
+	译文=桃粉色花蜜
+}
+
+{
+	原文=Purple Nectar
+	译文=兰紫色花蜜
+}
+
+{
+	原文=Leaf Letter
+	译文=树叶信
+}
+
+{
+	原文=Small Bouquet
+	译文=小小花束
+}
+
+{
+	原文=Lure
+	译文=引虫香水
+}
+
+{
+	原文=Super Lure
+	译文=白银香水
+}
+
+{
+	原文=MaX Lure
+	译文=黄金香水
+}
+
+{
+	原文=Wishing Chip
+	译文=许愿星碎片
+}
+
+{
+	原文=Wishing Pieces
+	译文=许愿星块
+}
+
+{
+	原文=Odd Keystone
+	译文=楔石
+}
+
+{
+	原文=Data Card
+	译文=数据卡
+}
+
+{
+	原文=Discount Coupon
+	译文=折价券
+}
+
+{
+	原文=DynamaX Crystal
+	译文=极巨结晶
+}
+
+{
+	原文=Stealth Spray
+	译文=匿声喷雾
+}
+
+{
+	原文=Dazzling Honey
+	译文=晶晶蜜
+}
+
+{
+	原文=Hearty Grains
+	译文=旺旺谷
+}
+
+{
+	原文=Plump Beans
+	译文=滚滚豆
+}
+
+{
+	原文=Springy Mushroom
+	译文=糯糯菇
+}
+
+{
+	原文=Crunchy Salt
+	译文=坚坚矿
+}
+
+{
+	原文=Ball of Mud
+	译文=泥丸
+}
+
+{
+	原文=Spoiled Apricorn
+	译文=蛀球果
+}
+
+{
+	原文=Sticky Glob
+	译文=黏丸
+}
+
+{
+	原文=Scatter Bang
+	译文=声弹
+}
+
+{
+	原文=Smoke Bomb
+	译文=烟弹
+}
+
+{
+	原文=Honey Cake
+	译文=蜜诱团
+}
+
+{
+	原文=Grain Cake
+	译文=谷诱团
+}
+
+{
+	原文=Bean Cake
+	译文=豆诱团
+}
+
+{
+	原文=Mushroom Cake
+	译文=菇诱团
+}
+
+{
+	原文=Salt Cake
+	译文=矿诱团
+}
+
+{
+	原文=PP Up
+	译文=PP提升剂
+}
+
+{
+	原文=PP MaX
+	译文=PP极限提升剂
+}
+
+{
+	原文=HP Up
+	译文=HP增强剂
+}
+
+{
+	原文=Protein
+	译文=攻击增强剂
+}
+
+{
+	原文=Iron
+	译文=防御增强剂
+}
+
+{
+	原文=Calcium
+	译文=特攻增强剂
+}
+
+{
+	原文=Zinc
+	译文=特防增强剂
+}
+
+{
+	原文=Carbos
+	译文=速度增强剂
+}
+
+{
+	原文=Health Wing
+	译文=体力之羽
+}
+
+{
+	原文=Muscle Wing
+	译文=肌力之羽
+}
+
+{
+	原文=Resist Wing
+	译文=抵抗之羽
+}
+
+{
+	原文=Genius Wing
+	译文=智力之羽
+}
+
+{
+	原文=Clever Wing
+	译文=精神之羽
+}
+
+{
+	原文=Swift Wing
+	译文=瞬发之羽
+}
+
+{
+	原文=Ability Capsule
+	译文=特性胶囊
+}
+
+{
+	原文=Ability Patch
+	译文=特性膏药
+}
+
+{
+	原文=Lonely Mint
+	译文=怕寂寞薄荷
+}
+
+{
+	原文=Adamant Mint
+	译文=固执薄荷
+}
+
+{
+	原文=Naughty Mint
+	译文=顽皮薄荷
+}
+
+{
+	原文=Brave Mint
+	译文=勇敢薄荷
+}
+
+{
+	原文=Bold Mint
+	译文=大胆薄荷
+}
+
+{
+	原文=Impish Mint
+	译文=淘气薄荷
+}
+
+{
+	原文=LaX Mint
+	译文=乐天薄荷
+}
+
+{
+	原文=RelaXed Mint
+	译文=悠闲薄荷
+}
+
+{
+	原文=Modest Mint
+	译文=内敛薄荷
+}
+
+{
+	原文=Mild Mint
+	译文=慢吞吞薄荷
+}
+
+{
+	原文=Rash Mint
+	译文=马虎薄荷
+}
+
+{
+	原文=Quiet Mint
+	译文=冷静薄荷
+}
+
+{
+	原文=Calm Mint
+	译文=温和薄荷
+}
+
+{
+	原文=Gentle Mint
+	译文=温顺薄荷
+}
+
+{
+	原文=Careful Mint
+	译文=慎重薄荷
+}
+
+{
+	原文=Sassy Mint
+	译文=自大薄荷
+}
+
+{
+	原文=Timid Mint
+	译文=胆小薄荷
+}
+
+{
+	原文=Hasty Mint
+	译文=急躁薄荷
+}
+
+{
+	原文=Jolly Mint
+	译文=爽朗薄荷
+}
+
+{
+	原文=Naive Mint
+	译文=天真薄荷
+}
+
+{
+	原文=Serious Mint
+	译文=认真薄荷
+}
+
+{
+	原文=Grit Dust
+	译文=奋斗沙
+}
+
+{
+	原文=Grit Gravel
+	译文=奋斗砾
+}
+
+{
+	原文=Grit Pebble
+	译文=奋斗石
+}
+
+{
+	原文=Grit Rock
+	译文=奋斗岩
+}
+
+{
+	原文=Fire Stone
+	译文=火之石
+}
+
+{
+	原文=Thunder Stone
+	译文=雷之石
+}
+
+{
+	原文=ThunderStone
+	译文=雷之石
+}
+
+{
+	原文=Water Stone
+	译文=水之石
+}
+
+{
+	原文=Leaf Stone
+	译文=叶之石
+}
+
+{
+	原文=Moon Stone
+	译文=月之石
+}
+
+{
+	原文=Sun Stone
+	译文=日之石
+}
+
+{
+	原文=Shiny Stone
+	译文=光之石
+}
+
+{
+	原文=Dusk Stone
+	译文=暗之石
+}
+
+{
+	原文=Dawn Stone
+	译文=觉醒之石
+}
+
+{
+	原文=Ice Stone
+	译文=冰之石
+}
+
+{
+	原文=Sweet Apple
+	译文=甜甜苹果
+}
+
+{
+	原文=Tart Apple
+	译文=酸酸苹果
+}
+
+{
+	原文=Cracked Pot
+	译文=破裂的茶壶
+}
+
+{
+	原文=Chipped Pot
+	译文=缺损的茶壶
+}
+
+{
+	原文=Galarica Cuff
+	译文=伽勒豆蔻手环
+}
+
+{
+	原文=Galarica Wreath
+	译文=伽勒豆蔻花圈
+}
+
+{
+	原文=Linking Cord
+	译文=联系绳
+}
+
+{
+	原文=Black Augurite
+	译文=黑奇石
+}
+
+{
+	原文=Peat Block
+	译文=泥炭块
+}
+
+{
+	原文=Auspicious Armor
+	译文=庆祝之铠
+}
+
+{
+	原文=Malicious Armor
+	译文=咒术之铠
+}
+
+{
+	原文=Red Shard
+	译文=红色碎片
+}
+
+{
+	原文=Green Shard
+	译文=绿色碎片
+}
+
+{
+	原文=Blue Shard
+	译文=蓝色碎片
+}
+
+{
+	原文=Yellow Shard
+	译文=黄色碎片
+}
+
+{
+	原文=Shoal Salt
+	译文=浅滩海盐
+}
+
+{
+	原文=Shoal Shell
+	译文=浅滩贝壳
+}
+
+{
+	原文=Heart Scale
+	译文=心之鳞片
+}
+
+{
+	原文=Pass Orb
+	译文=释出之玉
+}
+
+{
+	原文=Festival Ticket
+	译文=圆庆票
+}
+
+{
+	原文=Bottle Cap
+	译文=银色王冠
+}
+
+{
+	原文=Gold Bottle Cap
+	译文=金色王冠
+}
+
+{
+	原文=Galarica Twig
+	译文=伽勒豆蔻枝
+}
+
+{
+	原文=Armorite Ore
+	译文=铠甲矿石
+}
+
+{
+	原文=Dynite Ore
+	译文=极矿石
+}
+
+{
+	原文=Mysterious Shard S
+	译文=谜之碎片S
+}
+
+{
+	原文=Mysterious Shard L
+	译文=谜之碎片L
+}
+
+{
+	原文=Seed of Mastery
+	译文=精通种子
+}
+
+{
+	原文=Red Apricorn
+	译文=红球果
+}
+
+{
+	原文=Blue Apricorn
+	译文=蓝球果
+}
+
+{
+	原文=Yellow Apricorn
+	译文=黄球果
+}
+
+{
+	原文=Green Apricorn
+	译文=绿球果
+}
+
+{
+	原文=Pink Apricorn
+	译文=粉球果
+}
+
+{
+	原文=White Apricorn
+	译文=白球果
+}
+
+{
+	原文=Black Apricorn
+	译文=黑球果
+}
+
+{
+	原文=Normal Tera Shard
+	译文=一般太晶碎块
+}
+
+{
+	原文=Fire Tera Shard
+	译文=火太晶碎块
+}
+
+{
+	原文=Water Tera Shard
+	译文=水太晶碎块
+}
+
+{
+	原文=Electric Tera Shard
+	译文=电太晶碎块
+}
+
+{
+	原文=Grass Tera Shard
+	译文=草太晶碎块
+}
+
+{
+	原文=Ice Tera Shard
+	译文=冰太晶碎块
+}
+
+{
+	原文=Fighting Tera Shard
+	译文=格斗太晶碎块
+}
+
+{
+	原文=Poison Tera Shard
+	译文=毒太晶碎块
+}
+
+{
+	原文=Ground Tera Shard
+	译文=地面太晶碎块
+}
+
+{
+	原文=Flying Tera Shard
+	译文=飞行太晶碎块
+}
+
+{
+	原文=Psychic Tera Shard
+	译文=超能力太晶碎块
+}
+
+{
+	原文=Bug Tera Shard
+	译文=虫太晶碎块
+}
+
+{
+	原文=Rock Tera Shard
+	译文=岩石太晶碎块
+}
+
+{
+	原文=Ghost Tera Shard
+	译文=幽灵太晶碎块
+}
+
+{
+	原文=Dragon Tera Shard
+	译文=龙太晶碎块
+}
+
+{
+	原文=Dark Tera Shard
+	译文=恶太晶碎块
+}
+
+{
+	原文=Steel Tera Shard
+	译文=钢太晶碎块
+}
+
+{
+	原文=Fairy Tera Shard
+	译文=妖精太晶碎块
+}
+
+{
+	原文=Bright Powder
+	译文=光粉
+}
+
+{
+	原文=BrightPowder
+	译文=光粉
+}
+
+{
+	原文=Quick Claw
+	译文=先制之爪
+}
+
+{
+	原文=King’s Rock
+	译文=王者之证
+}
+
+{
+	原文=Silver Powder
+	译文=银粉
+}
+
+{
+	原文=SilverPowder
+	译文=银粉
+}
+
+{
+	原文=Amulet Coin
+	译文=护符金币
+}
+
+{
+	原文=Cleanse Tag
+	译文=洁净之符
+}
+
+{
+	原文=Smoke Ball
+	译文=烟雾球
+}
+
+{
+	原文=Everstone
+	译文=不变之石
+}
+
+{
+	原文=Focus Band
+	译文=气势头带
+}
+
+{
+	原文=Lucky Egg
+	译文=幸运蛋
+}
+
+{
+	原文=Scope Lens
+	译文=焦点镜
+}
+
+{
+	原文=Metal Coat
+	译文=金属膜
+}
+
+{
+	原文=Leftovers
+	译文=吃剩的东西
+}
+
+{
+	原文=Dragon Scale
+	译文=龙之鳞片
+}
+
+{
+	原文=Light Ball
+	译文=电气球
+}
+
+{
+	原文=Soft Sand
+	译文=柔软沙子
+}
+
+{
+	原文=Hard Stone
+	译文=硬石头
+}
+
+{
+	原文=Miracle Seed
+	译文=奇迹种子
+}
+
+{
+	原文=Black Glasses
+	译文=黑色眼镜
+}
+
+{
+	原文=BlackGlasses
+	译文=黑色眼镜
+}
+
+{
+	原文=Black Belt
+	译文=黑带
+}
+
+{
+	原文=Magnet
+	译文=磁铁
+}
+
+{
+	原文=Mystic Water
+	译文=神秘水滴
+}
+
+{
+	原文=Sharp Beak
+	译文=锐利鸟嘴
+}
+
+{
+	原文=Poison Barb
+	译文=毒针
+}
+
+{
+	原文=Never-Melt Ice
+	译文=不融冰
+}
+
+{
+	原文=NeverMeltIce
+	译文=不融冰
+}
+
+{
+	原文=Spell Tag
+	译文=诅咒之符
+}
+
+{
+	原文=Twisted Spoon
+	译文=弯曲的汤匙
+}
+
+{
+	原文=TwistedSpoon
+	译文=弯曲的汤匙
+}
+
+{
+	原文=Charcoal
+	译文=木炭
+}
+
+{
+	原文=Dragon Fang
+	译文=龙之牙
+}
+
+{
+	原文=Pink Bow
+	译文=粉红色丝带
+}
+
+{
+	原文=Polkadot Bow
+	译文=水玉色之带
+}
+
+{
+	原文=Silk Scarf
+	译文=丝绸围巾
+}
+
+{
+	原文=Berserk Gene
+	译文=破坏基因
+}
+
+{
+	原文=Up-Grade
+	译文=升级数据
+}
+
+{
+	原文=Lucky Punch
+	译文=吉利拳
+}
+
+{
+	原文=Metal Powder
+	译文=金属粉
+}
+
+{
+	原文=Quick Powder
+	译文=速度粉
+}
+
+{
+	原文=Thick Club
+	译文=粗骨头
+}
+
+{
+	原文=Stick
+	译文=大葱
+}
+
+{
+	原文=Berry
+	译文=果实
+}
+
+{
+	原文=Gold Berry
+	译文=黄金的果实
+}
+
+{
+	原文=PRZCureBerry
+	译文=消除麻痹的果实
+}
+
+{
+	原文=PSNCureBerry
+	译文=解毒的果实
+}
+
+{
+	原文=Bitter Berry
+	译文=苦涩的果实
+}
+
+{
+	原文=Burnt Berry
+	译文=烧烤的果实
+}
+
+{
+	原文=Ice Berry
+	译文=冰冻的果实
+}
+
+{
+	原文=Mint Berry
+	译文=薄荷的果实
+}
+
+{
+	原文=MiracleBerry
+	译文=奇迹的果实
+}
+
+{
+	原文=MysteryBerry
+	译文=神奇的果实
+}
+
+{
+	原文=White Herb
+	译文=白色香草
+}
+
+{
+	原文=Mental Herb
+	译文=心灵香草
+}
+
+{
+	原文=Power Herb
+	译文=强力香草
+}
+
+{
+	原文=Macho Brace
+	译文=强制锻炼器
+}
+
+{
+	原文=Soothe Bell
+	译文=安抚之铃
+}
+
+{
+	原文=Choice Band
+	译文=讲究头带
+}
+
+{
+	原文=Choice Specs
+	译文=讲究眼镜
+}
+
+{
+	原文=Choice Scarf
+	译文=讲究围巾
+}
+
+{
+	原文=Soul Dew
+	译文=心之水滴
+}
+
+{
+	原文=Deep Sea Tooth
+	译文=深海之牙
+}
+
+{
+	原文=DeepSeaTooth
+	译文=深海之牙
+}
+
+{
+	原文=Deep Sea Scale
+	译文=深海鳞片
+}
+
+{
+	原文=DeepSeaScale
+	译文=深海鳞片
+}
+
+{
+	原文=Shell Bell
+	译文=贝壳之铃
+}
+
+{
+	原文=Sea Incense
+	译文=海潮薰香
+}
+
+{
+	原文=LaX Incense
+	译文=悠闲薰香
+}
+
+{
+	原文=Odd Incense
+	译文=奇异薰香
+}
+
+{
+	原文=Rock Incense
+	译文=岩石薰香
+}
+
+{
+	原文=Full Incense
+	译文=饱腹薰香
+}
+
+{
+	原文=Wave Incense
+	译文=涟漪薰香
+}
+
+{
+	原文=Rose Incense
+	译文=花朵薰香
+}
+
+{
+	原文=Luck Incense
+	译文=幸运薰香
+}
+
+{
+	原文=Pure Incense
+	译文=洁净薰香
+}
+
+{
+	原文=Red Scarf
+	译文=红色头巾
+}
+
+{
+	原文=Blue Scarf
+	译文=蓝色头巾
+}
+
+{
+	原文=Pink Scarf
+	译文=粉红头巾
+}
+
+{
+	原文=Green Scarf
+	译文=绿色头巾
+}
+
+{
+	原文=Yellow Scarf
+	译文=黄色头巾
+}
+
+{
+	原文=Red Orb
+	译文=朱红色宝珠
+}
+
+{
+	原文=Blue Orb
+	译文=靛蓝色宝珠
+}
+
+{
+	原文=Flame Plate
+	译文=火球石板
+}
+
+{
+	原文=Splash Plate
+	译文=水滴石板
+}
+
+{
+	原文=Zap Plate
+	译文=雷电石板
+}
+
+{
+	原文=Meadow Plate
+	译文=碧绿石板
+}
+
+{
+	原文=Icicle Plate
+	译文=冰柱石板
+}
+
+{
+	原文=Fist Plate
+	译文=拳头石板
+}
+
+{
+	原文=ToXic Plate
+	译文=剧毒石板
+}
+
+{
+	原文=Earth Plate
+	译文=大地石板
+}
+
+{
+	原文=Sky Plate
+	译文=蓝天石板
+}
+
+{
+	原文=Mind Plate
+	译文=神奇石板
+}
+
+{
+	原文=Insect Plate
+	译文=玉虫石板
+}
+
+{
+	原文=Stone Plate
+	译文=岩石石板
+}
+
+{
+	原文=Spooky Plate
+	译文=妖怪石板
+}
+
+{
+	原文=Draco Plate
+	译文=龙之石板
+}
+
+{
+	原文=Dread Plate
+	译文=恶颜石板
+}
+
+{
+	原文=Iron Plate
+	译文=钢铁石板
+}
+
+{
+	原文=PiXie Plate
+	译文=妖精石板
+}
+
+{
+	原文=Oval Stone
+	译文=浑圆之石
+}
+
+{
+	原文=Adamant Orb
+	译文=金刚宝珠
+}
+
+{
+	原文=Lustrous Orb
+	译文=白玉宝珠
+}
+
+{
+	原文=Griseous Orb
+	译文=白金宝珠
+}
+
+{
+	原文=Protector
+	译文=护具
+}
+
+{
+	原文=Electirizer
+	译文=电力增幅器
+}
+
+{
+	原文=Magmarizer
+	译文=熔岩增幅器
+}
+
+{
+	原文=Dubious Disc
+	译文=可疑补丁
+}
+
+{
+	原文=Reaper Cloth
+	译文=灵界之布
+}
+
+{
+	原文=Razor Claw
+	译文=锐利之爪
+}
+
+{
+	原文=Razor Fang
+	译文=锐利之牙
+}
+
+{
+	原文=Wide Lens
+	译文=广角镜
+}
+
+{
+	原文=Muscle Band
+	译文=力量头带
+}
+
+{
+	原文=Wise Glasses
+	译文=博识眼镜
+}
+
+{
+	原文=EXpert Belt
+	译文=达人带
+}
+
+{
+	原文=Light Clay
+	译文=光之黏土
+}
+
+{
+	原文=Life Orb
+	译文=生命宝珠
+}
+
+{
+	原文=ToXic Orb
+	译文=剧毒宝珠
+}
+
+{
+	原文=Flame Orb
+	译文=火焰宝珠
+}
+
+{
+	原文=Focus Sash
+	译文=气势披带
+}
+
+{
+	原文=Zoom Lens
+	译文=对焦镜
+}
+
+{
+	原文=Metronome
+	译文=节拍器
+}
+
+{
+	原文=Iron Ball
+	译文=黑色铁球
+}
+
+{
+	原文=Lagging Tail
+	译文=后攻之尾
+}
+
+{
+	原文=Destiny Knot
+	译文=红线
+}
+
+{
+	原文=Black Sludge
+	译文=黑色污泥
+}
+
+{
+	原文=Icy Rock
+	译文=冰冷岩石
+}
+
+{
+	原文=Smooth Rock
+	译文=沙沙岩石
+}
+
+{
+	原文=Heat Rock
+	译文=炽热岩石
+}
+
+{
+	原文=Damp Rock
+	译文=潮湿岩石
+}
+
+{
+	原文=Grip Claw
+	译文=紧缠钩爪
+}
+
+{
+	原文=Sticky Barb
+	译文=附着针
+}
+
+{
+	原文=Power Bracer
+	译文=力量护腕
+}
+
+{
+	原文=Power Belt
+	译文=力量腰带
+}
+
+{
+	原文=Power Lens
+	译文=力量镜
+}
+
+{
+	原文=Power Band
+	译文=力量束带
+}
+
+{
+	原文=Power Anklet
+	译文=力量护踝
+}
+
+{
+	原文=Power Weight
+	译文=力量负重
+}
+
+{
+	原文=Shed Shell
+	译文=美丽空壳
+}
+
+{
+	原文=Big Root
+	译文=大根茎
+}
+
+{
+	原文=Douse Drive
+	译文=水流卡带
+}
+
+{
+	原文=Shock Drive
+	译文=闪电卡带
+}
+
+{
+	原文=Burn Drive
+	译文=火焰卡带
+}
+
+{
+	原文=Chill Drive
+	译文=冰冻卡带
+}
+
+{
+	原文=Prism Scale
+	译文=美丽鳞片
+}
+
+{
+	原文=Eviolite
+	译文=进化奇石
+}
+
+{
+	原文=Float Stone
+	译文=轻石
+}
+
+{
+	原文=Rocky Helmet
+	译文=凸凸头盔
+}
+
+{
+	原文=Air Balloon
+	译文=气球
+}
+
+{
+	原文=Red Card
+	译文=红牌
+}
+
+{
+	原文=Ring Target
+	译文=标靶
+}
+
+{
+	原文=Binding Band
+	译文=紧绑束带
+}
+
+{
+	原文=Absorb Bulb
+	译文=球根
+}
+
+{
+	原文=Cell Battery
+	译文=充电电池
+}
+
+{
+	原文=Eject Button
+	译文=逃脱按键
+}
+
+{
+	原文=Fire Gem
+	译文=火之宝石
+}
+
+{
+	原文=Water Gem
+	译文=水之宝石
+}
+
+{
+	原文=Electric Gem
+	译文=电之宝石
+}
+
+{
+	原文=Grass Gem
+	译文=草之宝石
+}
+
+{
+	原文=Ice Gem
+	译文=冰之宝石
+}
+
+{
+	原文=Fighting Gem
+	译文=格斗宝石
+}
+
+{
+	原文=Poison Gem
+	译文=毒之宝石
+}
+
+{
+	原文=Ground Gem
+	译文=地面宝石
+}
+
+{
+	原文=Flying Gem
+	译文=飞行宝石
+}
+
+{
+	原文=Psychic Gem
+	译文=超能力宝石
+}
+
+{
+	原文=Bug Gem
+	译文=虫之宝石
+}
+
+{
+	原文=Rock Gem
+	译文=岩石宝石
+}
+
+{
+	原文=Ghost Gem
+	译文=幽灵宝石
+}
+
+{
+	原文=Dragon Gem
+	译文=龙之宝石
+}
+
+{
+	原文=Dark Gem
+	译文=恶之宝石
+}
+
+{
+	原文=Steel Gem
+	译文=钢之宝石
+}
+
+{
+	原文=Normal Gem
+	译文=一般宝石
+}
+
+{
+	原文=Fairy Gem
+	译文=妖精宝石
+}
+
+{
+	原文=Weakness Policy
+	译文=弱点保险
+}
+
+{
+	原文=Blunder Policy
+	译文=打空保险
+}
+
+{
+	原文=Assault Vest
+	译文=突击背心
+}
+
+{
+	原文=Whipped Dream
+	译文=泡沫奶油
+}
+
+{
+	原文=Sachet
+	译文=香袋
+}
+
+{
+	原文=Luminous Moss
+	译文=光苔
+}
+
+{
+	原文=Snowball
+	译文=雪球
+}
+
+{
+	原文=Safety Goggles
+	译文=防尘护目镜
+}
+
+{
+	原文=Venusaurite
+	译文=妙蛙花进化石
+}
+
+{
+	原文=Charizardite X
+	译文=喷火龙进化石X
+}
+
+{
+	原文=Charizardite Y
+	译文=喷火龙进化石Y
+}
+
+{
+	原文=Blastoisinite
+	译文=水箭龟进化石
+}
+
+{
+	原文=Beedrillite
+	译文=大针蜂进化石
+}
+
+{
+	原文=Pidgeotite
+	译文=大比鸟进化石
+}
+
+{
+	原文=Alakazite
+	译文=胡地进化石
+}
+
+{
+	原文=Slowbronite
+	译文=呆壳兽进化石
+}
+
+{
+	原文=Gengarite
+	译文=耿鬼进化石
+}
+
+{
+	原文=Kangaskhanite
+	译文=袋兽进化石
+}
+
+{
+	原文=Pinsirite
+	译文=凯罗斯进化石
+}
+
+{
+	原文=Gyaradosite
+	译文=暴鲤龙进化石
+}
+
+{
+	原文=Aerodactylite
+	译文=化石翼龙进化石
+}
+
+{
+	原文=Mewtwonite X
+	译文=超梦进化石X
+}
+
+{
+	原文=Mewtwonite Y
+	译文=超梦进化石Y
+}
+
+{
+	原文=Ampharosite
+	译文=电龙进化石
+}
+
+{
+	原文=SteeliXite
+	译文=大钢蛇进化石
+}
+
+{
+	原文=Scizorite
+	译文=巨钳螳螂进化石
+}
+
+{
+	原文=Heracronite
+	译文=赫拉克罗斯进化石
+}
+
+{
+	原文=Houndoominite
+	译文=黑鲁加进化石
+}
+
+{
+	原文=Tyranitarite
+	译文=班基拉斯进化石
+}
+
+{
+	原文=Sceptilite
+	译文=蜥蜴王进化石
+}
+
+{
+	原文=Blazikenite
+	译文=火焰鸡进化石
+}
+
+{
+	原文=Swampertite
+	译文=巨沼怪进化石
+}
+
+{
+	原文=Gardevoirite
+	译文=沙奈朵进化石
+}
+
+{
+	原文=Sablenite
+	译文=勾魂眼进化石
+}
+
+{
+	原文=Mawilite
+	译文=大嘴娃进化石
+}
+
+{
+	原文=Aggronite
+	译文=波士可多拉进化石
+}
+
+{
+	原文=Medichamite
+	译文=恰雷姆进化石
+}
+
+{
+	原文=Manectite
+	译文=雷电兽进化石
+}
+
+{
+	原文=Sharpedonite
+	译文=巨牙鲨进化石
+}
+
+{
+	原文=Cameruptite
+	译文=喷火驼进化石
+}
+
+{
+	原文=Altarianite
+	译文=七夕青鸟进化石
+}
+
+{
+	原文=Banettite
+	译文=诅咒娃娃进化石
+}
+
+{
+	原文=Absolite
+	译文=阿勃梭鲁进化石
+}
+
+{
+	原文=Glalitite
+	译文=冰鬼护进化石
+}
+
+{
+	原文=Salamencite
+	译文=暴飞龙进化石
+}
+
+{
+	原文=Metagrossite
+	译文=巨金怪进化石
+}
+
+{
+	原文=Latiasite
+	译文=拉帝亚斯进化石
+}
+
+{
+	原文=Latiosite
+	译文=拉帝欧斯进化石
+}
+
+{
+	原文=Lopunnite
+	译文=长耳兔进化石
+}
+
+{
+	原文=Lucarionite
+	译文=路卡利欧进化石
+}
+
+{
+	原文=Garchompite
+	译文=烈咬陆鲨进化石
+}
+
+{
+	原文=Abomasite
+	译文=暴雪王进化石
+}
+
+{
+	原文=Galladite
+	译文=艾路雷朵进化石
+}
+
+{
+	原文=Audinite
+	译文=差不多娃娃进化石
+}
+
+{
+	原文=Diancite
+	译文=蒂安希进化石
+}
+
+{
+	原文=Adrenaline Orb
+	译文=胆怯球
+}
+
+{
+	原文=Terrain EXtender
+	译文=大地膜
+}
+
+{
+	原文=Protective Pads
+	译文=部位护具
+}
+
+{
+	原文=Electric Seed
+	译文=电气种子
+}
+
+{
+	原文=Psychic Seed
+	译文=精神种子
+}
+
+{
+	原文=Misty Seed
+	译文=薄雾种子
+}
+
+{
+	原文=Grassy Seed
+	译文=青草种子
+}
+
+{
+	原文=Fighting Memory
+	译文=战斗存储碟
+}
+
+{
+	原文=Flying Memory
+	译文=飞翔存储碟
+}
+
+{
+	原文=Poison Memory
+	译文=毒存储碟
+}
+
+{
+	原文=Ground Memory
+	译文=大地存储碟
+}
+
+{
+	原文=Rock Memory
+	译文=岩石存储碟
+}
+
+{
+	原文=Bug Memory
+	译文=虫子存储碟
+}
+
+{
+	原文=Ghost Memory
+	译文=幽灵存储碟
+}
+
+{
+	原文=Steel Memory
+	译文=钢铁存储碟
+}
+
+{
+	原文=Fire Memory
+	译文=火焰存储碟
+}
+
+{
+	原文=Water Memory
+	译文=清水存储碟
+}
+
+{
+	原文=Grass Memory
+	译文=青草存储碟
+}
+
+{
+	原文=Electric Memory
+	译文=电子存储碟
+}
+
+{
+	原文=Psychic Memory
+	译文=精神存储碟
+}
+
+{
+	原文=Ice Memory
+	译文=冰雪存储碟
+}
+
+{
+	原文=Dragon Memory
+	译文=龙存储碟
+}
+
+{
+	原文=Dark Memory
+	译文=黑暗存储碟
+}
+
+{
+	原文=Fairy Memory
+	译文=妖精存储碟
+}
+
+{
+	原文=Rusted Sword
+	译文=腐朽的剑
+}
+
+{
+	原文=Rusted Shield
+	译文=腐朽的盾
+}
+
+{
+	原文=Strawberry Sweet
+	译文=草莓糖饰
+}
+
+{
+	原文=Love Sweet
+	译文=爱心糖饰
+}
+
+{
+	原文=Berry Sweet
+	译文=野莓糖饰
+}
+
+{
+	原文=Clover Sweet
+	译文=幸运草糖饰
+}
+
+{
+	原文=Flower Sweet
+	译文=花朵糖饰
+}
+
+{
+	原文=Star Sweet
+	译文=星星糖饰
+}
+
+{
+	原文=Ribbon Sweet
+	译文=蝴蝶结糖饰
+}
+
+{
+	原文=Throat Spray
+	译文=爽喉喷雾
+}
+
+{
+	原文=Eject Pack
+	译文=避难背包
+}
+
+{
+	原文=Heavy-Duty Boots
+	译文=厚底靴
+}
+
+{
+	原文=Room Service
+	译文=客房服务
+}
+
+{
+	原文=Utility Umbrella
+	译文=万能伞
+}
+
+{
+	原文=Adamant Crystal
+	译文=大金刚宝玉
+}
+
+{
+	原文=Lustrous Globe
+	译文=大白宝玉
+}
+
+{
+	原文=Griseous Core
+	译文=大白金宝玉
+}
+
+{
+	原文=Booster Energy
+	译文=驱劲能量
+}
+
+{
+	原文=Ability Shield
+	译文=特性护具
+}
+
+{
+	原文=Clear Amulet
+	译文=清净坠饰
+}
+
+{
+	原文=Mirror Herb
+	译文=模仿香草
+}
+
+{
+	原文=Punching Glove
+	译文=拳击手套
+}
+
+{
+	原文=Covert Cloak
+	译文=密探斗篷
+}
+
+{
+	原文=Loaded Dice
+	译文=机变骰子
+}
+
+{
+	原文=Leader’s Crest
+	译文=头领凭证
+}
+
+{
+	原文=Greet Mail
+	译文=初次邮件
+}
+
+{
+	原文=Favored Mail
+	译文=喜爱邮件
+}
+
+{
+	原文=RSVP Mail
+	译文=邀请邮件
+}
+
+{
+	原文=Thanks Mail
+	译文=感谢邮件
+}
+
+{
+	原文=Inquiry Mail
+	译文=询问邮件
+}
+
+{
+	原文=Like Mail
+	译文=推荐邮件
+}
+
+{
+	原文=Reply Mail
+	译文=回复邮件
+}
+
+{
+	原文=Bridge Mail S
+	译文=桥梁邮件S
+}
+
+{
+	原文=Bridge Mail D
+	译文=桥梁邮件H
+}
+
+{
+	原文=Bridge Mail T
+	译文=桥梁邮件C
+}
+
+{
+	原文=Bridge Mail V
+	译文=桥梁邮件V
+}
+
+{
+	原文=Bridge Mail M
+	译文=桥梁邮件W
+}
+
+{
+	原文=Grass Mail
+	译文=青草邮件
+}
+
+{
+	原文=Flame Mail
+	译文=火焰邮件
+}
+
+{
+	原文=Bubble Mail
+	译文=水蓝邮件
+}
+
+{
+	原文=Bloom Mail
+	译文=绽放邮件
+}
+
+{
+	原文=Tunnel Mail
+	译文=隧道邮件
+}
+
+{
+	原文=Steel Mail
+	译文=钢铁邮件
+}
+
+{
+	原文=Heart Mail
+	译文=甜蜜邮件
+}
+
+{
+	原文=Snow Mail
+	译文=暴雪邮件
+}
+
+{
+	原文=Space Mail
+	译文=空间邮件
+}
+
+{
+	原文=Air Mail
+	译文=天空邮件
+}
+
+{
+	原文=Mosaic Mail
+	译文=彩嵌邮件
+}
+
+{
+	原文=Brick Mail
+	译文=砖块邮件
+}
+
+{
+	原文=Orange Mail
+	译文=橙色邮件
+}
+
+{
+	原文=Harbor Mail
+	译文=港口邮件
+}
+
+{
+	原文=Glitter Mail
+	译文=闪亮邮件
+}
+
+{
+	原文=Mech Mail
+	译文=机械邮件
+}
+
+{
+	原文=Wood Mail
+	译文=木纹邮件
+}
+
+{
+	原文=Wave Mail
+	译文=波涛邮件
+}
+
+{
+	原文=Bead Mail
+	译文=珠宝邮件
+}
+
+{
+	原文=Shadow Mail
+	译文=影子邮件
+}
+
+{
+	原文=Tropical Mail
+	译文=热带邮件
+}
+
+{
+	原文=Tropic Mail
+	译文=热带邮件
+}
+
+{
+	原文=Fab Mail
+	译文=奇迹邮件
+}
+
+{
+	原文=Dream Mail
+	译文=梦境邮件
+}
+
+{
+	原文=Retro Mail
+	译文=复古邮件
+}
+
+{
+	原文=Bluesky Mail
+	译文=蓝天邮件
+}
+
+{
+	原文=Eon Mail
+	译文=伊布邮件
+}
+
+{
+	原文=Flower Mail
+	译文=花案邮件
+}
+
+{
+	原文=Litebluemail
+	译文=水色邮件
+}
+
+{
+	原文=Lovely Mail
+	译文=可爱邮件
+}
+
+{
+	原文=Mirage Mail
+	译文=梦幻邮件
+}
+
+{
+	原文=Morph Mail
+	译文=变身邮件
+}
+
+{
+	原文=Portraitmail
+	译文=肖像邮件
+}
+
+{
+	原文=Music Mail
+	译文=音符邮件
+}
+
+{
+	原文=Surf Mail
+	译文=冲浪邮件
+}
+
+{
+	原文=Rare Candy
+	译文=神奇糖果
+}
+
+{
+	原文=Health Candy
+	译文=元气糖果
+}
+
+{
+	原文=Mighty Candy
+	译文=力量糖果
+}
+
+{
+	原文=Tough Candy
+	译文=守护糖果
+}
+
+{
+	原文=Smart Candy
+	译文=知识糖果
+}
+
+{
+	原文=Courage Candy
+	译文=心灵糖果
+}
+
+{
+	原文=Quick Candy
+	译文=敏捷糖果
+}
+
+{
+	原文=Health Candy L
+	译文=元气糖果L
+}
+
+{
+	原文=Mighty Candy L
+	译文=力量糖果L
+}
+
+{
+	原文=Tough Candy L
+	译文=守护糖果L
+}
+
+{
+	原文=Smart Candy L
+	译文=知识糖果L
+}
+
+{
+	原文=Courage Candy L
+	译文=心灵糖果L
+}
+
+{
+	原文=Quick Candy L
+	译文=敏捷糖果L
+}
+
+{
+	原文=Health Candy XL
+	译文=元气糖果XL
+}
+
+{
+	原文=Mighty Candy XL
+	译文=力量糖果XL
+}
+
+{
+	原文=Tough Candy XL
+	译文=守护糖果XL
+}
+
+{
+	原文=Smart Candy XL
+	译文=知识糖果XL
+}
+
+{
+	原文=Courage Candy XL
+	译文=心灵糖果XL
+}
+
+{
+	原文=Quick Candy XL
+	译文=敏捷糖果XL
+}
+
+{
+	原文=Pokémon Candy
+	译文=宝可梦的糖果
+}
+
+{
+	原文=EXp. Candy XS
+	译文=经验糖果XS
+}
+
+{
+	原文=EXp. Candy S
+	译文=经验糖果S
+}
+
+{
+	原文=EXp. Candy M
+	译文=经验糖果M
+}
+
+{
+	原文=EXp. Candy L
+	译文=经验糖果L
+}
+
+{
+	原文=EXp. Candy XL
+	译文=经验糖果XL
+}
+
+{
+	原文=DynamaX Candy
+	译文=极巨糖果
+}
+
+{
+	原文=Tempting Charm R
+	译文=替身护符1
+}
+
+{
+	原文=Tempting Charm B
+	译文=替身护符2
+}
+
+{
+	原文=Tempting Charm P
+	译文=替身护符3
+}
+
+{
+	原文=Tempting Charm T
+	译文=替身护符4
+}
+
+{
+	原文=Tempting Charm Y
+	译文=替身护符5
+}
+
+{
+	原文=Survival Charm R
+	译文=安全护符1
+}
+
+{
+	原文=Survival Charm B
+	译文=安全护符2
+}
+
+{
+	原文=Survival Charm P
+	译文=安全护符3
+}
+
+{
+	原文=Survival Charm T
+	译文=安全护符4
+}
+
+{
+	原文=Survival Charm Y
+	译文=安全护符5
+}
+
+{
+	原文=Warding Charm R
+	译文=健康护符1
+}
+
+{
+	原文=Warding Charm B
+	译文=健康护符2
+}
+
+{
+	原文=Warding Charm P
+	译文=健康护符3
+}
+
+{
+	原文=Warding Charm T
+	译文=健康护符4
+}
+
+{
+	原文=Warding Charm Y
+	译文=健康护符5
+}
+
+{
+	原文=Apricorn
+	译文=球果果
+}
+
+{
+	原文=Caster Fern
+	译文=弹子萁
+}
+
+{
+	原文=Tumblestone
+	译文=玉石
+}
+
+{
+	原文=Wood
+	译文=木材
+}
+
+{
+	原文=King’s Leaf
+	译文=皇叶
+}
+
+{
+	原文=Bugwort
+	译文=除虫草
+}
+
+{
+	原文=Iron Chunk
+	译文=碎铁
+}
+
+{
+	原文=Black Tumblestone
+	译文=黑玉石
+}
+
+{
+	原文=Sky Tumblestone
+	译文=天蓝玉石
+}
+
+{
+	原文=Pop Pod
+	译文=惊声藻
+}
+
+{
+	原文=Sootfoot Root
+	译文=烟芋
+}
+
+{
+	原文=Medicinal Leek
+	译文=疗草
+}
+
+{
+	原文=Vivichoke
+	译文=活力蕾
+}
+
+{
+	原文=Pep-Up Plant
+	译文=PP草
+}
+
+{
+	原文=Swordcap
+	译文=剑舞菇
+}
+
+{
+	原文=Iron Barktongue
+	译文=铁壁木耳
+}
+
+{
+	原文=Doppel Bonnets
+	译文=影分菇
+}
+
+{
+	原文=Direshroom
+	译文=要害松露
+}
+
+{
+	原文=Sand Radish
+	译文=沙滩萝卜
+}
+
+{
+	原文=Candy Truffle
+	译文=甜松露
+}
+
+{
+	原文=Cake-Lure Base
+	译文=诱团原料
+}
+
+{
+	原文=Poké Ball
+	译文=精灵球
+}
+
+{
+	原文=Great Ball
+	译文=超级球
+}
+
+{
+	原文=Ultra Ball
+	译文=高级球
+}
+
+{
+	原文=Safari Ball
+	译文=狩猎球
+}
+
+{
+	原文=Master Ball
+	译文=大师球
+}
+
+{
+	原文=Fast Ball
+	译文=速度球
+}
+
+{
+	原文=Level Ball
+	译文=等级球
+}
+
+{
+	原文=Lure Ball
+	译文=诱饵球
+}
+
+{
+	原文=Love Ball
+	译文=甜蜜球
+}
+
+{
+	原文=Friend Ball
+	译文=友友球
+}
+
+{
+	原文=Moon Ball
+	译文=月亮球
+}
+
+{
+	原文=Heavy Ball
+	译文=沉重球
+}
+
+{
+	原文=Leaden Ball
+	译文=超重球
+}
+
+{
+	原文=Gigaton Ball
+	译文=巨重球
+}
+
+{
+	原文=Sport Ball
+	译文=竞赛球
+}
+
+{
+	原文=Park Ball
+	译文=公园球
+}
+
+{
+	原文=Net Ball
+	译文=捕网球
+}
+
+{
+	原文=Dive Ball
+	译文=潜水球
+}
+
+{
+	原文=Nest Ball
+	译文=巢穴球
+}
+
+{
+	原文=Repeat Ball
+	译文=重复球
+}
+
+{
+	原文=Timer Ball
+	译文=计时球
+}
+
+{
+	原文=LuXury Ball
+	译文=豪华球
+}
+
+{
+	原文=Premier Ball
+	译文=纪念球
+}
+
+{
+	原文=Dusk Ball
+	译文=黑暗球
+}
+
+{
+	原文=Heal Ball
+	译文=治愈球
+}
+
+{
+	原文=Quick Ball
+	译文=先机球
+}
+
+{
+	原文=Cherish Ball
+	译文=贵重球
+}
+
+{
+	原文=Dream Ball
+	译文=梦境球
+}
+
+{
+	原文=Beast Ball
+	译文=究极球
+}
+
+{
+	原文=Feather Ball
+	译文=飞羽球
+}
+
+{
+	原文=Wing Ball
+	译文=飞翼球
+}
+
+{
+	原文=Jet Ball
+	译文=飞梭球
+}
+
+{
+	原文=Strange Ball
+	译文=奇异球
+}
+
+{
+	原文=Digger Drill
+	译文=挖洞钻
+}
+
+{
+	原文=Kanto Slate
+	译文=关都石板
+}
+
+{
+	原文=Johto Slate
+	译文=城都石板
+}
+
+{
+	原文=Soul Slate
+	译文=心之石板
+}
+
+{
+	原文=Rainbow Slate
+	译文=彩虹石板
+}
+
+{
+	原文=Squall Slate
+	译文=暴风石板
+}
+
+{
+	原文=Oceanic Slate
+	译文=大海石板
+}
+
+{
+	原文=Tectonic Slate
+	译文=大陆石板
+}
+
+{
+	原文=Stratospheric Slate
+	译文=天空石板
+}
+
+{
+	原文=Genome Slate
+	译文=基因石板
+}
+
+{
+	原文=Discovery Slate
+	译文=引导石板
+}
+
+{
+	原文=Distortion Slate
+	译文=毁坏石板
+}
+
+{
+	原文=Tiny Mushroom
+	译文=小蘑菇
+}
+
+{
+	原文=TinyMushroom
+	译文=小蘑菇
+}
+
+{
+	原文=Big Mushroom
+	译文=大蘑菇
+}
+
+{
+	原文=Balm Mushroom
+	译文=芳香蘑菇
+}
+
+{
+	原文=Pearl
+	译文=珍珠
+}
+
+{
+	原文=Big Pearl
+	译文=大珍珠
+}
+
+{
+	原文=Pearl String
+	译文=丸子珍珠
+}
+
+{
+	原文=Stardust
+	译文=星星沙子
+}
+
+{
+	原文=Star Piece
+	译文=星星碎片
+}
+
+{
+	原文=Comet Shard
+	译文=彗星碎片
+}
+
+{
+	原文=Silver Leaf
+	译文=银色叶子
+}
+
+{
+	原文=Gold Leaf
+	译文=金色叶子
+}
+
+{
+	原文=Nugget
+	译文=金珠
+}
+
+{
+	原文=Big Nugget
+	译文=巨大金珠
+}
+
+{
+	原文=Relic Copper
+	译文=古代铜币
+}
+
+{
+	原文=Relic Silver
+	译文=古代银币
+}
+
+{
+	原文=Relic Gold
+	译文=古代金币
+}
+
+{
+	原文=Relic Vase
+	译文=古代之壶
+}
+
+{
+	原文=Relic Band
+	译文=古代手镯
+}
+
+{
+	原文=Relic Statue
+	译文=古代石像
+}
+
+{
+	原文=Relic Crown
+	译文=古代王冠
+}
+
+{
+	原文=Tiny Bamboo Shoot
+	译文=小竹笋
+}
+
+{
+	原文=Big Bamboo Shoot
+	译文=大竹笋
+}
+
+{
+	原文=Brick Piece
+	译文=砖瓦碎片
+}
+
+{
+	原文=Rare Bone
+	译文=贵重骨头
+}
+
+{
+	原文=Honey
+	译文=甜甜蜜
+}
+
+{
+	原文=Pretty Wing
+	译文=美丽之羽
+}
+
+{
+	原文=Strange Souvenir
+	译文=神秘摆设
+}
+
+{
+	原文=Stretchy Spring
+	译文=松掉的弹簧
+}
+
+{
+	原文=Chalky Stone
+	译文=粉笔石
+}
+
+{
+	原文=Marble
+	译文=弹珠
+}
+
+{
+	原文=Lone Earring
+	译文=一边的耳环
+}
+
+{
+	原文=Beach Glass
+	译文=海边的玻璃
+}
+
+{
+	原文=Polished Mud Ball
+	译文=光滑泥球
+}
+
+{
+	原文=Tropical Shell
+	译文=南国贝壳
+}
+
+{
+	原文=Pokéshi Doll
+	译文=宝可梦木娃娃
+}
+
+{
+	原文=HeliX Fossil
+	译文=贝壳化石
+}
+
+{
+	原文=Dome Fossil
+	译文=甲壳化石
+}
+
+{
+	原文=Old Amber
+	译文=秘密琥珀
+}
+
+{
+	原文=Root Fossil
+	译文=根状化石
+}
+
+{
+	原文=Claw Fossil
+	译文=爪子化石
+}
+
+{
+	原文=Skull Fossil
+	译文=头盖化石
+}
+
+{
+	原文=Armor Fossil
+	译文=盾甲化石
+}
+
+{
+	原文=Cover Fossil
+	译文=背盖化石
+}
+
+{
+	原文=Plume Fossil
+	译文=羽毛化石
+}
+
+{
+	原文=Jaw Fossil
+	译文=颚之化石
+}
+
+{
+	原文=Sail Fossil
+	译文=鳍之化石
+}
+
+{
+	原文=Fossilized Bird
+	译文=化石鸟
+}
+
+{
+	原文=Fossilized Fish
+	译文=化石鱼
+}
+
+{
+	原文=Fossilized Drake
+	译文=化石龙
+}
+
+{
+	原文=Fossilized Dino
+	译文=化石海兽
+}
+
+{
+	原文=Guard Spec.
+	译文=能力防守
+}
+
+{
+	原文=Dire Hit
+	译文=要害攻击
+}
+
+{
+	原文=X Attack
+	译文=力量强化
+}
+
+{
+	原文=X Defense
+	译文=防御强化
+}
+
+{
+	原文=X Defend
+	译文=防御强化
+}
+
+{
+	原文=X Sp. Atk
+	译文=特攻强化
+}
+
+{
+	原文=X Special
+	译文=特攻强化
+}
+
+{
+	原文=X Sp. Def
+	译文=特防强化
+}
+
+{
+	原文=X Speed
+	译文=速度强化
+}
+
+{
+	原文=X Accuracy
+	译文=命中强化
+}
+
+{
+	原文=Poké Doll
+	译文=皮皮玩偶
+}
+
+{
+	原文=Fluffy Tail
+	译文=向尾喵的尾巴
+}
+
+{
+	原文=Poké Toy
+	译文=宝可尾草
+}
+
+{
+	原文=MaX Mushrooms
+	译文=极巨菇菇
+}
+
+{
+	原文=AuX Power
+	译文=进攻药丸
+}
+
+{
+	原文=AuX Guard
+	译文=防守药丸
+}
+
+{
+	原文=AuX Powerguard
+	译文=多重强化
+}
+
+{
+	原文=AuX Evasion
+	译文=闪避强化
+}
+
+{
+	原文=Choice Dumpling
+	译文=讲究粽
+}
+
+{
+	原文=Twice-Spiced Radish
+	译文=双倍腌菜
+}
+
+{
+	原文=Swap Snack
+	译文=颠倒烧
+}
+
+{
+	原文=Potion
+	译文=伤药
+}
+
+{
+	原文=Super Potion
+	译文=好伤药
+}
+
+{
+	原文=Hyper Potion
+	译文=厉害伤药
+}
+
+{
+	原文=MaX Potion
+	译文=全满药
+}
+
+{
+	原文=Full Restore
+	译文=全复药
+}
+
+{
+	原文=Antidote
+	译文=解毒药
+}
+
+{
+	原文=Burn Heal
+	译文=灼伤药
+}
+
+{
+	原文=Ice Heal
+	译文=解冻药
+}
+
+{
+	原文=Awakening
+	译文=解眠药
+}
+
+{
+	原文=Paralyze Heal
+	译文=解麻药
+}
+
+{
+	原文=Parlyz Heal
+	译文=解麻药
+}
+
+{
+	原文=Full Heal
+	译文=万灵药
+}
+
+{
+	原文=Revive
+	译文=活力碎片
+}
+
+{
+	原文=MaX Revive
+	译文=活力块
+}
+
+{
+	原文=Fresh Water
+	译文=美味之水
+}
+
+{
+	原文=Soda Pop
+	译文=劲爽汽水
+}
+
+{
+	原文=Lemonade
+	译文=果汁牛奶
+}
+
+{
+	原文=Moomoo Milk
+	译文=哞哞鲜奶
+}
+
+{
+	原文=Energy Powder
+	译文=元气粉
+}
+
+{
+	原文=EnergyPowder
+	译文=元气粉
+}
+
+{
+	原文=Energy Root
+	译文=元气根
+}
+
+{
+	原文=Heal Powder
+	译文=万能粉
+}
+
+{
+	原文=Revival Herb
+	译文=复活草
+}
+
+{
+	原文=Ether
+	译文=PP单项小补剂
+}
+
+{
+	原文=MaX Ether
+	译文=PP单项全补剂
+}
+
+{
+	原文=EliXir
+	译文=PP多项小补剂
+}
+
+{
+	原文=MaX EliXir
+	译文=PP多项全补剂
+}
+
+{
+	原文=Rage Candy Bar
+	译文=愤怒馒头
+}
+
+{
+	原文=Lava Cookie
+	译文=釜炎仙贝
+}
+
+{
+	原文=Old Gateau
+	译文=森之羊羹
+}
+
+{
+	原文=Casteliacone
+	译文=飞云冰淇淋
+}
+
+{
+	原文=Lumiose Galette
+	译文=密阿雷格雷派饼
+}
+
+{
+	原文=Shalour Sable
+	译文=娑罗沙布蕾
+}
+
+{
+	原文=Big Malasada
+	译文=大马拉萨达
+}
+
+{
+	原文=Pewter Crunchies
+	译文=深灰米果
+}
+
+{
+	原文=Jubilife Muffin
+	译文=祝庆玛芬
+}
+
+{
+	原文=Berry Juice
+	译文=树果汁
+}
+
+{
+	原文=Sweet Heart
+	译文=心形甜点
+}
+
+{
+	原文=Sacred Ash
+	译文=圣灰
+}
+
+{
+	原文=MaX Honey
+	译文=极巨甜蜜
+}
+
+{
+	原文=Remedy
+	译文=中药
+}
+
+{
+	原文=Fine Remedy
+	译文=好中药
+}
+
+{
+	原文=Superb Remedy
+	译文=厉害中药
+}
+
+{
+	原文=Normalium Z
+	译文=一般Z
+}
+
+{
+	原文=Firium Z
+	译文=火Z
+}
+
+{
+	原文=Waterium Z
+	译文=水Z
+}
+
+{
+	原文=Electrium Z
+	译文=电Z
+}
+
+{
+	原文=Grassium Z
+	译文=草Z
+}
+
+{
+	原文=Icium Z
+	译文=冰Z
+}
+
+{
+	原文=Fightinium Z
+	译文=格斗Z
+}
+
+{
+	原文=Poisonium Z
+	译文=毒Z
+}
+
+{
+	原文=Groundium Z
+	译文=地面Z
+}
+
+{
+	原文=Flyinium Z
+	译文=飞行Z
+}
+
+{
+	原文=Psychium Z
+	译文=超能力Z
+}
+
+{
+	原文=Buginium Z
+	译文=虫Z
+}
+
+{
+	原文=Rockium Z
+	译文=岩石Z
+}
+
+{
+	原文=Ghostium Z
+	译文=幽灵Z
+}
+
+{
+	原文=Dragonium Z
+	译文=龙Z
+}
+
+{
+	原文=Darkinium Z
+	译文=恶Z
+}
+
+{
+	原文=Steelium Z
+	译文=钢Z
+}
+
+{
+	原文=Fairium Z
+	译文=妖精Z
+}
+
+{
+	原文=Pikanium Z
+	译文=皮卡丘Z
+}
+
+{
+	原文=Decidium Z
+	译文=狙射树枭Z
+}
+
+{
+	原文=Incinium Z
+	译文=炽焰咆哮虎Z
+}
+
+{
+	原文=Primarium Z
+	译文=西狮海壬Z
+}
+
+{
+	原文=Tapunium Z
+	译文=卡璞Z
+}
+
+{
+	原文=Marshadium Z
+	译文=玛夏多Z
+}
+
+{
+	原文=Aloraichium Z
+	译文=阿罗雷Z
+}
+
+{
+	原文=Snorlium Z
+	译文=卡比兽Z
+}
+
+{
+	原文=Eevium Z
+	译文=伊布Z
+}
+
+{
+	原文=Mewnium Z
+	译文=梦幻Z
+}
+
+{
+	原文=Pikashunium Z
+	译文=智皮卡Z
+}
+
+{
+	原文=Solganium Z
+	译文=索尔迦雷欧Z
+}
+
+{
+	原文=Lunalium Z
+	译文=露奈雅拉Z
+}
+
+{
+	原文=Ultranecrozium Z
+	译文=究极奈克洛Z
+}
+
+{
+	原文=Mimikium Z
+	译文=谜拟丘Z
+}
+
+{
+	原文=Lycanium Z
+	译文=鬃岩狼人Z
+}
+
+{
+	原文=Kommonium Z
+	译文=杖尾鳞甲龙Z
+}
+
+{
+	原文=Baguette
+	译文=长棍面包
+}
+
+{
+	原文=Mayonnaise
+	译文=蛋黄酱
+}
+
+{
+	原文=Ketchup
+	译文=番茄酱
+}
+
+{
+	原文=Mustard
+	译文=黄芥末酱
+}
+
+{
+	原文=Butter
+	译文=黄油
+}
+
+{
+	原文=Peanut Butter
+	译文=花生酱
+}
+
+{
+	原文=Chili Sauce
+	译文=辣酱
+}
+
+{
+	原文=Salt
+	译文=盐
+}
+
+{
+	原文=Pepper
+	译文=胡椒
+}
+
+{
+	原文=Yogurt
+	译文=酸奶
+}
+
+{
+	原文=Whipped Cream
+	译文=鲜奶油
+}
+
+{
+	原文=Cream Cheese
+	译文=黄油芝士
+}
+
+{
+	原文=Jam
+	译文=莓果酱
+}
+
+{
+	原文=Marmalade
+	译文=橘子酱
+}
+
+{
+	原文=Olive Oil
+	译文=橄榄油
+}
+
+{
+	原文=Vinegar
+	译文=醋
+}
+
+{
+	原文=Horseradish
+	译文=辣根
+}
+
+{
+	原文=Curry Powder
+	译文=咖喱粉
+}
+
+{
+	原文=Wasabi
+	译文=芥末酱
+}
+
+{
+	原文=Sweet Herba Mystica
+	译文=秘传：甜味料
+}
+
+{
+	原文=Salty Herba Mystica
+	译文=秘传：咸味料
+}
+
+{
+	原文=Sour Herba Mystica
+	译文=秘传：酸味料
+}
+
+{
+	原文=Bitter Herba Mystica
+	译文=秘传：苦味料
+}
+
+{
+	原文=Spicy Herba Mystica
+	译文=秘传：辣味料
+}
+
+{
+	原文=Picnic Set
+	译文=野餐组合
+}
+
+{
+	原文=Academy Bottle
+	译文=校园水壶
+}
+
+{
+	原文=Polka-Dot Bottle
+	译文=圆点水壶
+}
+
+{
+	原文=Striped Bottle
+	译文=条纹水壶
+}
+
+{
+	原文=Diamond Bottle
+	译文=菱纹水壶
+}
+
+{
+	原文=Academy Cup
+	译文=校园水杯
+}
+
+{
+	原文=Striped Cup
+	译文=直条纹水杯
+}
+
+{
+	原文=Polka-Dot Cup
+	译文=圆点水杯
+}
+
+{
+	原文=Flower Pattern Cup
+	译文=花朵水杯
+}
+
+{
+	原文=Academy Tablecloth
+	译文=校园桌巾
+}
+
+{
+	原文=Whimsical Tablecloth
+	译文=幻彩桌巾
+}
+
+{
+	原文=Leafy Tablecloth
+	译文=大自然桌巾
+}
+
+{
+	原文=Spooky Tablecloth
+	译文=鬼祟桌巾
+}
+
+{
+	原文=Academy Ball
+	译文=校园球
+}
+
+{
+	原文=Marill Ball
+	译文=玛力露球
+}
+
+{
+	原文=Yarn Ball
+	译文=毛线球
+}
+
+{
+	原文=Cyber Ball
+	译文=电竞球
+}
+
+{
+	原文=Gold Pick
+	译文=金色三明治签
+}
+
+{
+	原文=Silver Pick
+	译文=银色三明治签
+}
+
+{
+	原文=Red-Flag Pick
+	译文=红旗子三明治签
+}
+
+{
+	原文=Blue-Flag Pick
+	译文=蓝旗子三明治签
+}
+
+{
+	原文=Pika-Pika Pick
+	译文=皮卡丘三明治签
+}
+
+{
+	原文=Winking Pika Pick
+	译文=眨眼皮卡丘三明治签
+}
+
+{
+	原文=Vee-Vee Pick
+	译文=伊布三明治签
+}
+
+{
+	原文=Smiling Vee Pick
+	译文=笑脸伊布三明治签
+}
+
+{
+	原文=Blue Poké Ball Pick
+	译文=蓝珠珠三明治签
+}
+
+{
+	原文=Pink Bottle
+	译文=粉红水壶
+}
+
+{
+	原文=Blue Bottle
+	译文=蓝色水壶
+}
+
+{
+	原文=Yellow Bottle
+	译文=黄色水壶
+}
+
+{
+	原文=Steel Bottle (R)
+	译文=红纹不锈钢水壶
+}
+
+{
+	原文=Steel Bottle (Y)
+	译文=黄纹不锈钢水壶
+}
+
+{
+	原文=Steel Bottle (B)
+	译文=蓝纹不锈钢水壶
+}
+
+{
+	原文=Silver Bottle
+	译文=银钛水壶
+}
+
+{
+	原文=Barred Cup
+	译文=横条纹水杯
+}
+
+{
+	原文=Diamond Pattern Cup
+	译文=菱纹水杯
+}
+
+{
+	原文=Fire Pattern Cup
+	译文=火焰水杯
+}
+
+{
+	原文=Pink Cup
+	译文=粉红水杯
+}
+
+{
+	原文=Blue Cup
+	译文=蓝色水杯
+}
+
+{
+	原文=Yellow Cup
+	译文=黄色水杯
+}
+
+{
+	原文=Pikachu Cup
+	译文=皮卡丘水杯
+}
+
+{
+	原文=Eevee Cup
+	译文=伊布水杯
+}
+
+{
+	原文=Slowpoke Cup
+	译文=呆呆兽水杯
+}
+
+{
+	原文=Silver Cup
+	译文=银钛水杯
+}
+
+{
+	原文=EXercise Ball
+	译文=瑜珈球
+}
+
+{
+	原文=Plaid Tablecloth (Y)
+	译文=黄色格子桌巾
+}
+
+{
+	原文=Plaid Tablecloth (B)
+	译文=蓝色格子桌巾
+}
+
+{
+	原文=Plaid Tablecloth (R)
+	译文=红色格子桌巾
+}
+
+{
+	原文=B&W Grass Tablecloth
+	译文=黑白草丛桌巾
+}
+
+{
+	原文=Battle Tablecloth
+	译文=对决桌巾
+}
+
+{
+	原文=Monstrous Tablecloth
+	译文=怪兽桌巾
+}
+
+{
+	原文=Striped Tablecloth
+	译文=条纹桌巾
+}
+
+{
+	原文=Diamond Tablecloth
+	译文=菱纹桌巾
+}
+
+{
+	原文=Polka-Dot Tablecloth
+	译文=圆点桌巾
+}
+
+{
+	原文=Lilac Tablecloth
+	译文=紫色桌巾
+}
+
+{
+	原文=Mint Tablecloth
+	译文=浅绿桌巾
+}
+
+{
+	原文=Peach Tablecloth
+	译文=米色桌巾
+}
+
+{
+	原文=Yellow Tablecloth
+	译文=黄色桌巾
+}
+
+{
+	原文=Blue Tablecloth
+	译文=蓝色桌巾
+}
+
+{
+	原文=Pink Tablecloth
+	译文=粉红桌巾
+}
+
+{
+	原文=Gold Bottle
+	译文=金钛水壶
+}
+
+{
+	原文=Bronze Bottle
+	译文=铜钛水壶
+}
+
+{
+	原文=Gold Cup
+	译文=金钛水杯
+}
+
+{
+	原文=Bronze Cup
+	译文=铜钛水杯
+}
+
+{
+	原文=Green Poké Ball Pick
+	译文=绿珠珠三明治签
+}
+
+{
+	原文=Red Poké Ball Pick
+	译文=红珠珠三明治签
+}
+
+{
+	原文=Party Sparkler Pick
+	译文=烟花祝庆三明治签
+}
+
+{
+	原文=Heroic Sword Pick
+	译文=勇者之剑三明治签
+}
+
+{
+	原文=Magical Star Pick
+	译文=魔法星星三明治签
+}
+
+{
+	原文=Magical Heart Pick
+	译文=魔法甜心三明治签
+}
+
+{
+	原文=Parasol Pick
+	译文=阳伞三明治签
+}
+
+{
+	原文=Blue-Sky Flower Pick
+	译文=晴空花三明治签
+}
+
+{
+	原文=Sunset Flower Pick
+	译文=夕阳花三明治签
+}
+
+{
+	原文=Sunrise Flower Pick
+	译文=朝霞花三明治签
+}
+
+{
+	原文=Blue Dish
+	译文=蓝色盘子
+}
+
+{
+	原文=Green Dish
+	译文=绿色盘子
+}
+
+{
+	原文=Orange Dish
+	译文=橘色盘子
+}
+
+{
+	原文=Red Dish
+	译文=红色盘子
+}
+
+{
+	原文=White Dish
+	译文=白色盘子
+}
+
+{
+	原文=Yellow Dish
+	译文=黄色盘子
+}
+
+{
+	原文=Sausages
+	译文=粗绞肉香肠
+}
+
+{
+	原文=Bob’s Food Tins
+	译文=饱伯罐头
+}
+
+{
+	原文=Bach’s Food Tins
+	译文=巴哈罐头
+}
+
+{
+	原文=Tins of Beans
+	译文=豆子罐头
+}
+
+{
+	原文=Bread
+	译文=吐司面包
+}
+
+{
+	原文=Pasta
+	译文=通心粉
+}
+
+{
+	原文=MiXed Mushrooms
+	译文=袋装蕈菇
+}
+
+{
+	原文=Smoke-Poke Tails
+	译文=烟熏尾巴
+}
+
+{
+	原文=Large Leeks
+	译文=粗枝大葱
+}
+
+{
+	原文=Fancy Apples
+	译文=特选苹果
+}
+
+{
+	原文=Brittle Bones
+	译文=细骨
+}
+
+{
+	原文=Packs of Potatoes
+	译文=袋装土豆
+}
+
+{
+	原文=Pungent Roots
+	译文=水边香草
+}
+
+{
+	原文=Salad MiXes
+	译文=袋装蔬菜
+}
+
+{
+	原文=Fried Foods
+	译文=炸物拼盘
+}
+
+{
+	原文=Boiled Eggs
+	译文=水煮蛋
+}
+
+{
+	原文=Fruit Bunches
+	译文=袋装果实
+}
+
+{
+	原文=Moomoo Cheese
+	译文=哞哞乳酪
+}
+
+{
+	原文=Spice MiX
+	译文=香料组合
+}
+
+{
+	原文=Fresh Cream
+	译文=鲜鲜奶油
+}
+
+{
+	原文=Packaged Curry
+	译文=即食咖喱
+}
+
+{
+	原文=Coconut Milk
+	译文=椰奶
+}
+
+{
+	原文=Instant Noodles
+	译文=即食面
+}
+
+{
+	原文=Precooked Burgers
+	译文=即食肉排
+}
+
+{
+	原文=GigantamiXes
+	译文=超极粉
+}
+
+{
+	原文=Lettuce
+	译文=生菜
+}
+
+{
+	原文=Tomato
+	译文=番茄片
+}
+
+{
+	原文=Cherry Tomatoes
+	译文=小番茄块
+}
+
+{
+	原文=Cucumber
+	译文=小黄瓜片
+}
+
+{
+	原文=Pickle
+	译文=酸黄瓜片
+}
+
+{
+	原文=Onion
+	译文=洋葱片
+}
+
+{
+	原文=Red Onion
+	译文=红洋葱
+}
+
+{
+	原文=Green Bell Pepper
+	译文=青椒片
+}
+
+{
+	原文=Red Bell Pepper
+	译文=红椒片
+}
+
+{
+	原文=Yellow Bell Pepper
+	译文=黄椒片
+}
+
+{
+	原文=Avocado
+	译文=牛油果
+}
+
+{
+	原文=Bacon
+	译文=煎培根
+}
+
+{
+	原文=Ham
+	译文=火腿片
+}
+
+{
+	原文=Prosciutto
+	译文=生火腿
+}
+
+{
+	原文=Chorizo
+	译文=煎辣香肠
+}
+
+{
+	原文=Herbed Sausage
+	译文=香草香肠
+}
+
+{
+	原文=Hamburger
+	译文=汉堡排
+}
+
+{
+	原文=Klawf Stick
+	译文=毛崖蟹棒
+}
+
+{
+	原文=Smoked Fillet
+	译文=烟熏鱼片
+}
+
+{
+	原文=Fried Fillet
+	译文=炸鱼片
+}
+
+{
+	原文=Egg
+	译文=水煮蛋片
+}
+
+{
+	原文=Potato Tortilla
+	译文=烘蛋
+}
+
+{
+	原文=Tofu
+	译文=豆腐
+}
+
+{
+	原文=Rice
+	译文=米饭
+}
+
+{
+	原文=Noodles
+	译文=面条
+}
+
+{
+	原文=Potato Salad
+	译文=土豆沙拉
+}
+
+{
+	原文=Cheese
+	译文=芝士片
+}
+
+{
+	原文=Banana
+	译文=香蕉片
+}
+
+{
+	原文=Strawberry
+	译文=草莓片
+}
+
+{
+	原文=Apple
+	译文=苹果片
+}
+
+{
+	原文=Kiwi
+	译文=奇异果片
+}
+
+{
+	原文=Pineapple
+	译文=凤梨片
+}
+
+{
+	原文=Jalapeño
+	译文=小辣椒
+}
+
+{
+	原文=Watercress
+	译文=豆瓣菜
+}
+
+{
+	原文=Basil
+	译文=罗勒
+}
+
+{
+	原文=Cheri Berry
+	译文=樱子果
+}
+
+{
+	原文=Chesto Berry
+	译文=零余果
+}
+
+{
+	原文=Pecha Berry
+	译文=桃桃果
+}
+
+{
+	原文=Rawst Berry
+	译文=莓莓果
+}
+
+{
+	原文=Aspear Berry
+	译文=利木果
+}
+
+{
+	原文=Leppa Berry
+	译文=苹野果
+}
+
+{
+	原文=Oran Berry
+	译文=橙橙果
+}
+
+{
+	原文=Persim Berry
+	译文=柿仔果
+}
+
+{
+	原文=Lum Berry
+	译文=木子果
+}
+
+{
+	原文=Sitrus Berry
+	译文=文柚果
+}
+
+{
+	原文=Figy Berry
+	译文=勿花果
+}
+
+{
+	原文=Wiki Berry
+	译文=异奇果
+}
+
+{
+	原文=Mago Berry
+	译文=芒芒果
+}
+
+{
+	原文=Aguav Berry
+	译文=乐芭果
+}
+
+{
+	原文=Iapapa Berry
+	译文=芭亚果
+}
+
+{
+	原文=Razz Berry
+	译文=蔓莓果
+}
+
+{
+	原文=Silver Razz Berry
+	译文=银色蔓莓果
+}
+
+{
+	原文=Golden Razz Berry
+	译文=金色蔓莓果
+}
+
+{
+	原文=Bluk Berry
+	译文=墨莓果
+}
+
+{
+	原文=Nanab Berry
+	译文=蕉香果
+}
+
+{
+	原文=Silver Nanab Berry
+	译文=银色蕉香果
+}
+
+{
+	原文=Golden Nanab Berry
+	译文=金色蕉香果
+}
+
+{
+	原文=Wepear Berry
+	译文=西梨果
+}
+
+{
+	原文=Pinap Berry
+	译文=凰梨果
+}
+
+{
+	原文=Silver Pinap Berry
+	译文=银色凰梨果
+}
+
+{
+	原文=Golden Pinap Berry
+	译文=金色凰梨果
+}
+
+{
+	原文=Pomeg Berry
+	译文=榴石果
+}
+
+{
+	原文=Kelpsy Berry
+	译文=藻根果
+}
+
+{
+	原文=Qualot Berry
+	译文=比巴果
+}
+
+{
+	原文=Hondew Berry
+	译文=哈密果
+}
+
+{
+	原文=Grepa Berry
+	译文=萄葡果
+}
+
+{
+	原文=Tamato Berry
+	译文=茄番果
+}
+
+{
+	原文=Cornn Berry
+	译文=玉黍果
+}
+
+{
+	原文=Magost Berry
+	译文=岳竹果
+}
+
+{
+	原文=Rabuta Berry
+	译文=茸丹果
+}
+
+{
+	原文=Nomel Berry
+	译文=檬柠果
+}
+
+{
+	原文=Spelon Berry
+	译文=刺角果
+}
+
+{
+	原文=Pamtre Berry
+	译文=椰木果
+}
+
+{
+	原文=Watmel Berry
+	译文=瓜西果
+}
+
+{
+	原文=Durin Berry
+	译文=金枕果
+}
+
+{
+	原文=Belue Berry
+	译文=靛莓果
+}
+
+{
+	原文=Occa Berry
+	译文=巧可果
+}
+
+{
+	原文=Passho Berry
+	译文=千香果
+}
+
+{
+	原文=Wacan Berry
+	译文=烛木果
+}
+
+{
+	原文=Rindo Berry
+	译文=罗子果
+}
+
+{
+	原文=Yache Berry
+	译文=番荔果
+}
+
+{
+	原文=Chople Berry
+	译文=莲蒲果
+}
+
+{
+	原文=Kebia Berry
+	译文=通通果
+}
+
+{
+	原文=Shuca Berry
+	译文=腰木果
+}
+
+{
+	原文=Coba Berry
+	译文=棱瓜果
+}
+
+{
+	原文=Payapa Berry
+	译文=福禄果
+}
+
+{
+	原文=Tanga Berry
+	译文=扁樱果
+}
+
+{
+	原文=Charti Berry
+	译文=草蚕果
+}
+
+{
+	原文=Kasib Berry
+	译文=佛柑果
+}
+
+{
+	原文=Haban Berry
+	译文=莓榴果
+}
+
+{
+	原文=Colbur Berry
+	译文=刺耳果
+}
+
+{
+	原文=Babiri Berry
+	译文=霹霹果
+}
+
+{
+	原文=Chilan Berry
+	译文=灯浆果
+}
+
+{
+	原文=Liechi Berry
+	译文=枝荔果
+}
+
+{
+	原文=Ganlon Berry
+	译文=龙睛果
+}
+
+{
+	原文=Salac Berry
+	译文=沙鳞果
+}
+
+{
+	原文=Petaya Berry
+	译文=龙火果
+}
+
+{
+	原文=Apicot Berry
+	译文=杏仔果
+}
+
+{
+	原文=Lansat Berry
+	译文=兰萨果
+}
+
+{
+	原文=Starf Berry
+	译文=星桃果
+}
+
+{
+	原文=Pumkin Berry
+	译文=瓜南果
+}
+
+{
+	原文=Drash Berry
+	译文=无青果
+}
+
+{
+	原文=Eggant Berry
+	译文=子茄果
+}
+
+{
+	原文=Strib Berry
+	译文=宛豆果
+}
+
+{
+	原文=Nutpea Berry
+	译文=泥豆果
+}
+
+{
+	原文=Ginema Berry
+	译文=葱首果
+}
+
+{
+	原文=Kuo Berry
+	译文=角豆果
+}
+
+{
+	原文=Yago Berry
+	译文=菩达果
+}
+
+{
+	原文=Touga Berry
+	译文=辛子果
+}
+
+{
+	原文=Niniku Berry
+	译文=蒜蒜果
+}
+
+{
+	原文=Topo Berry
+	译文=薯薯果
+}
+
+{
+	原文=Micle Berry
+	译文=奇秘果
+}
+
+{
+	原文=Custap Berry
+	译文=释陀果
+}
+
+{
+	原文=Jaboca Berry
+	译文=嘉珍果
+}
+
+{
+	原文=Rowap Berry
+	译文=雾莲果
+}
+
+{
+	原文=Roseli Berry
+	译文=洛玫果
+}
+
+{
+	原文=Kee Berry
+	译文=亚开果
+}
+
+{
+	原文=Maranga Berry
+	译文=香罗果
+}
+
+{
+	原文=Hopo Berry
+	译文=花啤果
+}
+
+{
+	原文=Coin Case
+	译文=代币盒
+}
+
+{
+	原文=Dowsing Machine
+	译文=探宝器
+}
+
+{
+	原文=Itemfinder
+	译文=探宝器
+}
+
+{
+	原文=Old Rod
+	译文=破旧钓竿
+}
+
+{
+	原文=Good Rod
+	译文=好钓竿
+}
+
+{
+	原文=Super Rod
+	译文=厉害钓竿
+}
+
+{
+	原文=S.S. Ticket
+	译文=船票
+}
+
+{
+	原文=Parcel
+	译文=包裹
+}
+
+{
+	原文=Poké Flute
+	译文=宝可梦之笛
+}
+
+{
+	原文=Secret Key
+	译文=秘密钥匙
+}
+
+{
+	原文=Bike Voucher
+	译文=兑换券
+}
+
+{
+	原文=Gold Teeth
+	译文=金假牙
+}
+
+{
+	原文=Lift Key
+	译文=电梯钥匙
+}
+
+{
+	原文=Elevator Key
+	译文=null
+}
+
+{
+	原文=Bicycle
+	译文=自行车
+}
+
+{
+	原文=Town Map
+	译文=城镇地图
+}
+
+{
+	原文=Silph Scope
+	译文=西尔佛检视镜
+}
+
+{
+	原文=Card Key
+	译文=钥匙卡
+}
+
+{
+	原文=EXp. Share
+	译文=学习装置
+}
+
+{
+	原文=Escape Rope
+	译文=离洞绳
+}
+
+{
+	原文=PokédeX
+	译文=宝可梦图鉴
+}
+
+{
+	原文=BoulderBadge
+	译文=灰色徽章
+}
+
+{
+	原文=CascadeBadge
+	译文=蓝色徽章
+}
+
+{
+	原文=ThunderBadge
+	译文=橙色徽章
+}
+
+{
+	原文=RainbowBadge
+	译文=彩虹徽章
+}
+
+{
+	原文=SoulBadge
+	译文=粉红徽章
+}
+
+{
+	原文=MarshBadge
+	译文=金色徽章
+}
+
+{
+	原文=VolcanoBadge
+	译文=深红徽章
+}
+
+{
+	原文=EarthBadge
+	译文=绿色徽章
+}
+
+{
+	原文=Pass
+	译文=车票
+}
+
+{
+	原文=Squirtbottle
+	译文=杰尼龟喷壶
+}
+
+{
+	原文=Red Scale
+	译文=红色鳞片
+}
+
+{
+	原文=Lost Item
+	译文=遗失物
+}
+
+{
+	原文=Machine Part
+	译文=机械零件
+}
+
+{
+	原文=Basement Key
+	译文=地下钥匙
+}
+
+{
+	原文=Silver Wing
+	译文=银色之羽
+}
+
+{
+	原文=Rainbow Wing
+	译文=虹色之羽
+}
+
+{
+	原文=Mystery Egg
+	译文=神奇蛋
+}
+
+{
+	原文=Secret Potion
+	译文=秘传之药
+}
+
+{
+	原文=GS Ball
+	译文=GS球
+}
+
+{
+	原文=Egg Ticket
+	译文=宝可梦的蛋兑换券
+}
+
+{
+	原文=Clear Bell
+	译文=透明铃铛
+}
+
+{
+	原文=Blue Card
+	译文=蓝卡
+}
+
+{
+	原文=Mach Bike
+	译文=音速自行车
+}
+
+{
+	原文=Acro Bike
+	译文=越野自行车
+}
+
+{
+	原文=Contest Pass
+	译文=大赛通行证
+}
+
+{
+	原文=Wailmer Pail
+	译文=吼吼鲸喷壶
+}
+
+{
+	原文=Devon Goods
+	译文=得文的物品
+}
+
+{
+	原文=Soot Sack
+	译文=集灰袋
+}
+
+{
+	原文=Pokéblock Case
+	译文=宝可方块盒
+}
+
+{
+	原文=[Po][Ke][BL][OC][K] CASE
+	译文=宝可方块盒
+}
+
+{
+	原文=Letter
+	译文=给大吾的信
+}
+
+{
+	原文=Eon Ticket
+	译文=无限船票
+}
+
+{
+	原文=Scanner
+	译文=探测器
+}
+
+{
+	原文=Go-Goggles
+	译文=GOGO护目镜
+}
+
+{
+	原文=Meteorite
+	译文=陨石
+}
+
+{
+	原文=Rm. 1 Key
+	译文=1号客房的钥匙
+}
+
+{
+	原文=Rm. 2 Key
+	译文=2号客房的钥匙
+}
+
+{
+	原文=Rm. 4 Key
+	译文=4号客房的钥匙
+}
+
+{
+	原文=Rm. 6 Key
+	译文=6号客房的钥匙
+}
+
+{
+	原文=Storage Key
+	译文=仓库钥匙
+}
+
+{
+	原文=Devon Scope
+	译文=得文侦测镜
+}
+
+{
+	原文=Vs. Seeker
+	译文=对战搜寻器
+}
+
+{
+	原文=Vs Seeker
+	译文=对战搜寻器
+}
+
+{
+	原文=Fame Checker
+	译文=声音记录器
+}
+
+{
+	原文=TM Case
+	译文=招式学习器盒
+}
+
+{
+	原文=Berry Pouch
+	译文=树果袋
+}
+
+{
+	原文=Teachy TV
+	译文=教学电视
+}
+
+{
+	原文=Tri-Pass
+	译文=三岛通行证
+}
+
+{
+	原文=Rainbow Pass
+	译文=七岛通行证
+}
+
+{
+	原文=Tea
+	译文=茶
+}
+
+{
+	原文=MysticTicket
+	译文=神秘船票
+}
+
+{
+	原文=AuroraTicket
+	译文=极光船票
+}
+
+{
+	原文=Powder Jar
+	译文=粉末收集瓶
+}
+
+{
+	原文=Ruby
+	译文=红宝石
+}
+
+{
+	原文=Sapphire
+	译文=蓝宝石
+}
+
+{
+	原文=Magma Emblem
+	译文=熔岩标志
+}
+
+{
+	原文=Old Sea Map
+	译文=古航海图
+}
+
+{
+	原文=EXplorer Kit
+	译文=探险套装
+}
+
+{
+	原文=Loot Sack
+	译文=宝物袋
+}
+
+{
+	原文=Rule Book
+	译文=规则书
+}
+
+{
+	原文=Poké Radar
+	译文=宝可追踪
+}
+
+{
+	原文=Point Card
+	译文=点数卡
+}
+
+{
+	原文=Journal
+	译文=冒险笔记
+}
+
+{
+	原文=Seal Case
+	译文=贴纸盒
+}
+
+{
+	原文=Fashion Case
+	译文=饰品盒
+}
+
+{
+	原文=Seal Bag
+	译文=贴纸袋
+}
+
+{
+	原文=Pal Pad
+	译文=朋友手册
+}
+
+{
+	原文=Works Key
+	译文=发电厂钥匙
+}
+
+{
+	原文=Old Charm
+	译文=古代护符
+}
+
+{
+	原文=Galactic Key
+	译文=银河队钥匙
+}
+
+{
+	原文=Red Chain
+	译文=红色锁链
+}
+
+{
+	原文=Sprayduck
+	译文=可达鸭喷壶
+}
+
+{
+	原文=Poffin Case
+	译文=宝芬盒
+}
+
+{
+	原文=Suite Key
+	译文=房间钥匙
+}
+
+{
+	原文=Oak’s Parcel
+	译文=大木的信
+}
+
+{
+	原文=Lunar Wing
+	译文=新月之羽
+}
+
+{
+	原文=Member Card
+	译文=会员卡
+}
+
+{
+	原文=Azure Flute
+	译文=天界之笛
+}
+
+{
+	原文=Magma Stone
+	译文=火山镇石
+}
+
+{
+	原文=Coupon 1
+	译文=兑换券1
+}
+
+{
+	原文=Coupon 2
+	译文=兑换券2
+}
+
+{
+	原文=Coupon 3
+	译文=兑换券3
+}
+
+{
+	原文=Vs. Recorder
+	译文=对战记录器
+}
+
+{
+	原文=Gracidea
+	译文=葛拉西蒂亚花
+}
+
+{
+	原文=Apricorn BoX
+	译文=球果盒
+}
+
+{
+	原文=Unown Report
+	译文=未知图腾笔记
+}
+
+{
+	原文=Berry Pots
+	译文=树果种植盆
+}
+
+{
+	原文=Slowpoke Tail
+	译文=美味尾巴
+}
+
+{
+	原文=Photo Album
+	译文=相册
+}
+
+{
+	原文=GB Sounds
+	译文=GB播放器
+}
+
+{
+	原文=Tidal Bell
+	译文=海声铃铛
+}
+
+{
+	原文=Jade Orb
+	译文=草绿色宝珠
+}
+
+{
+	原文=Lock Capsule
+	译文=上锁的容器
+}
+
+{
+	原文=Enigma Stone
+	译文=谜之水晶
+}
+
+{
+	原文=Xtransceiver
+	译文=即时通讯器
+}
+
+{
+	原文=Dragon Skull
+	译文=龙之骨
+}
+
+{
+	原文=Prop Case
+	译文=物品箱
+}
+
+{
+	原文=Liberty Pass
+	译文=自由船票
+}
+
+{
+	原文=Light Stone
+	译文=光明石
+}
+
+{
+	原文=Dark Stone
+	译文=黑暗石
+}
+
+{
+	原文=God Stone
+	译文=神石
+}
+
+{
+	原文=Gram 1
+	译文=配送物品1
+}
+
+{
+	原文=Gram 2
+	译文=配送物品2
+}
+
+{
+	原文=Gram 3
+	译文=配送物品3
+}
+
+{
+	原文=Medal BoX
+	译文=奖牌盒
+}
+
+{
+	原文=DNA Splicers
+	译文=基因之楔
+}
+
+{
+	原文=Permit
+	译文=许可证
+}
+
+{
+	原文=Oval Charm
+	译文=圆形护符
+}
+
+{
+	原文=Shiny Charm
+	译文=闪耀护符
+}
+
+{
+	原文=Plasma Card
+	译文=等离子卡
+}
+
+{
+	原文=Grubby Hanky
+	译文=脏手帕
+}
+
+{
+	原文=Colress Machine
+	译文=阿克罗玛机器
+}
+
+{
+	原文=Dropped Item
+	译文=遗忘物
+}
+
+{
+	原文=Reveal Glass
+	译文=现形镜
+}
+
+{
+	原文=Holo Caster
+	译文=全息影像通讯器
+}
+
+{
+	原文=Prof’s Letter
+	译文=博士的信
+}
+
+{
+	原文=Roller Skates
+	译文=轮滑鞋
+}
+
+{
+	原文=Sprinklotad
+	译文=莲叶童子喷壶
+}
+
+{
+	原文=Power Plant Pass
+	译文=发电厂通行证
+}
+
+{
+	原文=Mega Ring
+	译文=超级环
+}
+
+{
+	原文=Intriguing Stone
+	译文=似珍石
+}
+
+{
+	原文=Common Stone
+	译文=常见石
+}
+
+{
+	原文=TMV Pass
+	译文=TMV自由票
+}
+
+{
+	原文=Honor of Kalos
+	译文=卡洛斯勋章
+}
+
+{
+	原文=Adventure Rules
+	译文=探险心得
+}
+
+{
+	原文=Lens Case
+	译文=隐形眼镜盒
+}
+
+{
+	原文=Travel Trunk
+	译文=衣物箱
+}
+
+{
+	原文=Looker Ticket
+	译文=帅哥券
+}
+
+{
+	原文=Mega Charm
+	译文=超级坠饰
+}
+
+{
+	原文=Mega Glove
+	译文=超级手套
+}
+
+{
+	原文=Pokéblock Kit
+	译文=宝可方块套装
+}
+
+{
+	原文=Devon Scuba Gear
+	译文=得文潜水装备
+}
+
+{
+	原文=Contest Costume
+	译文=演出礼服
+}
+
+{
+	原文=Magma Suit
+	译文=熔岩装
+}
+
+{
+	原文=Aqua Suit
+	译文=海洋装
+}
+
+{
+	原文=Pair of Tickets
+	译文=双人票
+}
+
+{
+	原文=Mega Bracelet
+	译文=超级手镯
+}
+
+{
+	原文=Mega Cuff
+	译文=超级护腕
+}
+
+{
+	原文=Mega Pendant
+	译文=超级吊坠
+}
+
+{
+	原文=Mega Glasses
+	译文=超级眼镜
+}
+
+{
+	原文=Mega Anchor
+	译文=超级船锚
+}
+
+{
+	原文=Mega Stickpin
+	译文=超级领针
+}
+
+{
+	原文=Mega Tiara
+	译文=超级头冠
+}
+
+{
+	原文=Mega Anklet
+	译文=超级脚镯
+}
+
+{
+	原文=Key Stone
+	译文=钥石
+}
+
+{
+	原文=Meteorite Shard
+	译文=陨石碎片
+}
+
+{
+	原文=Eon Flute
+	译文=无限之笛
+}
+
+{
+	原文=Prison Bottle
+	译文=惩戒之壶
+}
+
+{
+	原文=Makeup Bag
+	译文=化妆包
+}
+
+{
+	原文=Z-Ring
+	译文=Z手环
+}
+
+{
+	原文=Forage Bag
+	译文=材料袋
+}
+
+{
+	原文=Fishing Rod
+	译文=钓竿
+}
+
+{
+	原文=Professor’s Mask
+	译文=博士的面罩
+}
+
+{
+	原文=Sparkling Stone
+	译文=光辉石
+}
+
+{
+	原文=Zygarde Cube
+	译文=基格尔德多面体
+}
+
+{
+	原文=Ride Pager
+	译文=骑行装置
+}
+
+{
+	原文=Sun Flute
+	译文=太阳之笛
+}
+
+{
+	原文=Moon Flute
+	译文=月亮之笛
+}
+
+{
+	原文=Enigmatic Card
+	译文=奇异卡片
+}
+
+{
+	原文=Z-Power Ring
+	译文=Z强力手环
+}
+
+{
+	原文=Pink Petal
+	译文=粉红花瓣
+}
+
+{
+	原文=Orange Petal
+	译文=橙色花瓣
+}
+
+{
+	原文=Blue Petal
+	译文=蓝色花瓣
+}
+
+{
+	原文=Red Petal
+	译文=红色花瓣
+}
+
+{
+	原文=Green Petal
+	译文=绿色花瓣
+}
+
+{
+	原文=Yellow Petal
+	译文=黄色花瓣
+}
+
+{
+	原文=Purple Petal
+	译文=紫色花瓣
+}
+
+{
+	原文=Rainbow Flower
+	译文=虹色之花
+}
+
+{
+	原文=Surge Badge
+	译文=桔色徽章
+}
+
+{
+	原文=N-Solarizer
+	译文=奈克洛索尔合体器
+}
+
+{
+	原文=N-Lunarizer
+	译文=奈克洛露奈合体器
+}
+
+{
+	原文=Ilima’s Normalium Z
+	译文=伊利马的一般Z
+}
+
+{
+	原文=Left Poké Ball
+	译文=留下的精灵球
+}
+
+{
+	原文=Autograph
+	译文=马志士的签名
+}
+
+{
+	原文=Pokémon BoX
+	译文=宝可梦盒
+}
+
+{
+	原文=Medicine Pocket
+	译文=回复口袋
+}
+
+{
+	原文=Candy Jar
+	译文=糖果罐
+}
+
+{
+	原文=Power-Up Pocket
+	译文=强化口袋
+}
+
+{
+	原文=Clothing Trunk
+	译文=换装箱
+}
+
+{
+	原文=Catching Pocket
+	译文=捕捉口袋
+}
+
+{
+	原文=Battle Pocket
+	译文=对战口袋
+}
+
+{
+	原文=Endorsement
+	译文=推荐函
+}
+
+{
+	原文=Wishing Star
+	译文=许愿星
+}
+
+{
+	原文=DynamaX Band
+	译文=极巨腕带
+}
+
+{
+	原文=Rotom Bike
+	译文=洛托姆自行车
+}
+
+{
+	原文=Camping Gear
+	译文=露营组合
+}
+
+{
+	原文=Hi-tech Earbuds
+	译文=厉害耳塞
+}
+
+{
+	原文=Old Letter
+	译文=陈旧的信
+}
+
+{
+	原文=Band Autograph
+	译文=乐队的签名
+}
+
+{
+	原文=Sonia’s Book
+	译文=索妮亚的书
+}
+
+{
+	原文=Rotom Catalog
+	译文=洛托姆型录
+}
+
+{
+	原文=Catching Charm
+	译文=防晃护符
+}
+
+{
+	原文=Armor Pass
+	译文=铠甲车票
+}
+
+{
+	原文=Style Card
+	译文=时尚名人卡
+}
+
+{
+	原文=EXp. Charm
+	译文=经验护符
+}
+
+{
+	原文=Mark Charm
+	译文=证章护符
+}
+
+{
+	原文=Crown Pass
+	译文=王冠车票
+}
+
+{
+	原文=Legendary Clue 1
+	译文=传说笔记1
+}
+
+{
+	原文=Legendary Clue 2
+	译文=传说笔记2
+}
+
+{
+	原文=Legendary Clue 3
+	译文=传说笔记3
+}
+
+{
+	原文=Carrot Seeds
+	译文=萝卜种子
+}
+
+{
+	原文=Iceroot Carrot
+	译文=冰萝卜
+}
+
+{
+	原文=Shaderoot Carrot
+	译文=黑萝卜
+}
+
+{
+	原文=White Mane Hair
+	译文=白色鬃毛
+}
+
+{
+	原文=Black Mane Hair
+	译文=黑色鬃毛
+}
+
+{
+	原文=Wooden Crown
+	译文=木雕王冠
+}
+
+{
+	原文=Radiant Petal
+	译文=光辉花瓣
+}
+
+{
+	原文=Reins of Unity
+	译文=牵绊缰绳
+}
+
+{
+	原文=DS Sounds
+	译文=DS播放器
+}
+
+{
+	原文=Time Balm
+	译文=时之镇宝
+}
+
+{
+	原文=Space Balm
+	译文=空之镇宝
+}
+
+{
+	原文=Mysterious Balm
+	译文=镇宝
+}
+
+{
+	原文=Hometown Muffin
+	译文=家乡玛芬
+}
+
+{
+	原文=Eternal Ice
+	译文=永恒之冰
+}
+
+{
+	原文=UXie’s Claw
+	译文=由克希之爪
+}
+
+{
+	原文=Azelf’s Fang
+	译文=亚克诺姆之牙
+}
+
+{
+	原文=Mesprit’s Plume
+	译文=艾姆利多之翅
+}
+
+{
+	原文=Celestica Flute
+	译文=神阖之笛
+}
+
+{
+	原文=Marsh Balm
+	译文=沼之镇宝
+}
+
+{
+	原文=Forest Balm
+	译文=森之镇宝
+}
+
+{
+	原文=Volcano Balm
+	译文=火山镇宝
+}
+
+{
+	原文=Mountain Balm
+	译文=山之镇宝
+}
+
+{
+	原文=Snow Balm
+	译文=雪之镇宝
+}
+
+{
+	原文=Torn Journal
+	译文=破损日记
+}
+
+{
+	原文=Wall Fragment
+	译文=石板碎块
+}
+
+{
+	原文=Basculegion Food
+	译文=幽尾玄鱼丸
+}
+
+{
+	原文=Old Journal
+	译文=古老日记
+}
+
+{
+	原文=Lost Satchel
+	译文=他人的遗失物
+}
+
+{
+	原文=Origin Ball
+	译文=起源球
+}
+
+{
+	原文=Origin Ore
+	译文=起源矿石
+}
+
+{
+	原文=Blank Plate
+	译文=净空石板
+}
+
+{
+	原文=Crafting Kit
+	译文=工艺套组
+}
+
+{
+	原文=Old Verse 1
+	译文=古老诗文1
+}
+
+{
+	原文=Old Verse 2
+	译文=古老诗文2
+}
+
+{
+	原文=Old Verse 3
+	译文=古老诗文3
+}
+
+{
+	原文=Old Verse 4
+	译文=古老诗文4
+}
+
+{
+	原文=Old Verse 5
+	译文=古老诗文5
+}
+
+{
+	原文=Old Verse 6
+	译文=古老诗文6
+}
+
+{
+	原文=Old Verse 7
+	译文=古老诗文7
+}
+
+{
+	原文=Old Verse 8
+	译文=古老诗文8
+}
+
+{
+	原文=Old Verse 9
+	译文=古老诗文9
+}
+
+{
+	原文=Old Verse 10
+	译文=古老诗文10
+}
+
+{
+	原文=Old Verse 11
+	译文=古老诗文11
+}
+
+{
+	原文=Old Verse 12
+	译文=古老诗文12
+}
+
+{
+	原文=Old Verse 13
+	译文=古老诗文13
+}
+
+{
+	原文=Old Verse 14
+	译文=古老诗文14
+}
+
+{
+	原文=Old Verse 15
+	译文=古老诗文15
+}
+
+{
+	原文=Old Verse 16
+	译文=古老诗文16
+}
+
+{
+	原文=Old Verse 17
+	译文=古老诗文17
+}
+
+{
+	原文=Old Verse 18
+	译文=古老诗文18
+}
+
+{
+	原文=Old Verse 19
+	译文=古老诗文19
+}
+
+{
+	原文=Old Verse 20
+	译文=古老诗文20
+}
+
+{
+	原文=Legend Plate
+	译文=传说石板
+}
+
+{
+	原文=Rotom Phone
+	译文=手机洛托姆
+}
+
+{
+	原文=Sandwich
+	译文=三明治
+}
+
+{
+	原文=Koraidon’s Poké Ball
+	译文=故勒顿的球
+}
+
+{
+	原文=Miraidon’s Poké Ball
+	译文=密勒顿的球
+}
+
+{
+	原文=Tera Orb
+	译文=太晶珠
+}
+
+{
+	原文=Scarlet Book
+	译文=朱之书
+}
+
+{
+	原文=Violet Book
+	译文=紫之书
+}
+
+{
+	原文=Kofu’s Wallet
+	译文=海岱的钱包
+}
+
+{
+	原文=Scroll of Darkness
+	译文=恶之挂轴
+}
+
+{
+	原文=Scroll of Waters
+	译文=水之挂轴
+}
+
+{
+	原文=Roto Hatch
+	译文=孵蛋碰碰
+}
+
+{
+	原文=Roto Bargain
+	译文=优惠碰碰
+}
+
+{
+	原文=Roto Prize Money
+	译文=零花钱碰碰
+}
+
+{
+	原文=Roto EXp. Points
+	译文=经验碰碰
+}
+
+{
+	原文=Roto Friendship
+	译文=亲密碰碰
+}
+
+{
+	原文=Roto Encounter
+	译文=相遇碰碰
+}
+
+{
+	原文=Roto Stealth
+	译文=隐身碰碰
+}
+
+{
+	原文=Roto HP Restore
+	译文=HP回复碰碰
+}
+
+{
+	原文=Roto PP Restore
+	译文=PP回复碰碰
+}
+
+{
+	原文=Roto Boost
+	译文=加油碰碰
+}
+
+{
+	原文=Roto Catch
+	译文=捕捉碰碰
+}
+

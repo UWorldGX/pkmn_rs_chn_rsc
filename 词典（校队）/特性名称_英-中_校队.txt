@@ -1,0 +1,1511 @@
+{
+	词典类型=4
+	忽略大小写=开
+}
+
+
+{
+	原文=Stench
+	译文=恶臭
+}
+
+{
+	原文=Drizzle
+	译文=降雨
+}
+
+{
+	原文=Speed Boost
+	译文=加速
+}
+
+{
+	原文=Battle Armor
+	译文=战斗盔甲
+}
+
+{
+	原文=Sturdy
+	译文=结实
+}
+
+{
+	原文=Damp
+	译文=湿气
+}
+
+{
+	原文=Limber
+	译文=柔软
+}
+
+{
+	原文=Sand Veil
+	译文=沙隐
+}
+
+{
+	原文=Static
+	译文=静电
+}
+
+{
+	原文=Volt Absorb
+	译文=蓄电
+}
+
+{
+	原文=Water Absorb
+	译文=储水
+}
+
+{
+	原文=Oblivious
+	译文=迟钝
+}
+
+{
+	原文=Cloud Nine
+	译文=乐天
+}
+
+{
+	原文=Compound Eyes
+	译文=复眼
+}
+
+{
+	原文=CompoundEyes
+	译文=复眼
+}
+
+{
+	原文=Insomnia
+	译文=不眠
+}
+
+{
+	原文=Color Change
+	译文=变色
+}
+
+{
+	原文=Immunity
+	译文=免疫
+}
+
+{
+	原文=Flash Fire
+	译文=引火
+}
+
+{
+	原文=Shield Dust
+	译文=鳞粉
+}
+
+{
+	原文=Own Tempo
+	译文=我行我素
+}
+
+{
+	原文=Suction Cups
+	译文=吸盘
+}
+
+{
+	原文=Intimidate
+	译文=威吓
+}
+
+{
+	原文=Shadow Tag
+	译文=踩影
+}
+
+{
+	原文=Rough Skin
+	译文=粗糙皮肤
+}
+
+{
+	原文=Wonder Guard
+	译文=神奇守护
+}
+
+{
+	原文=Levitate
+	译文=飘浮
+}
+
+{
+	原文=Effect Spore
+	译文=孢子
+}
+
+{
+	原文=Synchronize
+	译文=同步
+}
+
+{
+	原文=Clear Body
+	译文=恒净之躯
+}
+
+{
+	原文=Natural Cure
+	译文=自然回复
+}
+
+{
+	原文=Lightning Rod
+	译文=避雷针
+}
+
+{
+	原文=LightningRod
+	译文=避雷针
+}
+
+{
+	原文=Serene Grace
+	译文=天恩
+}
+
+{
+	原文=Swift Swim
+	译文=悠游自如
+}
+
+{
+	原文=Chlorophyll
+	译文=叶绿素
+}
+
+{
+	原文=Illuminate
+	译文=发光
+}
+
+{
+	原文=Trace
+	译文=复制
+}
+
+{
+	原文=Huge Power
+	译文=大力士
+}
+
+{
+	原文=Poison Point
+	译文=毒刺
+}
+
+{
+	原文=Inner Focus
+	译文=精神力
+}
+
+{
+	原文=Magma Armor
+	译文=熔岩铠甲
+}
+
+{
+	原文=Water Veil
+	译文=水幕
+}
+
+{
+	原文=Magnet Pull
+	译文=磁力
+}
+
+{
+	原文=Soundproof
+	译文=隔音
+}
+
+{
+	原文=Rain Dish
+	译文=雨盘
+}
+
+{
+	原文=Sand Stream
+	译文=扬沙
+}
+
+{
+	原文=Pressure
+	译文=压迫感
+}
+
+{
+	原文=Thick Fat
+	译文=厚脂肪
+}
+
+{
+	原文=Early Bird
+	译文=早起
+}
+
+{
+	原文=Flame Body
+	译文=火焰之躯
+}
+
+{
+	原文=Run Away
+	译文=逃跑
+}
+
+{
+	原文=Keen Eye
+	译文=锐利目光
+}
+
+{
+	原文=Hyper Cutter
+	译文=怪力钳
+}
+
+{
+	原文=Pickup
+	译文=捡拾
+}
+
+{
+	原文=Truant
+	译文=懒惰
+}
+
+{
+	原文=Hustle
+	译文=活力
+}
+
+{
+	原文=Cute Charm
+	译文=迷人之躯
+}
+
+{
+	原文=Plus
+	译文=正电
+}
+
+{
+	原文=Minus
+	译文=负电
+}
+
+{
+	原文=Forecast
+	译文=阴晴不定
+}
+
+{
+	原文=Sticky Hold
+	译文=黏着
+}
+
+{
+	原文=Shed Skin
+	译文=蜕皮
+}
+
+{
+	原文=Guts
+	译文=毅力
+}
+
+{
+	原文=Marvel Scale
+	译文=神奇鳞片
+}
+
+{
+	原文=Liquid Ooze
+	译文=污泥浆
+}
+
+{
+	原文=Overgrow
+	译文=茂盛
+}
+
+{
+	原文=Blaze
+	译文=猛火
+}
+
+{
+	原文=Torrent
+	译文=激流
+}
+
+{
+	原文=Swarm
+	译文=虫之预感
+}
+
+{
+	原文=Rock Head
+	译文=坚硬脑袋
+}
+
+{
+	原文=Drought
+	译文=日照
+}
+
+{
+	原文=Arena Trap
+	译文=沙穴
+}
+
+{
+	原文=Vital Spirit
+	译文=干劲
+}
+
+{
+	原文=White Smoke
+	译文=白色烟雾
+}
+
+{
+	原文=Pure Power
+	译文=瑜伽之力
+}
+
+{
+	原文=Shell Armor
+	译文=硬壳盔甲
+}
+
+{
+	原文=Cacophony
+	译文=噪音
+}
+
+{
+	原文=Air Lock
+	译文=气闸
+}
+
+{
+	原文=Tangled Feet
+	译文=蹒跚
+}
+
+{
+	原文=Motor Drive
+	译文=电气引擎
+}
+
+{
+	原文=Rivalry
+	译文=斗争心
+}
+
+{
+	原文=Steadfast
+	译文=不屈之心
+}
+
+{
+	原文=Snow Cloak
+	译文=雪隐
+}
+
+{
+	原文=Gluttony
+	译文=贪吃鬼
+}
+
+{
+	原文=Anger Point
+	译文=愤怒穴位
+}
+
+{
+	原文=Unburden
+	译文=轻装
+}
+
+{
+	原文=Heatproof
+	译文=耐热
+}
+
+{
+	原文=Simple
+	译文=单纯
+}
+
+{
+	原文=Dry Skin
+	译文=干燥皮肤
+}
+
+{
+	原文=Download
+	译文=下载
+}
+
+{
+	原文=Iron Fist
+	译文=铁拳
+}
+
+{
+	原文=Poison Heal
+	译文=毒疗
+}
+
+{
+	原文=Adaptability
+	译文=适应力
+}
+
+{
+	原文=Skill Link
+	译文=连续攻击
+}
+
+{
+	原文=Hydration
+	译文=湿润之躯
+}
+
+{
+	原文=Solar Power
+	译文=太阳之力
+}
+
+{
+	原文=Quick Feet
+	译文=飞毛腿
+}
+
+{
+	原文=Normalize
+	译文=一般皮肤
+}
+
+{
+	原文=Sniper
+	译文=狙击手
+}
+
+{
+	原文=Magic Guard
+	译文=魔法防守
+}
+
+{
+	原文=No Guard
+	译文=无防守
+}
+
+{
+	原文=Stall
+	译文=慢出
+}
+
+{
+	原文=Technician
+	译文=技术高手
+}
+
+{
+	原文=Leaf Guard
+	译文=叶子防守
+}
+
+{
+	原文=Klutz
+	译文=笨拙
+}
+
+{
+	原文=Mold Breaker
+	译文=破格
+}
+
+{
+	原文=Super Luck
+	译文=超幸运
+}
+
+{
+	原文=Aftermath
+	译文=引爆
+}
+
+{
+	原文=Anticipation
+	译文=危险预知
+}
+
+{
+	原文=Forewarn
+	译文=预知梦
+}
+
+{
+	原文=Unaware
+	译文=纯朴
+}
+
+{
+	原文=Tinted Lens
+	译文=有色眼镜
+}
+
+{
+	原文=Filter
+	译文=过滤
+}
+
+{
+	原文=Slow Start
+	译文=慢启动
+}
+
+{
+	原文=Scrappy
+	译文=胆量
+}
+
+{
+	原文=Storm Drain
+	译文=引水
+}
+
+{
+	原文=Ice Body
+	译文=冰冻之躯
+}
+
+{
+	原文=Solid Rock
+	译文=坚硬岩石
+}
+
+{
+	原文=Snow Warning
+	译文=降雪
+}
+
+{
+	原文=Honey Gather
+	译文=采蜜
+}
+
+{
+	原文=Frisk
+	译文=察觉
+}
+
+{
+	原文=Reckless
+	译文=舍身
+}
+
+{
+	原文=Multitype
+	译文=多属性
+}
+
+{
+	原文=Flower Gift
+	译文=花之礼
+}
+
+{
+	原文=Bad Dreams
+	译文=梦魇
+}
+
+{
+	原文=Pickpocket
+	译文=顺手牵羊
+}
+
+{
+	原文=Sheer Force
+	译文=强行
+}
+
+{
+	原文=Contrary
+	译文=唱反调
+}
+
+{
+	原文=Unnerve
+	译文=紧张感
+}
+
+{
+	原文=Defiant
+	译文=不服输
+}
+
+{
+	原文=Defeatist
+	译文=软弱
+}
+
+{
+	原文=Cursed Body
+	译文=诅咒之躯
+}
+
+{
+	原文=Healer
+	译文=治愈之心
+}
+
+{
+	原文=Friend Guard
+	译文=友情防守
+}
+
+{
+	原文=Weak Armor
+	译文=碎裂铠甲
+}
+
+{
+	原文=Heavy Metal
+	译文=重金属
+}
+
+{
+	原文=Light Metal
+	译文=轻金属
+}
+
+{
+	原文=Multiscale
+	译文=多重鳞片
+}
+
+{
+	原文=Toxic Boost
+	译文=中毒激升
+}
+
+{
+	原文=Flare Boost
+	译文=受热激升
+}
+
+{
+	原文=Harvest
+	译文=收获
+}
+
+{
+	原文=Telepathy
+	译文=心灵感应
+}
+
+{
+	原文=Moody
+	译文=心情不定
+}
+
+{
+	原文=Overcoat
+	译文=防尘
+}
+
+{
+	原文=Poison Touch
+	译文=毒手
+}
+
+{
+	原文=Regenerator
+	译文=再生力
+}
+
+{
+	原文=Big Pecks
+	译文=健壮胸肌
+}
+
+{
+	原文=Sand Rush
+	译文=拨沙
+}
+
+{
+	原文=Wonder Skin
+	译文=奇迹皮肤
+}
+
+{
+	原文=Analytic
+	译文=分析
+}
+
+{
+	原文=Illusion
+	译文=幻觉
+}
+
+{
+	原文=Imposter
+	译文=变身者
+}
+
+{
+	原文=Infiltrator
+	译文=穿透
+}
+
+{
+	原文=Mummy
+	译文=木乃伊
+}
+
+{
+	原文=Moxie
+	译文=自信过度
+}
+
+{
+	原文=Justified
+	译文=正义之心
+}
+
+{
+	原文=Rattled
+	译文=胆怯
+}
+
+{
+	原文=Magic Bounce
+	译文=魔法镜
+}
+
+{
+	原文=Sap Sipper
+	译文=食草
+}
+
+{
+	原文=Prankster
+	译文=恶作剧之心
+}
+
+{
+	原文=Sand Force
+	译文=沙之力
+}
+
+{
+	原文=Iron Barbs
+	译文=铁刺
+}
+
+{
+	原文=Zen Mode
+	译文=达摩模式
+}
+
+{
+	原文=Victory Star
+	译文=胜利之星
+}
+
+{
+	原文=Turboblaze
+	译文=涡轮火焰
+}
+
+{
+	原文=Teravolt
+	译文=兆级电压
+}
+
+{
+	原文=Aroma Veil
+	译文=芳香幕
+}
+
+{
+	原文=Flower Veil
+	译文=花幕
+}
+
+{
+	原文=Cheek Pouch
+	译文=颊囊
+}
+
+{
+	原文=Protean
+	译文=变幻自如
+}
+
+{
+	原文=Fur Coat
+	译文=毛皮大衣
+}
+
+{
+	原文=Magician
+	译文=魔术师
+}
+
+{
+	原文=Bulletproof
+	译文=防弹
+}
+
+{
+	原文=Competitive
+	译文=好胜
+}
+
+{
+	原文=Strong Jaw
+	译文=强壮之颚
+}
+
+{
+	原文=Refrigerate
+	译文=冰冻皮肤
+}
+
+{
+	原文=Sweet Veil
+	译文=甜幕
+}
+
+{
+	原文=Stance Change
+	译文=战斗切换
+}
+
+{
+	原文=Gale Wings
+	译文=疾风之翼
+}
+
+{
+	原文=Mega Launcher
+	译文=超级发射器
+}
+
+{
+	原文=Grass Pelt
+	译文=草之毛皮
+}
+
+{
+	原文=Symbiosis
+	译文=共生
+}
+
+{
+	原文=Tough Claws
+	译文=硬爪
+}
+
+{
+	原文=Pixilate
+	译文=妖精皮肤
+}
+
+{
+	原文=Gooey
+	译文=黏滑
+}
+
+{
+	原文=Aerilate
+	译文=飞行皮肤
+}
+
+{
+	原文=Parental Bond
+	译文=亲子爱
+}
+
+{
+	原文=Dark Aura
+	译文=暗黑气场
+}
+
+{
+	原文=Fairy Aura
+	译文=妖精气场
+}
+
+{
+	原文=Aura Break
+	译文=气场破坏
+}
+
+{
+	原文=Primordial Sea
+	译文=始源之海
+}
+
+{
+	原文=Desolate Land
+	译文=终结之地
+}
+
+{
+	原文=Delta Stream
+	译文=德尔塔气流
+}
+
+{
+	原文=Stamina
+	译文=持久力
+}
+
+{
+	原文=Wimp Out
+	译文=跃跃欲逃
+}
+
+{
+	原文=Emergency Exit
+	译文=危险回避
+}
+
+{
+	原文=Water Compaction
+	译文=遇水凝固
+}
+
+{
+	原文=Merciless
+	译文=不仁不义
+}
+
+{
+	原文=Shields Down
+	译文=界限盾壳
+}
+
+{
+	原文=Stakeout
+	译文=蹲守
+}
+
+{
+	原文=Water Bubble
+	译文=水泡
+}
+
+{
+	原文=Steelworker
+	译文=钢能力者
+}
+
+{
+	原文=Berserk
+	译文=怒火冲天
+}
+
+{
+	原文=Slush Rush
+	译文=拨雪
+}
+
+{
+	原文=Long Reach
+	译文=远隔
+}
+
+{
+	原文=Liquid Voice
+	译文=湿润之声
+}
+
+{
+	原文=Triage
+	译文=先行治疗
+}
+
+{
+	原文=Galvanize
+	译文=电气皮肤
+}
+
+{
+	原文=Surge Surfer
+	译文=冲浪之尾
+}
+
+{
+	原文=Schooling
+	译文=鱼群
+}
+
+{
+	原文=Disguise
+	译文=画皮
+}
+
+{
+	原文=Battle Bond
+	译文=牵绊变身
+}
+
+{
+	原文=Power Construct
+	译文=群聚变形
+}
+
+{
+	原文=Corrosion
+	译文=腐蚀
+}
+
+{
+	原文=Comatose
+	译文=绝对睡眠
+}
+
+{
+	原文=Queenly Majesty
+	译文=女王的威严
+}
+
+{
+	原文=Innards Out
+	译文=飞出的内在物
+}
+
+{
+	原文=Dancer
+	译文=舞者
+}
+
+{
+	原文=Battery
+	译文=蓄电池
+}
+
+{
+	原文=Fluffy
+	译文=毛茸茸
+}
+
+{
+	原文=Dazzling
+	译文=鲜艳之躯
+}
+
+{
+	原文=Soul-Heart
+	译文=魂心
+}
+
+{
+	原文=Tangling Hair
+	译文=卷发
+}
+
+{
+	原文=Receiver
+	译文=接球手
+}
+
+{
+	原文=Power of Alchemy
+	译文=化学之力
+}
+
+{
+	原文=Beast Boost
+	译文=异兽提升
+}
+
+{
+	原文=RKS System
+	译文=AR系统
+}
+
+{
+	原文=Electric Surge
+	译文=电气制造者
+}
+
+{
+	原文=Psychic Surge
+	译文=精神制造者
+}
+
+{
+	原文=Misty Surge
+	译文=薄雾制造者
+}
+
+{
+	原文=Grassy Surge
+	译文=青草制造者
+}
+
+{
+	原文=Full Metal Body
+	译文=金属防护
+}
+
+{
+	原文=Shadow Shield
+	译文=幻影防守
+}
+
+{
+	原文=Prism Armor
+	译文=棱镜装甲
+}
+
+{
+	原文=Neuroforce
+	译文=脑核之力
+}
+
+{
+	原文=Intrepid Sword
+	译文=不挠之剑
+}
+
+{
+	原文=Dauntless Shield
+	译文=不屈之盾
+}
+
+{
+	原文=Libero
+	译文=自由者
+}
+
+{
+	原文=Ball Fetch
+	译文=捡球
+}
+
+{
+	原文=Cotton Down
+	译文=棉絮
+}
+
+{
+	原文=Propeller Tail
+	译文=螺旋尾鳍
+}
+
+{
+	原文=Mirror Armor
+	译文=镜甲
+}
+
+{
+	原文=Gulp Missile
+	译文=一口导弹
+}
+
+{
+	原文=Stalwart
+	译文=坚毅
+}
+
+{
+	原文=Steam Engine
+	译文=蒸汽机
+}
+
+{
+	原文=Punk Rock
+	译文=庞克摇滚
+}
+
+{
+	原文=Sand Spit
+	译文=吐沙
+}
+
+{
+	原文=Ice Scales
+	译文=冰鳞粉
+}
+
+{
+	原文=Ripen
+	译文=熟成
+}
+
+{
+	原文=Ice Face
+	译文=结冻头
+}
+
+{
+	原文=Power Spot
+	译文=能量点
+}
+
+{
+	原文=Mimicry
+	译文=拟态
+}
+
+{
+	原文=Screen Cleaner
+	译文=除障
+}
+
+{
+	原文=Steely Spirit
+	译文=钢之意志
+}
+
+{
+	原文=Perish Body
+	译文=灭亡之躯
+}
+
+{
+	原文=Wandering Spirit
+	译文=游魂
+}
+
+{
+	原文=Gorilla Tactics
+	译文=一猩一意
+}
+
+{
+	原文=Neutralizing Gas
+	译文=化学变化气体
+}
+
+{
+	原文=Pastel Veil
+	译文=粉彩护幕
+}
+
+{
+	原文=Hunger Switch
+	译文=饱了又饿
+}
+
+{
+	原文=Quick Draw
+	译文=速击
+}
+
+{
+	原文=Unseen Fist
+	译文=无形拳
+}
+
+{
+	原文=Curious Medicine
+	译文=怪药
+}
+
+{
+	原文=Transistor
+	译文=电晶体
+}
+
+{
+	原文=Dragon’s Maw
+	译文=龙颚
+}
+
+{
+	原文=Chilling Neigh
+	译文=苍白嘶鸣
+}
+
+{
+	原文=Grim Neigh
+	译文=漆黑嘶鸣
+}
+
+{
+	原文=As One
+	译文=人马一体
+}
+
+{
+	原文=As One
+	译文=人马一体
+}
+
+{
+	原文=Lingering Aroma
+	译文=甩不掉的气味
+}
+
+{
+	原文=Seed Sower
+	译文=掉出种子
+}
+
+{
+	原文=Thermal Exchange
+	译文=热交换
+}
+
+{
+	原文=Anger Shell
+	译文=愤怒甲壳
+}
+
+{
+	原文=Purifying Salt
+	译文=洁净之盐
+}
+
+{
+	原文=Well-Baked Body
+	译文=焦香之躯
+}
+
+{
+	原文=Wind Rider
+	译文=乘风
+}
+
+{
+	原文=Guard Dog
+	译文=看门犬
+}
+
+{
+	原文=Rocky Payload
+	译文=搬岩
+}
+
+{
+	原文=Wind Power
+	译文=风力发电
+}
+
+{
+	原文=Zero to Hero
+	译文=全能变身
+}
+
+{
+	原文=Commander
+	译文=发号施令
+}
+
+{
+	原文=Electromorphosis
+	译文=电力转换
+}
+
+{
+	原文=Protosynthesis
+	译文=古代活性
+}
+
+{
+	原文=Quark Drive
+	译文=夸克充能
+}
+
+{
+	原文=Good as Gold
+	译文=黄金之躯
+}
+
+{
+	原文=Vessel of Ruin
+	译文=灾祸之鼎
+}
+
+{
+	原文=Sword of Ruin
+	译文=灾祸之剑
+}
+
+{
+	原文=Tablets of Ruin
+	译文=灾祸之简
+}
+
+{
+	原文=Beads of Ruin
+	译文=灾祸之玉
+}
+
+{
+	原文=Orichalcum Pulse
+	译文=绯红脉动
+}
+
+{
+	原文=Hadron Engine
+	译文=强子引擎
+}
+
+{
+	原文=Opportunist
+	译文=跟风
+}
+
+{
+	原文=Cud Chew
+	译文=反刍
+}
+
+{
+	原文=Sharpness
+	译文=锋锐
+}
+
+{
+	原文=Supreme Overlord
+	译文=大将
+}
+
+{
+	原文=Costar
+	译文=同台共演
+}
+
+{
+	原文=Toxic Debris
+	译文=毒满地
+}
+
+{
+	原文=Armor Tail
+	译文=尾甲
+}
+
+{
+	原文=Earth Eater
+	译文=食土
+}
+
+{
+	原文=Mycelium Might
+	译文=菌丝之力
+}
+
